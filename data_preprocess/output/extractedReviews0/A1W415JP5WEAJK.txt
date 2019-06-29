@@ -1,0 +1,807 @@
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "low.They", "time": 1405641600, "opinion": "running", "productID": "B00DFN03KQ"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "home", "time": 1405641600, "opinion": "bring", "productID": "B00DFN03KQ"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cell phone", "time": 1405641600, "opinion": "charge", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "tablet", "time": 1405641600, "opinion": "charge", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "port charger", "time": 1405641600, "opinion": "dual", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1405641600, "opinion": "free", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1405641600, "opinion": "test", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1405641600, "opinion": "unplugged", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1405641600, "opinion": "received", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "review", "time": 1405641600, "opinion": "produce", "productID": "B00FIWC5DK"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "review", "time": 1405641600, "opinion": "unbiased", "productID": "B00FIWC5DK"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1402444800, "opinion": "perfect", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "leather", "time": 1402444800, "opinion": "wonderful", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fact", "time": 1402444800, "opinion": "love", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "them.I", "time": 1402444800, "opinion": "convenient", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1402444800, "opinion": "received", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1402444800, "opinion": "complimentary", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "side", "time": 1402444800, "opinion": "back", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fact", "time": 1402444800, "opinion": "enjoy", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "them.I", "time": 1402444800, "opinion": "making", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "laptop :--RRB-", "time": 1402444800, "opinion": "hold", "productID": "B00IMXXTHI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car", "time": 1401062400, "opinion": "electric", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "end", "time": 1401062400, "opinion": "micro", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "LED bulb", "time": 1401062400, "opinion": "tiny", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pin", "time": 1401062400, "opinion": "micro", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1401062400, "opinion": "micro", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1401062400, "opinion": "light", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1401062400, "opinion": "blue", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1401062400, "opinion": "complimentary", "productID": "B00IKEVZSO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "3AC plug", "time": 1401062400, "opinion": "stable", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "plug", "time": 1401062400, "opinion": "plastic", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "ground spot", "time": 1401062400, "opinion": "lower", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1401062400, "opinion": "handy", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "level", "time": 1401062400, "opinion": "counter", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1401062400, "opinion": "place", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "GFCI plug", "time": 1401062400, "opinion": "not fit", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1401062400, "opinion": "charge", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "tablet", "time": 1401062400, "opinion": "charge", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1401062400, "opinion": "complimentary", "productID": "B00JS7XKX0"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1401062400, "opinion": "received", "productID": "B00JS7XKX0"}
+{"overall": 1.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400716800, "opinion": "complimentary", "productID": "B00J8NPGZ4"}
+{"overall": 1.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400716800, "opinion": "received", "productID": "B00J8NPGZ4"}
+{"overall": 1.0, "userID": "A1W415JP5WEAJK", "feature": "heat", "time": 1400716800, "opinion": "producing", "productID": "B00J8NPGZ4"}
+{"overall": 1.0, "userID": "A1W415JP5WEAJK", "feature": "heat", "time": 1400716800, "opinion": "buried", "productID": "B00J8NPGZ4"}
+{"overall": 1.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1400716800, "opinion": "n't charging", "productID": "B00J8NPGZ4"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "issue case", "time": 1400544000, "opinion": "small", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "issue case", "time": 1400544000, "opinion": "Physical", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "plastic", "time": 1400544000, "opinion": "cheap", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "grip", "time": 1400544000, "opinion": "nice", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1400544000, "opinion": "full", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1400544000, "opinion": "charging", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "Battery strength", "time": 1400544000, "opinion": "warm", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "notice", "time": 1400544000, "opinion": "DID", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1400544000, "opinion": "full", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "space", "time": 1400544000, "opinion": "limited", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1400544000, "opinion": "converts", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "adapter", "time": 1400544000, "opinion": "mini", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "space", "time": 1400544000, "opinion": "limited", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1400544000, "opinion": "micro", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1400544000, "opinion": "USB", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charge station", "time": 1400544000, "opinion": "USB", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "plug", "time": 1400544000, "opinion": "requiring", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charge station", "time": 1400544000, "opinion": "worked", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "phone while/before", "time": 1400544000, "opinion": "charged", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1400544000, "opinion": "charging", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400544000, "opinion": "complimentary", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1400544000, "opinion": "finished", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "battery.I", "time": 1400544000, "opinion": "pleased", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400544000, "opinion": "received", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "Everything", "time": 1400544000, "opinion": "easy", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "Everything", "time": 1400544000, "opinion": "accessible", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "selection", "time": 1400544000, "opinion": "nice", "productID": "B00EUUDUKI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "stylus", "time": 1400457600, "opinion": "traditional", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "hole", "time": 1400457600, "opinion": "small", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400457600, "opinion": "complimentary", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400457600, "opinion": "received", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "fan", "time": 1400457600, "opinion": "huge", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "plug", "time": 1400457600, "opinion": "tiny", "productID": "B007R29HVC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "convenience", "time": 1400457600, "opinion": "loves", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fit", "time": 1400457600, "opinion": "perfect", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "end", "time": 1400457600, "opinion": "Capacitive", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400457600, "opinion": "complimentary", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1400457600, "opinion": "received", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "thing", "time": 1400457600, "opinion": "pleased", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pen", "time": 1400457600, "opinion": "comfortable", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "stylus", "time": 1400457600, "opinion": "comfortable", "productID": "B00EVF3FCU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "headset headphone.First", "time": 1399939200, "opinion": "reviewing", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "headset headphone.First", "time": 1399939200, "opinion": "over-ear", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "it.Second", "time": 1399939200, "opinion": "recognized", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sound", "time": 1399939200, "opinion": "ears.The", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "loss", "time": 1399939200, "opinion": "slight", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1399939200, "opinion": "multipurpose", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "headphone", "time": 1399939200, "opinion": "slipped", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1399939200, "opinion": "easy", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "signal", "time": 1399939200, "opinion": "losing", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "call", "time": 1399939200, "opinion": "accept", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "headphone", "time": 1399939200, "opinion": "put", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "time", "time": 1399939200, "opinion": "standby", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "limits.While", "time": 1399939200, "opinion": "acceptable", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "time", "time": 1399939200, "opinion": "talk", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "voice", "time": 1399939200, "opinion": "picking", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "headphone", "time": 1399939200, "opinion": "nice", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "set", "time": 1399939200, "opinion": "complimentary", "productID": "B00ELCP55I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "understatement", "time": 1399420800, "opinion": "HUGE", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "techie", "time": 1399420800, "opinion": "huge", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fashion statement", "time": 1399420800, "opinion": "makes", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fashion statement", "time": 1399420800, "opinion": "huge", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "music", "time": 1399420800, "opinion": "playing", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "meditation", "time": 1399420800, "opinion": "enjoy", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1399420800, "opinion": "single", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "BlackDiamond", "time": 1399420800, "opinion": "set", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sound", "time": 1399420800, "opinion": "good", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1399420800, "opinion": "free", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1399420800, "opinion": "received", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wake", "time": 1399420800, "opinion": "announce", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1399420800, "opinion": "USB", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feature", "time": 1399420800, "opinion": "wake-up", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gift", "time": 1399420800, "opinion": "beautiful", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gift", "time": 1399420800, "opinion": "make", "productID": "B00JFGIVVA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "spot", "time": 1395446400, "opinion": "hot", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1395446400, "opinion": "run", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "max.One", "time": 1395446400, "opinion": "normal", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1395446400, "opinion": "standard", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1395446400, "opinion": "charge", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1395446400, "opinion": "micro", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gold version", "time": 1395446400, "opinion": "love", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cover", "time": 1395446400, "opinion": "protective", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "class", "time": 1395446400, "opinion": "extra", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "class", "time": 1395446400, "opinion": "glitters", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "screen", "time": 1395446400, "opinion": "live", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1395446400, "opinion": "complimentary", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "glitter", "time": 1395446400, "opinion": "obvious", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "alternative", "time": 1395446400, "opinion": "attractive", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "length", "time": 1392768000, "opinion": "supports", "productID": "B00GV0RIF8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "top", "time": 1392768000, "opinion": "reach", "productID": "B00GV0RIF8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "length", "time": 1392768000, "opinion": "wonderful", "productID": "B00GV0RIF8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392768000, "opinion": "complimentary", "productID": "B00GV0RIF8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392768000, "opinion": "received", "productID": "B00GV0RIF8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "products.Do", "time": 1392768000, "opinion": "similar", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "price", "time": 1392768000, "opinion": "full", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "price", "time": 1392768000, "opinion": "comparable", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car charger", "time": 1392768000, "opinion": "buying", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1392768000, "opinion": "reviewing", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1392768000, "opinion": "sufficient", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392768000, "opinion": "complimentary", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "tablet", "time": 1392768000, "opinion": "charge", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392768000, "opinion": "received", "productID": "B00H269OCA"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "option", "time": 1392595200, "opinion": "wonderful", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fingernail", "time": 1392595200, "opinion": "slip", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "weight", "time": 1392595200, "opinion": "add", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bit", "time": 1392595200, "opinion": "add", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "dongle", "time": 1392595200, "opinion": "add", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feel", "time": 1392595200, "opinion": "textured", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "addition", "time": 1392595200, "opinion": "nice", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1392595200, "opinion": "places", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1392595200, "opinion": "charges", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1392595200, "opinion": "micro", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392595200, "opinion": "complimentary", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "well.I", "time": 1392595200, "opinion": "holds", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "treatment", "time": 1392595200, "opinion": "rough", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392595200, "opinion": "received", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "addition", "time": 1392336000, "opinion": "perfect", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "earpiece", "time": 1392336000, "opinion": "Bluetooth", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392336000, "opinion": "complimentary", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392336000, "opinion": "impressed", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1392336000, "opinion": "perfect", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1392336000, "opinion": "received", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "information", "time": 1392336000, "opinion": "important", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "screen", "time": 1392336000, "opinion": "cover", "productID": "B00FYVBO5U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1391731200, "opinion": "not have", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1391731200, "opinion": "lose", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "year", "time": 1391731200, "opinion": "Last", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "ice storm", "time": 1391731200, "opinion": "major", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1391731200, "opinion": "made", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "internet", "time": 1391731200, "opinion": "made", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1391731200, "opinion": "bright", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "stuff", "time": 1391731200, "opinion": "electrical", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1391731200, "opinion": "n't seem", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1391299200, "opinion": "complimentary", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "resistance problem", "time": 1391299200, "opinion": "encountered", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "success.I", "time": 1391299200, "opinion": "great", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1391299200, "opinion": "receiving", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cover", "time": 1391299200, "opinion": "n't like", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "selection", "time": 1391299200, "opinion": "tuck", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pen", "time": 1391299200, "opinion": "tuck", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "selection", "time": 1391299200, "opinion": "carry", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "selection", "time": 1391299200, "opinion": "nice", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "selection", "time": 1391299200, "opinion": "easily.Very", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pen", "time": 1391299200, "opinion": "carry", "productID": "B009SFX18Q"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "stand", "time": 1390176000, "opinion": "stable", "productID": "B00HHEAMXC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1390176000, "opinion": "complimentary", "productID": "B00HHEAMXC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "stand.It", "time": 1390176000, "opinion": "nice", "productID": "B00HHEAMXC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "coating", "time": 1388188800, "opinion": "basic", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "coating", "time": 1388188800, "opinion": "rubbery", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1388188800, "opinion": "top", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "piece", "time": 1388188800, "opinion": "hard", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "place.The portion", "time": 1388188800, "opinion": "rubbery", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "piece", "time": 1388188800, "opinion": "outer", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "license", "time": 1388188800, "opinion": "slip", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "area", "time": 1388188800, "opinion": "raised", "productID": "B00ESJGILE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "impact", "time": 1388188800, "opinion": "protective", "productID": "B00ESJGILE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1388188800, "opinion": "USB", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "mat", "time": 1388188800, "opinion": "alive", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1388188800, "opinion": "charge", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "correctly.The mat", "time": 1388188800, "opinion": "not lining", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1388188800, "opinion": "micro", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1388188800, "opinion": "charge", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1388188800, "opinion": "n't have", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1388188800, "opinion": "USB", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1388188800, "opinion": "micro", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "line", "time": 1388188800, "opinion": "external", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bottom", "time": 1388188800, "opinion": "hanging", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "dongle", "time": 1388188800, "opinion": "slipping", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1388188800, "opinion": "complimentary", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1388188800, "opinion": "supplied", "productID": "B00GBFQWEG"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "innie", "time": 1387152000, "opinion": "changing", "productID": "B00GB39KDS"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "set", "time": 1387152000, "opinion": "complimentary", "productID": "B00GB39KDS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "lightning port.While", "time": 1386720000, "opinion": "USB", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1386720000, "opinion": "nice", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1386720000, "opinion": "USB", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1386720000, "opinion": "enters", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1386720000, "opinion": "received", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1386720000, "opinion": "complimentary", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "lightning port.While", "time": 1386720000, "opinion": "enters", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sound", "time": 1385424000, "opinion": "minimized", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1385424000, "opinion": "not answering", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "call", "time": 1385424000, "opinion": "hang", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "controller", "time": 1385424000, "opinion": "difficult", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "controller", "time": 1385424000, "opinion": "multi", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "listening", "time": 1385424000, "opinion": "easy", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "song", "time": 1385424000, "opinion": "n't skip", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "volume", "time": 1385424000, "opinion": "turn", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sound", "time": 1385424000, "opinion": "great", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bass sound", "time": 1385424000, "opinion": "heavy", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sound", "time": 1385424000, "opinion": "clear", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "to.A", "time": 1385424000, "opinion": "listen", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1385424000, "opinion": "complimentary", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1385424000, "opinion": "received", "productID": "B00ETH7ERM"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "lot", "time": 1385078400, "opinion": "tested", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "packaging", "time": 1385078400, "opinion": "nice", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1385078400, "opinion": "complimentary", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "touch", "time": 1385078400, "opinion": "nice", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1385078400, "opinion": "received", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1385078400, "opinion": "keeping", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1385078400, "opinion": "gave", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1385078400, "opinion": "current", "productID": "B00DSGXM3K"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1385078400, "opinion": "free", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1385078400, "opinion": "answer", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "aging congregation", "time": 1385078400, "opinion": "serves", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1385078400, "opinion": "n't need", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sense", "time": 1385078400, "opinion": "perfect", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fee", "time": 1385078400, "opinion": "monthly", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bit", "time": 1385078400, "opinion": "providing", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fun", "time": 1385078400, "opinion": "feel", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "volume", "time": 1385078400, "opinion": "control", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "door", "time": 1385078400, "opinion": "closed", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "enclosure", "time": 1385078400, "opinion": "tub/shower", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "safety device", "time": 1385078400, "opinion": "great", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pleasure.If", "time": 1385078400, "opinion": "real", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "speaker phone", "time": 1385078400, "opinion": "grateful", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "speaker phone", "time": 1385078400, "opinion": "super", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1385078400, "opinion": "nice", "productID": "B00DV1KFBY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "time", "time": 1385078400, "opinion": "n't have", "productID": "B00GNVEY0W"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "outlet", "time": 1385078400, "opinion": "USB", "productID": "B00GNVEY0W"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "chance", "time": 1385078400, "opinion": "offered", "productID": "B00GNVEY0W"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "NOT charge", "time": 1385078400, "opinion": "belong", "productID": "B00GNVEY0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "company", "time": 1384992000, "opinion": "easy", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1384992000, "opinion": "correct", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "couple", "time": 1384992000, "opinion": "spend", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "NOT", "time": 1384992000, "opinion": "Imagine", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "BUBBLE!So", "time": 1384992000, "opinion": "SINGLE", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "number", "time": 1384992000, "opinion": "test", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "finger", "time": 1384992000, "opinion": "recognize", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "shock", "time": 1384992000, "opinion": "Imagine", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "hesitation", "time": 1384992000, "opinion": "tiniest", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "film", "time": 1384992000, "opinion": "fingerprint-free", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "side", "time": 1384992000, "opinion": "fit", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "purpose side", "time": 1384992000, "opinion": "not fitting", "productID": "B004Y0R9DI"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "fit", "time": 1384992000, "opinion": "covers", "productID": "B004Y0R9DI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "boost", "time": 1384992000, "opinion": "n't give", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1384992000, "opinion": "n't mean", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "couple", "time": 1384992000, "opinion": "add", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1384992000, "opinion": "awesome", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feature", "time": 1384992000, "opinion": "great", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "light", "time": 1384992000, "opinion": "bright", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1384992000, "opinion": "charge", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1384992000, "opinion": "small", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feature", "time": 1384992000, "opinion": "favorite", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1384992000, "opinion": "small", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1384992000, "opinion": "fit", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord.But", "time": 1384992000, "opinion": "n't need", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "progress", "time": 1384992000, "opinion": "monitor", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gift", "time": 1384992000, "opinion": "great", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gift", "time": 1384992000, "opinion": "make", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1384992000, "opinion": "small", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gift packaging", "time": 1384992000, "opinion": "small", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "connection", "time": 1384992000, "opinion": "micro", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1384992000, "opinion": "correct", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "gift packaging", "time": 1384992000, "opinion": "nice", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1384992000, "opinion": "provide", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "OR", "time": 1384992000, "opinion": "charge", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1384992000, "opinion": "charge", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1384992000, "opinion": "love", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1384992000, "opinion": "USB", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "shape", "time": 1384992000, "opinion": "convenient", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "shape", "time": 1384992000, "opinion": "love", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1384992000, "opinion": "extra", "productID": "B00GAVCNZI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "usb cord", "time": 1384560000, "opinion": "micro", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1384560000, "opinion": "charge", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1384560000, "opinion": "left", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1384560000, "opinion": "plug", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "stars.You", "time": 1384560000, "opinion": "gave", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "slot", "time": 1384560000, "opinion": "USB", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1384560000, "opinion": "charge", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1384560000, "opinion": "normal", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1384560000, "opinion": "charge", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "speed.Cute", "time": 1384560000, "opinion": "support", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1384560000, "opinion": "complimentary", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "speed.Cute", "time": 1384560000, "opinion": "higher", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1384560000, "opinion": "provided", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "snow", "time": 1384560000, "opinion": "cold", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1384560000, "opinion": "find", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery pack", "time": 1384560000, "opinion": "perfect", "productID": "B00F8P288Y"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "ports.What", "time": 1382918400, "opinion": "USB", "productID": "B00F7ALJTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "stripe", "time": 1382918400, "opinion": "blue", "productID": "B00F7ALJTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "FULL power", "time": 1382918400, "opinion": "receive", "productID": "B00F7ALJTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "APP", "time": 1382918400, "opinion": "marked", "productID": "B00F7ALJTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1382918400, "opinion": "complimentary", "productID": "B00F7ALJTY"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "Car", "time": 1382918400, "opinion": "USB", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1382918400, "opinion": "not have", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "description", "time": 1382918400, "opinion": "read", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "part", "time": 1382918400, "opinion": "confusing", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "UNI", "time": 1382918400, "opinion": "Universal", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sense", "time": 1382918400, "opinion": "makes", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "output voltage", "time": 1382918400, "opinion": "total", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1382918400, "opinion": "nice", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "output", "time": 1382918400, "opinion": "total", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1382918400, "opinion": "complimentary", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charging.I", "time": 1382918400, "opinion": "fast", "productID": "B00F7CW1BC"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1382918400, "opinion": "received", "productID": "B00F7CW1BC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1380931200, "opinion": "smaller", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1380931200, "opinion": "effective", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "%", "time": 1380931200, "opinion": "n't count", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1380931200, "opinion": "charge", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1380931200, "opinion": "contemporary", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "so.I", "time": 1380931200, "opinion": "not certain", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "mAh.I", "time": 1380931200, "opinion": "make", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1380931200, "opinion": "iPad.Physical", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1380931200, "opinion": "charge", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "transfer ratio", "time": 1380931200, "opinion": "effective", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1380931200, "opinion": "charging", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "Amp", "time": 1380931200, "opinion": "capable", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1380931200, "opinion": "powerful", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1380931200, "opinion": "micro", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1380931200, "opinion": "standard", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380931200, "opinion": "USB", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1380931200, "opinion": "takes", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bit", "time": 1380931200, "opinion": "heavy", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380931200, "opinion": "micro", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1380931200, "opinion": "powerful", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "emergency battery", "time": 1380931200, "opinion": "making", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "emergency battery", "time": 1380931200, "opinion": "great", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380931200, "opinion": "micro", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bit", "time": 1380931200, "opinion": "small", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "support information", "time": 1380931200, "opinion": "not locate", "productID": "B00ELVA6F8"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "room", "time": 1380844800, "opinion": "single", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1380844800, "opinion": "sufficient", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pace", "time": 1380844800, "opinion": "slower", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1380844800, "opinion": "full", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "thing.I someone", "time": 1380844800, "opinion": "good", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380844800, "opinion": "puts", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "thing", "time": 1380844800, "opinion": "good", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "end charger", "time": 1380844800, "opinion": "high", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "certification", "time": 1380844800, "opinion": "not certain", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "light", "time": 1380844800, "opinion": "LED", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380844800, "opinion": "complimentary", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380844800, "opinion": "USB", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1380844800, "opinion": "narrow", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380844800, "opinion": "offered", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380844800, "opinion": "pick", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "store", "time": 1380844800, "opinion": "local", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "output", "time": 1380844800, "opinion": "total", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "deal", "time": 1380844800, "opinion": "good", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "review", "time": 1380844800, "opinion": "writing", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380844800, "opinion": "complimentary", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "review", "time": 1380844800, "opinion": "provide", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380844800, "opinion": "received", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1380585600, "opinion": "upgrade", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone.This", "time": 1380585600, "opinion": "cute", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "testing", "time": 1380585600, "opinion": "military", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "testing", "time": 1380585600, "opinion": "undergone", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1380585600, "opinion": "allowing", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1380585600, "opinion": "well-made", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1380585600, "opinion": "sturdy", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "bill", "time": 1380585600, "opinion": "fills", "productID": "B0093IHXVE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1380585600, "opinion": "extra-sturdy", "productID": "B0093IHXVE"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380326400, "opinion": "powerful", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "purpose", "time": 1380326400, "opinion": "specific", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1380326400, "opinion": "charging", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380326400, "opinion": "rapid", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380326400, "opinion": "excellent", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1380326400, "opinion": "correct", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380326400, "opinion": "perfect", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1380326400, "opinion": "handy", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "number", "time": 1380326400, "opinion": "spent", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "outlet", "time": 1380326400, "opinion": "located", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "outlet", "time": 1380326400, "opinion": "single", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1380326400, "opinion": "receiving", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "outlet", "time": 1380326400, "opinion": "covering", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1380326400, "opinion": "nice", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fact", "time": 1380326400, "opinion": "appreciated", "productID": "B00D6Q5Z7I"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "kind", "time": 1380326400, "opinion": "experienced", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sturdiness", "time": 1380326400, "opinion": "love", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feel", "time": 1380326400, "opinion": "love", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "review", "time": 1380326400, "opinion": "received", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380326400, "opinion": "complimentary", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1380326400, "opinion": "test", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "consumer", "time": 1380326400, "opinion": "satisfied", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380326400, "opinion": "received", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380240000, "opinion": "complimentary", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1380240000, "opinion": "offered", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power outage", "time": 1380240000, "opinion": "recent", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1380240000, "opinion": "find", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "premium", "time": 1380240000, "opinion": "paying", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1380240000, "opinion": "easy", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380240000, "opinion": "send", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380240000, "opinion": "single", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380240000, "opinion": "micro", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "Amp", "time": 1380240000, "opinion": "single", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "outages.Here", "time": 1380240000, "opinion": "extra", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1380240000, "opinion": "marked.Physical", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380240000, "opinion": "included", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380240000, "opinion": "micro", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "source", "time": 1380240000, "opinion": "provide", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380240000, "opinion": "single", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1380240000, "opinion": "micro", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "light", "time": 1380240000, "opinion": "extra", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1380240000, "opinion": "led", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feeling", "time": 1380240000, "opinion": "white", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "feeling", "time": 1380240000, "opinion": "soft", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "font", "time": 1380240000, "opinion": "small", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "code", "time": 1380240000, "opinion": "scan", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "level", "time": 1380240000, "opinion": "offers", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1380240000, "opinion": "offered", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "note", "time": 1380240000, "opinion": "support.Special", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "precaution", "time": 1380240000, "opinion": "final", "productID": "B00DOMKBJG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "DC5V input", "time": 1380067200, "opinion": "requiring", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380067200, "opinion": "tablet", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger cable", "time": 1380067200, "opinion": "micro", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1380067200, "opinion": "pack.Physical", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger cable", "time": 1380067200, "opinion": "micro", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger cable", "time": 1380067200, "opinion": "single", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380067200, "opinion": "micro", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1380067200, "opinion": "on/off", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1380067200, "opinion": "clicking", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable.What", "time": 1380067200, "opinion": "provide", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "mesh bag", "time": 1380067200, "opinion": "handy", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "touch", "time": 1380067200, "opinion": "nice", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "support information", "time": 1380067200, "opinion": "make", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1380067200, "opinion": "full", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "seal", "time": 1380067200, "opinion": "iFlash", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1380067200, "opinion": "hold", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "item", "time": 1380067200, "opinion": "iFlash", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "box", "time": 1380067200, "opinion": "beautiful", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380067200, "opinion": "complimentary", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380067200, "opinion": "received", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1380067200, "opinion": "Charging", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "DC5V input", "time": 1380067200, "opinion": "requiring", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380067200, "opinion": "tablet", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger cable", "time": 1380067200, "opinion": "micro", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1380067200, "opinion": "pack.Physical", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger cable", "time": 1380067200, "opinion": "micro", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger cable", "time": 1380067200, "opinion": "single", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1380067200, "opinion": "micro", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1380067200, "opinion": "on/off", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1380067200, "opinion": "clicking", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable.What", "time": 1380067200, "opinion": "provide", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "mesh bag", "time": 1380067200, "opinion": "handy", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "touch", "time": 1380067200, "opinion": "nice", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "support information", "time": 1380067200, "opinion": "make", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1380067200, "opinion": "full", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "seal", "time": 1380067200, "opinion": "iFlash", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1380067200, "opinion": "hold", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "item", "time": 1380067200, "opinion": "iFlash", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "box", "time": 1380067200, "opinion": "beautiful", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380067200, "opinion": "complimentary", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1380067200, "opinion": "received", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1379980800, "opinion": "charging", "productID": "B00BE6928U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1379980800, "opinion": "long", "productID": "B00BE6928U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "foot", "time": 1379980800, "opinion": "full", "productID": "B00BE6928U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1379894400, "opinion": "complimentary", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "concept", "time": 1379894400, "opinion": "love", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1379894400, "opinion": "send", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1379894400, "opinion": "accept", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "daughter", "time": 1379894400, "opinion": "convince", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "video", "time": 1379894400, "opinion": "showed", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "me.And", "time": 1379894400, "opinion": "watched", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1379894400, "opinion": "put", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "side", "time": 1379894400, "opinion": "peeled", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cover!Let", "time": 1379894400, "opinion": "perfect", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "hardness", "time": 1379894400, "opinion": "test", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "nature", "time": 1379894400, "opinion": "waterproof", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "nature", "time": 1379894400, "opinion": "test", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1379894400, "opinion": "unlocked", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fact", "time": 1379894400, "opinion": "include", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "issue", "time": 1379894400, "opinion": "small", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1379894400, "opinion": "fitting", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1379894400, "opinion": "snug", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "home button", "time": 1379894400, "opinion": "cover", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1379894400, "opinion": "actual", "productID": "B00DVPEWUU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "found", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pocket", "time": 1378512000, "opinion": "top", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1378512000, "opinion": "grabbing", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "grabbing", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1378512000, "opinion": "squeezing", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1378512000, "opinion": "squeeze", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "license", "time": 1378512000, "opinion": "keeping", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "door", "time": 1378512000, "opinion": "pop", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "real", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "carry", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "replace", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "change", "time": 1378512000, "opinion": "n't carry", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "area", "time": 1378512000, "opinion": "not cover", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pocket", "time": 1378512000, "opinion": "magnetic", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "front pocket", "time": 1378512000, "opinion": "making", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "access", "time": 1378512000, "opinion": "needed", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "camera", "time": 1378512000, "opinion": "back", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "front pocket", "time": 1378512000, "opinion": "functional.The", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "extender", "time": 1378512000, "opinion": "required", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1378512000, "opinion": "check", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "thickness", "time": 1378512000, "opinion": "accept", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "holding", "time": 1378512000, "opinion": "n't feel", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "thickness", "time": 1378512000, "opinion": "slight", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "dock", "time": 1378512000, "opinion": "check", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "lose", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "thing", "time": 1378512000, "opinion": "worrying", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "around.The", "time": 1378512000, "opinion": "running", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1378512000, "opinion": "complimentary", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "replaced", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "price", "time": 1378512000, "opinion": "small", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wallet", "time": 1378512000, "opinion": "regular", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1378512000, "opinion": "received", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1378512000, "opinion": "quick", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1378512000, "opinion": "easy", "productID": "B009EEEBJY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1375315200, "opinion": "complimentary", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1375315200, "opinion": "received", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "documentation", "time": 1375315200, "opinion": "read", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "maximum", "time": 1375315200, "opinion": "charge", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "hour trip", "time": 1375315200, "opinion": "make", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sharing option", "time": 1375315200, "opinion": "private", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "usage", "time": 1375315200, "opinion": "high", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "drain", "time": 1375315200, "opinion": "huge", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "usage", "time": 1375315200, "opinion": "heavy", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "% charge", "time": 1375315200, "opinion": "constant", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cell phone", "time": 1375315200, "opinion": "keeping", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sharing", "time": 1375315200, "opinion": "turned", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "circuitry", "time": 1375315200, "opinion": "test", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "usage.While", "time": 1375315200, "opinion": "heavy", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "desk", "time": 1374537600, "opinion": "comfortable", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone/pad", "time": 1374537600, "opinion": "charge", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "IOS device", "time": 1374537600, "opinion": "USB", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1374537600, "opinion": "USB", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad cord", "time": 1374537600, "opinion": "original", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "plastic", "time": 1374537600, "opinion": "sturdier", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "time", "time": 1374537600, "opinion": "separated.Only", "productID": "B00A8NP4LY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1373673600, "opinion": "handy", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1373673600, "opinion": "tether", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car charger", "time": 1373673600, "opinion": "transferring", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "difference", "time": 1373673600, "opinion": "makes", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "difference", "time": 1373673600, "opinion": "huge", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "connectors.However", "time": 1373673600, "opinion": "includes", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "IOS device", "time": 1373673600, "opinion": "charge", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "inch cord", "time": 1373673600, "opinion": "single", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1373673600, "opinion": "USB", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1373673600, "opinion": "efficient", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "connector", "time": 1373673600, "opinion": "includes", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1373673600, "opinion": "received", "productID": "B00AT5W8SI"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1373673600, "opinion": "tether", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1373673600, "opinion": "carry", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "area", "time": 1373673600, "opinion": "rural", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1373673600, "opinion": "full", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1373673600, "opinion": "test", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1373673600, "opinion": "complimentary", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wall charger", "time": 1373673600, "opinion": "USB", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "item", "time": 1373673600, "opinion": "skip", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pack", "time": 1373673600, "opinion": "nice", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery.This", "time": 1373673600, "opinion": "large", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power outage", "time": 1373673600, "opinion": "undergoing", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "Note", "time": 1373673600, "opinion": "personal", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1373673600, "opinion": "nice", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "year", "time": 1373673600, "opinion": "full", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1373673600, "opinion": "exchange", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "customer service", "time": 1373673600, "opinion": "not need", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "versions.I", "time": 1373673600, "opinion": "white", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "versions.I", "time": 1373673600, "opinion": "black", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1373673600, "opinion": "tether", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1373673600, "opinion": "carry", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "area", "time": 1373673600, "opinion": "rural", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1373673600, "opinion": "full", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1373673600, "opinion": "test", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1373673600, "opinion": "complimentary", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "wall charger", "time": 1373673600, "opinion": "USB", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "item", "time": 1373673600, "opinion": "skip", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "pack", "time": 1373673600, "opinion": "nice", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery.This", "time": 1373673600, "opinion": "large", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power outage", "time": 1373673600, "opinion": "undergoing", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "experience", "time": 1373673600, "opinion": "personal", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1373673600, "opinion": "nice", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "piece", "time": 1373673600, "opinion": "occasional", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "version", "time": 1373673600, "opinion": "released", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "version", "time": 1373673600, "opinion": "smaller", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1373673600, "opinion": "blue", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1373673600, "opinion": "pushed", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "music", "time": 1373673600, "opinion": "play", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "water", "time": 1373673600, "opinion": "pour", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "Font", "time": 1373673600, "opinion": "Baptismal", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "relief", "time": 1373673600, "opinion": "super", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "speaker", "time": 1373673600, "opinion": "nice", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "music", "time": 1373673600, "opinion": "advance", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "version", "time": 1373673600, "opinion": "enjoy", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "waterproofing", "time": 1373673600, "opinion": "big", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sound", "time": 1373673600, "opinion": "big", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "version", "time": 1373673600, "opinion": "larger", "productID": "B00CSDMWGW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1371427200, "opinion": "knocked", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "connection", "time": 1371427200, "opinion": "specific", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "connection", "time": 1371427200, "opinion": "includes", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1371427200, "opinion": "offered", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1371427200, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "area", "time": 1371427200, "opinion": "small", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1371427200, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "size", "time": 1371427200, "opinion": "perfect", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "moment.Nice", "time": 1371427200, "opinion": "wrong", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "place", "time": 1369872000, "opinion": "good", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "place", "time": 1369872000, "opinion": "n't found", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "it.I", "time": 1369872000, "opinion": "impressed", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "chance", "time": 1369872000, "opinion": "offered", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "kind", "time": 1369872000, "opinion": "removable", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "dashboard kind", "time": 1369872000, "opinion": "ruin", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "surface", "time": 1369872000, "opinion": "sticky", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1369872000, "opinion": "complimentary", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "combination", "time": 1369872000, "opinion": "easy", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "rotation", "time": 1369872000, "opinion": "full", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1368403200, "opinion": "Resistant", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1368403200, "opinion": "charge", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "scuba diving", "time": 1368403200, "opinion": "n't take", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "LED bulb", "time": 1368403200, "opinion": "tiny", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power button", "time": 1368403200, "opinion": "holding", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power button", "time": 1368403200, "opinion": "green", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1368403200, "opinion": "standard", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1368403200, "opinion": "USB", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "mechanism", "time": 1368403200, "opinion": "charging", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "shirt pocket", "time": 1368403200, "opinion": "put", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1368403200, "opinion": "charging", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "it.It", "time": 1368403200, "opinion": "large", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1368403200, "opinion": "charge", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "dirt proofing", "time": 1368403200, "opinion": "important", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "offer", "time": 1368403200, "opinion": "complimentary", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "review", "time": 1368403200, "opinion": "unbiased", "productID": "B00BAKY5YG"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1365811200, "opinion": "complementary", "productID": "B00BB5GQRE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1365811200, "opinion": "supplied", "productID": "B00BB5GQRE"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "snowstorm", "time": 1364774400, "opinion": "recent", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1364774400, "opinion": "lose", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1364774400, "opinion": "charge", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "HIPE", "time": 1364774400, "opinion": "nice", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1364774400, "opinion": "charge", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "backup source", "time": 1364774400, "opinion": "grateful", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1364774400, "opinion": "complimentary", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1364774400, "opinion": "offered", "productID": "B00BT0AKKU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "snowstorm", "time": 1362614400, "opinion": "recent", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1362614400, "opinion": "basic", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "life", "time": 1362614400, "opinion": "critical", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "flashlight", "time": 1362614400, "opinion": "includes", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1362614400, "opinion": "sleek", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1362614400, "opinion": "black", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "emergency flashlight", "time": 1362614400, "opinion": "quick", "productID": "B009SAG02A"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1361923200, "opinion": "lost", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "difference", "time": 1361923200, "opinion": "made", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1361923200, "opinion": "lost", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "difference", "time": 1361923200, "opinion": "huge", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1361923200, "opinion": "USB", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1361923200, "opinion": "requiring", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1361923200, "opinion": "USB", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1361923200, "opinion": "USB", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1361923200, "opinion": "charged", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1361923200, "opinion": "ran", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "sample", "time": 1361923200, "opinion": "complimentary", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery.It", "time": 1361923200, "opinion": "high", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery.It", "time": 1361923200, "opinion": "back-up", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1361923200, "opinion": "maintained", "productID": "B00B4FG068"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "music", "time": 1354579200, "opinion": "play", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "station", "time": 1354579200, "opinion": "empty", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1354579200, "opinion": "charge", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car", "time": 1354579200, "opinion": "wanting", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1354579200, "opinion": "grateful", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "transmitter", "time": 1354579200, "opinion": "received", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car", "time": 1354579200, "opinion": "buying", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cable", "time": 1354579200, "opinion": "USB", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "transmitter", "time": 1354579200, "opinion": "complimentary", "productID": "B008UV6YRO"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port.Handy", "time": 1354579200, "opinion": "USB", "productID": "B008UV6YRO"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "before.First", "time": 1343260800, "opinion": "owned", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "powermat before.First", "time": 1343260800, "opinion": "plugs", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cover", "time": 1343260800, "opinion": "place", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1343260800, "opinion": "USB", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "connector", "time": 1343260800, "opinion": "mini", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1343260800, "opinion": "mini", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1343260800, "opinion": "included", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1343260800, "opinion": "standard", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1343260800, "opinion": "beautiful", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1343260800, "opinion": "sleek", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "color", "time": 1343260800, "opinion": "black", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1343260800, "opinion": "longer", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1343260800, "opinion": "ruberized", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "in.The mat", "time": 1343260800, "opinion": "slide", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "part", "time": 1343260800, "opinion": "top", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "feel", "time": 1343260800, "opinion": "magnetic", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "side", "time": 1343260800, "opinion": "sitting", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1343260800, "opinion": "small", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1343260800, "opinion": "amazing", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1343260800, "opinion": "not cute", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1343260800, "opinion": "charge", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "case", "time": 1343260800, "opinion": "not need", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "connector", "time": 1343260800, "opinion": "mini", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1343260800, "opinion": "left", "productID": "B0082YVBMW"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1343260800, "opinion": "neat", "productID": "B0082YVBMW"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution.When", "time": 1341532800, "opinion": "perfect", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1341532800, "opinion": "offered", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "question", "time": 1341532800, "opinion": "key", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "YES", "time": 1341532800, "opinion": "resounding", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "office", "time": 1341532800, "opinion": "entire", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1341532800, "opinion": "USB", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "combination", "time": 1341532800, "opinion": "critical", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1341532800, "opinion": "charges", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "office", "time": 1341532800, "opinion": "critical", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "plan.You", "time": 1341532800, "opinion": "bigger", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "home", "time": 1341532800, "opinion": "return", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "fact", "time": 1341532800, "opinion": "serve", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "love", "time": 1341532800, "opinion": "well.I", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "emergency", "time": 1341532800, "opinion": "real", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "part", "time": 1341532800, "opinion": "favorite", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1341532800, "opinion": "USB", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "afoul", "time": 1341532800, "opinion": "run", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "part", "time": 1341532800, "opinion": "vital", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "items!EDITEDWhile", "time": 1341532800, "opinion": "charge", "productID": "B007ZQJ5XU"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1341532800, "opinion": "grabbed", "productID": "B007ZQJ5XU"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "pair", "time": 1340928000, "opinion": "buy", "productID": "B0026FCI48"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "hope", "time": 1340928000, "opinion": "n't hold", "productID": "B0026FCI48"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "fit", "time": 1340928000, "opinion": "filled", "productID": "B0026FCI48"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "quality", "time": 1340928000, "opinion": "decent", "productID": "B0026FCI48"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1340928000, "opinion": "sturdy", "productID": "B0026FCI48"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "quality", "time": 1340928000, "opinion": "reasonable", "productID": "B0026FCI48"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "quality", "time": 1340928000, "opinion": "buy", "productID": "B0026FCI48"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car charger", "time": 1339286400, "opinion": "received", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "road", "time": 1339286400, "opinion": "hit", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1339286400, "opinion": "grabbed", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1339286400, "opinion": "tiny", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1339286400, "opinion": "plugged", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1339286400, "opinion": "grabbed", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1339286400, "opinion": "tiny", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "test", "time": 1339286400, "opinion": "perfect", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "phone", "time": 1339286400, "opinion": "grab", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "vehicle", "time": 1339286400, "opinion": "older", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "day trip", "time": 1339286400, "opinion": "making", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1339286400, "opinion": "planning", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "home", "time": 1339286400, "opinion": "headed", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "device", "time": 1339286400, "opinion": "tiny", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "plug", "time": 1339286400, "opinion": "bring", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1339286400, "opinion": "disconnect", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "respect", "time": 1339286400, "opinion": "healthy", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1339286400, "opinion": "cute", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car charger", "time": 1339286400, "opinion": "received", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "car charger", "time": 1339286400, "opinion": "complimentary", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1339286400, "opinion": "micro", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "number", "time": 1339286400, "opinion": "reconfigured", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "port", "time": 1339286400, "opinion": "USB", "productID": "B0080AWCTY"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1332979200, "opinion": "perfect", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charge", "time": 1332979200, "opinion": "full", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1332979200, "opinion": "wonderful", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1332979200, "opinion": "USB", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "cord", "time": 1332979200, "opinion": "single", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1332979200, "opinion": "charge", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1332979200, "opinion": "USB", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power", "time": 1332979200, "opinion": "n't lose", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "battery", "time": 1332979200, "opinion": "undercharged", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "power outage", "time": 1332979200, "opinion": "hit", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "3G", "time": 1332979200, "opinion": "cute", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1332979200, "opinion": "professional", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "iPad", "time": 1332979200, "opinion": "charge", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "solution", "time": 1332979200, "opinion": "perfect", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "tent", "time": 1332979200, "opinion": "find", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "outlet", "time": 1332979200, "opinion": "pre-installed", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1332979200, "opinion": "receive", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "opportunity", "time": 1332979200, "opinion": "offered", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger.I", "time": 1332979200, "opinion": "grateful", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "charger", "time": 1332979200, "opinion": "complimentary", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "weather", "time": 1332979200, "opinion": "bad", "productID": "B006YJBITS"}
+{"overall": 5.0, "userID": "A1W415JP5WEAJK", "feature": "item", "time": 1332979200, "opinion": "recommend", "productID": "B006YJBITS"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "time", "time": 1327881600, "opinion": "long", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "keyboard", "time": 1327881600, "opinion": "tiny", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "birthday", "time": 1327881600, "opinion": "16th", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "app", "time": 1327881600, "opinion": "downloaded", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1327881600, "opinion": "black", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "button", "time": 1327881600, "opinion": "pushing", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "fact", "time": 1327881600, "opinion": "appreciated", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "addition", "time": 1327881600, "opinion": "nice", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "luxury", "time": 1327881600, "opinion": "unneeded", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "luxury", "time": 1327881600, "opinion": "works", "productID": "B005G606O8"}
+{"overall": 4.0, "userID": "A1W415JP5WEAJK", "feature": "product", "time": 1327881600, "opinion": "nice", "productID": "B005G606O8"}

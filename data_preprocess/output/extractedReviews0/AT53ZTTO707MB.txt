@@ -1,0 +1,1238 @@
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Li-Ion battery", "time": 1404086400, "opinion": "dependable", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1404086400, "opinion": "simple", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1404086400, "opinion": "detects", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "system", "time": 1404086400, "opinion": "simpler", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1404086400, "opinion": "low", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1404086400, "opinion": "n't over-charge", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "red", "time": 1404086400, "opinion": "solid", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1404086400, "opinion": "charging", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "off.It", "time": 1404086400, "opinion": "automatic", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1404086400, "opinion": "protect", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1404086400, "opinion": "USB", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1404086400, "opinion": "lighter", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "type", "time": 1404086400, "opinion": "small", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1404086400, "opinion": "received", "productID": "B00KF8RP4Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "monitor", "time": 1403136000, "opinion": "detachable", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1403136000, "opinion": "smaller", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "boy", "time": 1403136000, "opinion": "save", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "boy", "time": 1403136000, "opinion": "big", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED", "time": 1403136000, "opinion": "blue", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1403136000, "opinion": "bottom", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1403136000, "opinion": "Check", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1403136000, "opinion": "smaller", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1403136000, "opinion": "smaller", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1403136000, "opinion": "lighter", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "effort", "time": 1403136000, "opinion": "making", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "surface", "time": 1403136000, "opinion": "rubbery", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing.I", "time": 1403136000, "opinion": "good", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "surface", "time": 1403136000, "opinion": "anti-slide", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "year warranty", "time": 1403136000, "opinion": "expandable", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "web site", "time": 1403136000, "opinion": "decent", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1403136000, "opinion": "received", "productID": "B00FF3MCTE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1403136000, "opinion": "charge", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1403136000, "opinion": "sturdy", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charging charger", "time": 1403136000, "opinion": "well-constructed", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charging charger", "time": 1403136000, "opinion": "Speedy", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "metal point", "time": 1403136000, "opinion": "substantial", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "connection", "time": 1403136000, "opinion": "solid", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1403136000, "opinion": "USB", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1403136000, "opinion": "one-handed", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1403136000, "opinion": "dislodging", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1403136000, "opinion": "pull", "productID": "B00GN6M85K"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1403136000, "opinion": "received", "productID": "B00GN6M85K"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "Sound", "time": 1402531200, "opinion": "decent", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "range", "time": 1402531200, "opinion": "terrific", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "speaker", "time": 1402531200, "opinion": "find", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "time.So", "time": 1402531200, "opinion": "long", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery.The ability", "time": 1402531200, "opinion": "cheap", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1402531200, "opinion": "big", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "opinion", "time": 1402531200, "opinion": "not affect", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1402531200, "opinion": "received", "productID": "B00HYR17JA"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "car charger", "time": 1402531200, "opinion": "n't see", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "wall outlet", "time": 1402531200, "opinion": "n't see", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "status", "time": 1402531200, "opinion": "charging", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "four-star", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "convenient", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1402531200, "opinion": "USB", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1402531200, "opinion": "built-in", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "portable", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "rubber band", "time": 1402531200, "opinion": "un-cool", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "effect", "time": 1402531200, "opinion": "light", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic case", "time": 1402531200, "opinion": "thin-walled", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "effect", "time": 1402531200, "opinion": "blotchy", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1402531200, "opinion": "charge", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "pound", "time": 1402531200, "opinion": "half", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1402531200, "opinion": "real", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "2600mAh", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "logo", "time": 1402531200, "opinion": "black", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "logo", "time": 1402531200, "opinion": "big", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "logo", "time": 1402531200, "opinion": "centered", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "lipstick-size", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone time.For", "time": 1402531200, "opinion": "charge", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1402531200, "opinion": "blue", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "fully-charged", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ink", "time": 1402531200, "opinion": "black", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "got.the", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1402531200, "opinion": "bright", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1402531200, "opinion": "cheapens", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "look.One thing", "time": 1402531200, "opinion": "unplugged", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "blue", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "not-fully-charged", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "red", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "showed", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1402531200, "opinion": "checked", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1402531200, "opinion": "showed", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1402531200, "opinion": "not accept", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "engineer", "time": 1402531200, "opinion": "electrical", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1402531200, "opinion": "received", "productID": "B00KJ0K9JI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1402531200, "opinion": "recharge", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "four-star", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "convenient", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1402531200, "opinion": "USB", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1402531200, "opinion": "built-in", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1402531200, "opinion": "portable", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "rubber band", "time": 1402531200, "opinion": "un-cool", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1402531200, "opinion": "small", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1402531200, "opinion": "recharge", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "unit", "time": 1402531200, "opinion": "buy", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "loop", "time": 1402531200, "opinion": "insert", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "unit", "time": 1402531200, "opinion": "bigger", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1402531200, "opinion": "tiny", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "unit", "time": 1402531200, "opinion": "bigger", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "logo", "time": 1402531200, "opinion": "black", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "logo", "time": 1402531200, "opinion": "bold", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "unit", "time": 1402531200, "opinion": "more.For", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "logo", "time": 1402531200, "opinion": "big", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "unit", "time": 1402531200, "opinion": "bigger", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1402531200, "opinion": "blue", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "fully-charged", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ink", "time": 1402531200, "opinion": "black", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "got.the", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1402531200, "opinion": "bright", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1402531200, "opinion": "cheapens", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "blue", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "not-fully-charged", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "red", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1402531200, "opinion": "showed", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1402531200, "opinion": "checked", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1402531200, "opinion": "showed", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1402531200, "opinion": "not accept", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "engineer", "time": 1402531200, "opinion": "electrical", "productID": "B00KMD91KK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1402531200, "opinion": "received", "productID": "B00KMD91KK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "saucy shape", "time": 1402272000, "opinion": "nice", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "speaker", "time": 1402272000, "opinion": "pleasant", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "speaker", "time": 1402272000, "opinion": "cutest", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "speaker", "time": 1402272000, "opinion": "shiny", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1402272000, "opinion": "long", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "speaker", "time": 1402272000, "opinion": "wireless", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "grab pad", "time": 1402272000, "opinion": "rubbery", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "center", "time": 1402272000, "opinion": "lower", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "circle", "time": 1402272000, "opinion": "nice", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "coating", "time": 1402272000, "opinion": "shiny", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "balance", "time": 1402272000, "opinion": "deep", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "speaker.Volume", "time": 1402272000, "opinion": "tiny", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "balance", "time": 1402272000, "opinion": "Nice", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "tooth connectivity", "time": 1402272000, "opinion": "blue", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1402272000, "opinion": "not micro", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1402272000, "opinion": "USB", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sound", "time": 1402272000, "opinion": "big", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "glass", "time": 1402272000, "opinion": "magnifying", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "desk lamp", "time": 1402272000, "opinion": "high-powered", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "type", "time": 1402272000, "opinion": "tiny", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "desk lamp", "time": 1402272000, "opinion": "magnifying", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "instruction booklet", "time": 1402272000, "opinion": "tiny", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "instruction booklet", "time": 1402272000, "opinion": "horrible", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1402272000, "opinion": "good", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "experience", "time": 1402272000, "opinion": "previous", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "type", "time": 1402272000, "opinion": "Such", "productID": "B00HR1TZ92"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1402272000, "opinion": "received", "productID": "B00HR1TZ92"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "fragrance", "time": 1401926400, "opinion": "gentle", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "fragrance", "time": 1401926400, "opinion": "slight", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "port end", "time": 1401926400, "opinion": "USB", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1401926400, "opinion": "key", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "opening", "time": 1401926400, "opinion": "top", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1401926400, "opinion": "key", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "perfume", "time": 1401926400, "opinion": "mentions", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "perfume", "time": 1401926400, "opinion": "floral", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "perfume", "time": 1401926400, "opinion": "fruity", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1401926400, "opinion": "extra", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "power bank", "time": 1401926400, "opinion": "basic", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "power bank", "time": 1401926400, "opinion": "2600mAh", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "perfume", "time": 1401926400, "opinion": "subtle", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "price point.It", "time": 1401926400, "opinion": "decent", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1401926400, "opinion": "simple", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "LED", "time": 1401926400, "opinion": "red", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1401926400, "opinion": "basic", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "spring ring", "time": 1401926400, "opinion": "simple", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1401926400, "opinion": "key", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1401926400, "opinion": "received", "productID": "B00E2YI052"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1401926400, "opinion": "basic", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "price", "time": 1401926400, "opinion": "good", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "matte finish", "time": 1401926400, "opinion": "nice", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1401926400, "opinion": "USB", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1401926400, "opinion": "decent", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "design", "time": 1401926400, "opinion": "basic", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1401926400, "opinion": "store", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1401926400, "opinion": "USB", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1401926400, "opinion": "requesting", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1401926400, "opinion": "favorable", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "card", "time": 1401926400, "opinion": "beautiful", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "card", "time": 1401926400, "opinion": "heavy-weight", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1401926400, "opinion": "key", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "drawing", "time": 1401926400, "opinion": "simple", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "address", "time": 1401926400, "opinion": "ship-to", "productID": "B00KEGYXRQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1401926400, "opinion": "received", "productID": "B00KEGYXRQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plug", "time": 1401667200, "opinion": "micro", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plug", "time": 1401667200, "opinion": "USB", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "paraphernalia", "time": 1401667200, "opinion": "extra", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "size", "time": 1401667200, "opinion": "appreciated", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "shape", "time": 1401667200, "opinion": "appreciated", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plug", "time": 1401667200, "opinion": "micro", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "efficiency", "time": 1401667200, "opinion": "negate", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "adapter", "time": 1401667200, "opinion": "drag", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "compactness", "time": 1401667200, "opinion": "negate", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hide-y-hole", "time": 1401667200, "opinion": "wrong", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "adapter", "time": 1401667200, "opinion": "add", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "intent", "time": 1401667200, "opinion": "lose", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger supply", "time": 1401667200, "opinion": "external", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "adapter", "time": 1401667200, "opinion": "USB", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger supply", "time": 1401667200, "opinion": "portable", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1401667200, "opinion": "USB", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1401667200, "opinion": "heavier", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1401667200, "opinion": "extra", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "aluminum siding", "time": 1401667200, "opinion": "nifty", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1401667200, "opinion": "USB", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1401667200, "opinion": "reveals", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cover", "time": 1401667200, "opinion": "lift", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cover", "time": 1401667200, "opinion": "not lose", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "bag", "time": 1401667200, "opinion": "cloth-lined", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hole", "time": 1401667200, "opinion": "wear", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1401667200, "opinion": "light", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "aluminum siding", "time": 1401667200, "opinion": "wrap-around", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "allure", "time": 1401667200, "opinion": "eye-catching", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "aluminum siding", "time": 1401667200, "opinion": "ribbed", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1401667200, "opinion": "received", "productID": "B00H3Z9NBM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1400544000, "opinion": "smaller", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "boy", "time": 1400544000, "opinion": "save", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "boy", "time": 1400544000, "opinion": "big", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED", "time": 1400544000, "opinion": "blue", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "output", "time": 1400544000, "opinion": "change", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "laptop", "time": 1400544000, "opinion": "fit", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "tip", "time": 1400544000, "opinion": "smallest", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "P1801", "time": 1400544000, "opinion": "fit", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "monitor", "time": 1400544000, "opinion": "detachable", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "opening", "time": 1400544000, "opinion": "small", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "opening", "time": 1400544000, "opinion": "heavy", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1400544000, "opinion": "lighter", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "effort", "time": 1400544000, "opinion": "making", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing.Size", "time": 1400544000, "opinion": "good", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "year warranty", "time": 1400544000, "opinion": "expandable", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "web site", "time": 1400544000, "opinion": "decent", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "setting", "time": 1400544000, "opinion": "balanced", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1400544000, "opinion": "balanced", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "setting", "time": 1400544000, "opinion": "brightest", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "web", "time": 1400544000, "opinion": "surfing", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power bank", "time": 1400544000, "opinion": "tested", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "spreadsheet", "time": 1400544000, "opinion": "running", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1400544000, "opinion": "received", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "middle-of-the-road", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "emergency", "time": 1400544000, "opinion": "make", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "convenient", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "nice", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "effort", "time": 1400544000, "opinion": "real", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "effort", "time": 1400544000, "opinion": "making", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "effort", "time": 1400544000, "opinion": "produce", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1400544000, "opinion": "lowering", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power bank", "time": 1400544000, "opinion": "creating", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1400544000, "opinion": "great", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1400544000, "opinion": "creating", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1400544000, "opinion": "great", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "size", "time": 1400544000, "opinion": "proper", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1400544000, "opinion": "spend", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "size", "time": 1400544000, "opinion": "finding", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1400544000, "opinion": "maximum", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "single", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "business card", "time": 1400544000, "opinion": "thick", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1400544000, "opinion": "extra", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "occasions.Another thing", "time": 1400544000, "opinion": "special", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "lighter-weight", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "smaller", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1400544000, "opinion": "smaller", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1400544000, "opinion": "charge", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "experience", "time": 1400544000, "opinion": "good", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "website", "time": 1400544000, "opinion": "decent", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "support", "time": 1400544000, "opinion": "provide", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "year warranty", "time": 1400544000, "opinion": "give", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1400544000, "opinion": "received", "productID": "B00HUL0AD4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "arm", "time": 1400457600, "opinion": "adjustable", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "flexible", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clamp", "time": 1400457600, "opinion": "strong", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "support", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "heavy-duty", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "long", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "super", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1400457600, "opinion": "covered", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1400457600, "opinion": "strong", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1400457600, "opinion": "position", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "steel", "time": 1400457600, "opinion": "stainless", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "protective.The cable", "time": 1400457600, "opinion": "flexible", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "steel", "time": 1400457600, "opinion": "quality", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "metal spring", "time": 1400457600, "opinion": "substantial", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1400457600, "opinion": "thick", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "rubber coating", "time": 1400457600, "opinion": "black", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "flexible", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "base", "time": 1400457600, "opinion": "suction-mount", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "nut", "time": 1400457600, "opinion": "large", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "nut", "time": 1400457600, "opinion": "easy-to-grip", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "surface", "time": 1400457600, "opinion": "non-porous", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "nut", "time": 1400457600, "opinion": "black", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "surface", "time": 1400457600, "opinion": "flat", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "nut", "time": 1400457600, "opinion": "tighten", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1400457600, "opinion": "mount", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "rubber", "time": 1400457600, "opinion": "lifts", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "rubber", "time": 1400457600, "opinion": "creates", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "suction", "time": 1400457600, "opinion": "creates", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1400457600, "opinion": "Check", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1400457600, "opinion": "sixth", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1400457600, "opinion": "flexible", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clamp", "time": 1400457600, "opinion": "lighter-weight", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clamp", "time": 1400457600, "opinion": "easier", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1400457600, "opinion": "holds", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1400457600, "opinion": "received", "productID": "B00J03IR94"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "guarantee", "time": 1399507200, "opinion": "one-year", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1399507200, "opinion": "compact", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1399507200, "opinion": "small", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "position", "time": 1399507200, "opinion": "closed", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "POWER", "time": 1399507200, "opinion": "PROVIDES", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "POWER", "time": 1399507200, "opinion": "MORE", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "slot", "time": 1399507200, "opinion": "bottom", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1399507200, "opinion": "full", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1399507200, "opinion": "received", "productID": "B00J8JWNUE"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1399248000, "opinion": "provide", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1399248000, "opinion": "identify", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "maximum", "time": 1399248000, "opinion": "provide", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "maximum", "time": 1399248000, "opinion": "exact", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "output port", "time": 1399248000, "opinion": "USB", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1399248000, "opinion": "charge", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1399248000, "opinion": "descriptive", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "readout", "time": 1399248000, "opinion": "blue", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "readout display", "time": 1399248000, "opinion": "digital", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "readout", "time": 1399248000, "opinion": "bright", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1399248000, "opinion": "readable", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "percent", "time": 1399248000, "opinion": "exact", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "percent", "time": 1399248000, "opinion": "shows", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "OUT", "time": 1399248000, "opinion": "flash", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1399248000, "opinion": "easy", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "readout", "time": 1399248000, "opinion": "digital", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1399248000, "opinion": "bright", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "micro", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mind", "time": 1399248000, "opinion": "happen", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "USB", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "simple", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1399248000, "opinion": "received", "productID": "B00IMZKDOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1399248000, "opinion": "nifty", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain", "time": 1399248000, "opinion": "key", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "handy", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain", "time": 1399248000, "opinion": "YOUR", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "problem", "time": 1399248000, "opinion": "big", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1399248000, "opinion": "set", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain", "time": 1399248000, "opinion": "current", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1399248000, "opinion": "mini", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1399248000, "opinion": "add", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain", "time": 1399248000, "opinion": "key", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1399248000, "opinion": "key", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1399248000, "opinion": "slide", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1399248000, "opinion": "fourth", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable/storage case", "time": 1399248000, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable/storage case", "time": 1399248000, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1399248000, "opinion": "charging", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1399248000, "opinion": "included", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1399248000, "opinion": "hold", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1399248000, "opinion": "n't expect", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "wording", "time": 1399248000, "opinion": "change", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "rep", "time": 1399248000, "opinion": "questioned", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1399248000, "opinion": "tiny", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "package", "time": 1399248000, "opinion": "easy-to-open", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "protects", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "flat", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1399248000, "opinion": "handy", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1399248000, "opinion": "taut", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "circle", "time": 1399248000, "opinion": "form", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "kind", "time": 1399248000, "opinion": "included", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "circle", "time": 1399248000, "opinion": "double", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain", "time": 1399248000, "opinion": "call", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain ring", "time": 1399248000, "opinion": "key", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "chain", "time": 1399248000, "opinion": "key", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ring", "time": 1399248000, "opinion": "screw-open", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "commitment", "time": 1399248000, "opinion": "determined", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "conscience", "time": 1399248000, "opinion": "active", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "conscience", "time": 1399248000, "opinion": "deep-seated", "productID": "B00JCVPTSQ"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1399248000, "opinion": "received", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1398211200, "opinion": "including", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1398211200, "opinion": "nice", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1398211200, "opinion": "one-year", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "color combo", "time": 1398211200, "opinion": "sharp-looking", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "grip", "time": 1398211200, "opinion": "textured", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "color combo", "time": 1398211200, "opinion": "gray/white", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1398211200, "opinion": "pull", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "front", "time": 1398211200, "opinion": "top", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "touch", "time": 1398211200, "opinion": "put", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1398211200, "opinion": "received", "productID": "B00ISGCAJM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1397520000, "opinion": "make", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "color", "time": 1397520000, "opinion": "happy", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "vehicle", "time": 1397520000, "opinion": "happy", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "aluminum", "time": 1397520000, "opinion": "trim", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "color", "time": 1397520000, "opinion": "golden", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "match", "time": 1397520000, "opinion": "closest", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "aluminum", "time": 1397520000, "opinion": "shiny", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "placement.I", "time": 1397520000, "opinion": "guide", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1397520000, "opinion": "top", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "info", "time": 1397520000, "opinion": "straight-forward", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "guarantee", "time": 1397520000, "opinion": "one-year", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "website", "time": 1397520000, "opinion": "accessible", "productID": "B00ISFNSBW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1397520000, "opinion": "received", "productID": "B00ISFNSBW"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "gadget", "time": 1397520000, "opinion": "holds", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1397520000, "opinion": "sticky", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1397520000, "opinion": "sticky", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "idea", "time": 1397520000, "opinion": "great", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "range", "time": 1397520000, "opinion": "wider", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "screw nut", "time": 1397520000, "opinion": "plastic", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397520000, "opinion": "mount", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "holder", "time": 1397520000, "opinion": "single-handed", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "clamp", "time": 1397520000, "opinion": "tight", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "car", "time": 1397520000, "opinion": "put", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "vinyl dashboard", "time": 1397520000, "opinion": "thick", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "material", "time": 1397520000, "opinion": "stretch", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "material", "time": 1397520000, "opinion": "thinner", "productID": "B00IX1FLOS"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1397520000, "opinion": "received", "productID": "B00IX1FLOS"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1397260800, "opinion": "posted", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "IP66", "time": 1397260800, "opinion": "adopts", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "life", "time": 1397260800, "opinion": "daily", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "living", "time": 1397260800, "opinion": "daily", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "IP66", "time": 1397260800, "opinion": "guaranteed", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "wording", "time": 1397260800, "opinion": "exact", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "IP66", "time": 1397260800, "opinion": "numbered", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "kind", "time": 1397260800, "opinion": "standard", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "&#34;", "time": 1397260800, "opinion": "waterproof", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "kind", "time": 1397260800, "opinion": "meets", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "living", "time": 1397260800, "opinion": "daily", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "inside", "time": 1397260800, "opinion": "dry", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "drop", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "expect", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "print", "time": 1397260800, "opinion": "read", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1397260800, "opinion": "buy", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1397260800, "opinion": "waterproof", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "print", "time": 1397260800, "opinion": "fine", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "protect", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1397260800, "opinion": "original", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "meaning", "time": 1397260800, "opinion": "waterproof", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "print", "time": 1397260800, "opinion": "Read", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "print", "time": 1397260800, "opinion": "fine", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "&#34; water", "time": 1397260800, "opinion": "resistant", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1397260800, "opinion": "higher", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phrase living", "time": 1397260800, "opinion": "ambiguous", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phrase living", "time": 1397260800, "opinion": "daily", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "life incident", "time": 1397260800, "opinion": "real", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "understanding", "time": 1397260800, "opinion": "base", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "put", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "bowl either!Here", "time": 1397260800, "opinion": "deep", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "spot", "time": 1397260800, "opinion": "low", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "rescuing", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "spot", "time": 1397260800, "opinion": "unexpected", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone case", "time": 1397260800, "opinion": "true", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone case", "time": 1397260800, "opinion": "waterproof", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1397260800, "opinion": "tough", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1397260800, "opinion": "mighty", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "school fundraiser", "time": 1397260800, "opinion": "high", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "n't drop", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1397260800, "opinion": "wearing", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "insert", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "manipulate/use", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "waterproof-ness", "time": 1397260800, "opinion": "questionable", "productID": "B00ISDBQZ4"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1397260800, "opinion": "received", "productID": "B00ISDBQZ4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mint color", "time": 1397260800, "opinion": "chose", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "lime cheesecake", "time": 1397260800, "opinion": "favorite", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "before.One thing", "time": 1397260800, "opinion": "important", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "before.One thing", "time": 1397260800, "opinion": "not seen", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "back", "time": 1397260800, "opinion": "clear", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "window", "time": 1397260800, "opinion": "clear", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1397260800, "opinion": "great", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone case", "time": 1397260800, "opinion": "minimalist", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1397260800, "opinion": "remove", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1397260800, "opinion": "minimalist", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1397260800, "opinion": "similar", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "picture", "time": 1397260800, "opinion": "put", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "protection.Also", "time": 1397260800, "opinion": "offering", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "choice", "time": 1397260800, "opinion": "good", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Case", "time": 1397260800, "opinion": "Soft", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Case", "time": 1397260800, "opinion": "Flexible", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "back.Totallee", "time": 1397260800, "opinion": "inside", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "polycarbonate plastic", "time": 1397260800, "opinion": "hard", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1397260800, "opinion": "rubbery", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1397260800, "opinion": "softer", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1397260800, "opinion": "hard", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1397260800, "opinion": "received", "productID": "B00J949K3Q"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1396656000, "opinion": "felt", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "river rock", "time": 1396656000, "opinion": "picked", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "river rock", "time": 1396656000, "opinion": "good-sized", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "stone", "time": 1396656000, "opinion": "worry", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "rock", "time": 1396656000, "opinion": "worry", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "rock", "time": 1396656000, "opinion": "pet", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design", "time": 1396656000, "opinion": "check", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "external", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "purchase", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1396656000, "opinion": "spent", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "motto", "time": 1396656000, "opinion": "enjoyable", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1396656000, "opinion": "interesting-to-look-at", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mAh", "time": 1396656000, "opinion": "whopping", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1396656000, "opinion": "external", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1396656000, "opinion": "not-quite-smooth", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "graininess", "time": 1396656000, "opinion": "rough", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "water experience", "time": 1396656000, "opinion": "rushing", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "circuit design", "time": 1396656000, "opinion": "efficient", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "leakage", "time": 1396656000, "opinion": "prevent", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "river-rock", "time": 1396656000, "opinion": "worn", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "layer", "time": 1396656000, "opinion": "well-designed", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design feature", "time": 1396656000, "opinion": "interesting", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED", "time": 1396656000, "opinion": "blue", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "external", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "wanted", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "high-powered", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "handles", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1396656000, "opinion": "USB", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "end", "time": 1396656000, "opinion": "recessed", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1396656000, "opinion": "external", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "variety", "time": 1396656000, "opinion": "charges", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1396656000, "opinion": "give", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power bank", "time": 1396656000, "opinion": "mighty", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1396656000, "opinion": "huge", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1396656000, "opinion": "powerful", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "award", "time": 1396656000, "opinion": "top", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1396656000, "opinion": "normal", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Dot Award", "time": 1396656000, "opinion": "Red", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "organization", "time": 1396656000, "opinion": "German-run", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "organization", "time": 1396656000, "opinion": "non-profit", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Dot Award", "time": 1396656000, "opinion": "Red", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "website", "time": 1396656000, "opinion": "visit", "productID": "B00E3GXJDC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1396656000, "opinion": "received", "productID": "B00E3GXJDC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "bulk package", "time": 1395100800, "opinion": "nice", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "bit effort", "time": 1395100800, "opinion": "extra", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "rubber end", "time": 1395100800, "opinion": "hollow", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "rubber", "time": 1395100800, "opinion": "flat", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "stylus end", "time": 1395100800, "opinion": "dimpled", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "rubber", "time": 1395100800, "opinion": "hollow", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "stylus end", "time": 1395100800, "opinion": "found", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1395100800, "opinion": "delicate", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "metal", "time": 1395100800, "opinion": "delicate", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1395100800, "opinion": "cheap", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "idea", "time": 1395100800, "opinion": "Cute", "productID": "B007R29HVC"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1395100800, "opinion": "received", "productID": "B007R29HVC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "either.I", "time": 1395100800, "opinion": "light-weight", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "either.I", "time": 1395100800, "opinion": "not heavy", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "pair", "time": 1395100800, "opinion": "favorite", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1395100800, "opinion": "received", "productID": "B00EU79YH4"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "glass", "time": 1395100800, "opinion": "magnifying", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "oval", "time": 1395100800, "opinion": "indented", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "A", "time": 1395100800, "opinion": "closest", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "face", "time": 1395100800, "opinion": "front", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "oval", "time": 1395100800, "opinion": "tiny", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "right.But", "time": 1395100800, "opinion": "slides", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "website", "time": 1395100800, "opinion": "defunct", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1395100800, "opinion": "n't find", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1395100800, "opinion": "wrote", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "phone number", "time": 1395100800, "opinion": "n't find", "productID": "B00FIWC5DK"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1395100800, "opinion": "received", "productID": "B00FIWC5DK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "spelling", "time": 1395014400, "opinion": "accepted", "productID": "B007R28B50"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "set", "time": 1395014400, "opinion": "thin", "productID": "B007R28B50"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "precision", "time": 1395014400, "opinion": "decent", "productID": "B007R28B50"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "condition.I", "time": 1395014400, "opinion": "perfect", "productID": "B007R28B50"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1395014400, "opinion": "good", "productID": "B007R28B50"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "guarantee", "time": 1395014400, "opinion": "two-year", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "guarantee", "time": 1395014400, "opinion": "so-called", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "explanation", "time": 1395014400, "opinion": "good", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "ones.Well", "time": 1395014400, "opinion": "send", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "talk", "time": 1395014400, "opinion": "big", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "dud", "time": 1395014400, "opinion": "ended", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1395014400, "opinion": "return", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "warranty", "time": 1395014400, "opinion": "great", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "guarantee", "time": 1395014400, "opinion": "two-year", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "website", "time": 1395014400, "opinion": "accessing", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1395014400, "opinion": "not thin", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "line", "time": 1395014400, "opinion": "bottom", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "money", "time": 1395014400, "opinion": "put", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "money", "time": 1395014400, "opinion": "hard-earned", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "feedback", "time": 1395014400, "opinion": "positive", "productID": "B00DFN03KQ"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "feedback", "time": 1395014400, "opinion": "love", "productID": "B00DFN03KQ"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1395014400, "opinion": "average", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1395014400, "opinion": "gave", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1395014400, "opinion": "3-star", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1395014400, "opinion": "hard-earned", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1395014400, "opinion": "precious", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "money", "time": 1395014400, "opinion": "hard-earned", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "product.A word", "time": 1395014400, "opinion": "sending", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "length executive", "time": 1395014400, "opinion": "normal", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1395014400, "opinion": "write", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "writing point", "time": 1395014400, "opinion": "expose", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1395014400, "opinion": "n't care", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "product.A word", "time": 1395014400, "opinion": "flawed", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "rubber", "time": 1395014400, "opinion": "thin", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1395014400, "opinion": "work", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "resilience", "time": 1395014400, "opinion": "n't have", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "point", "time": 1395014400, "opinion": "fine", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "ridge", "time": 1395014400, "opinion": "flat", "productID": "B00EVF3FCU"}
+{"overall": 1.0, "userID": "AT53ZTTO707MB", "feature": "roll", "time": 1395014400, "opinion": "scratchy", "productID": "B00EVF3FCU"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "fingerprint", "time": 1394668800, "opinion": "leave", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "Defense", "time": 1394668800, "opinion": "Total", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1394668800, "opinion": "sparkly", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1394668800, "opinion": "sandy", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "protection", "time": 1394668800, "opinion": "heavier-duty", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "protector", "time": 1394668800, "opinion": "apply", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "surface", "time": 1394668800, "opinion": "clean", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cloth", "time": 1394668800, "opinion": "micro-fiber", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cloth", "time": 1394668800, "opinion": "tiny", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic card", "time": 1394668800, "opinion": "tiny", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sheet", "time": 1394668800, "opinion": "micro-fiber", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sheet", "time": 1394668800, "opinion": "tiny", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "knife", "time": 1394668800, "opinion": "drag", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1394668800, "opinion": "good", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1394668800, "opinion": "clear", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "brightness", "time": 1394668800, "opinion": "dulls", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "back", "time": 1394668800, "opinion": "mark", "productID": "B00EJXT21C"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "front", "time": 1394668800, "opinion": "mark", "productID": "B00EJXT21C"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1394236800, "opinion": "convenient", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1394236800, "opinion": "extra", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1394236800, "opinion": "effective", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1394236800, "opinion": "protect", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "combination", "time": 1394236800, "opinion": "unbeatable", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1394236800, "opinion": "extra", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "performance standards.For", "time": 1394236800, "opinion": "meets", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1394236800, "opinion": "attractive", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1394236800, "opinion": "entire", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "protection", "time": 1394236800, "opinion": "decent", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1394236800, "opinion": "worthwhile", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1394236800, "opinion": "micro", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1394236800, "opinion": "USB", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1394236800, "opinion": "regular", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1394236800, "opinion": "charge", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1394236800, "opinion": "lightest", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "lipstick case", "time": 1394236800, "opinion": "over-sized", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "quality cable", "time": 1394236800, "opinion": "USB", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "2300mAh charge", "time": 1394236800, "opinion": "effortless", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "protection.I", "time": 1394236800, "opinion": "substantial", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "convenience", "time": 1394236800, "opinion": "understand", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery power", "time": 1394236800, "opinion": "external", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "advantage", "time": 1394236800, "opinion": "not take", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "airplane", "time": 1394236800, "opinion": "travel", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "champagne color", "time": 1394236800, "opinion": "metallic", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1394236800, "opinion": "sophisticated-looking", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "button", "time": 1394236800, "opinion": "on/off", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "portion", "time": 1394236800, "opinion": "top", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "company", "time": 1394236800, "opinion": "found", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1394236800, "opinion": "received", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic tab", "time": 1393977600, "opinion": "bright", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1393977600, "opinion": "lowest", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic tab", "time": 1393977600, "opinion": "red", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "shape", "time": 1393977600, "opinion": "nice", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "neon", "time": 1393977600, "opinion": "trim", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "too.It", "time": 1393977600, "opinion": "nice", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1393977600, "opinion": "find", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "addition", "time": 1393977600, "opinion": "great", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Kindle", "time": 1393977600, "opinion": "charges", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393977600, "opinion": "received", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "wall-plug charger", "time": 1393977600, "opinion": "two-port", "productID": "B00I3LRO8O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "wall-plug charger", "time": 1393977600, "opinion": "normal", "productID": "B00I3LRO8O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1393977600, "opinion": "adequate", "productID": "B00I3LRO8O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1393977600, "opinion": "simple", "productID": "B00I3LRO8O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "plug", "time": 1393977600, "opinion": "open", "productID": "B00I3LRO8O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393977600, "opinion": "received", "productID": "B00I3LRO8O"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1393891200, "opinion": "give", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "emergency call", "time": 1393891200, "opinion": "make", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "ounce charger", "time": 1393891200, "opinion": "heavy", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "sized", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "business card", "time": 1393891200, "opinion": "tiny", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "ounce charger", "time": 1393891200, "opinion": "buy", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "band", "time": 1393891200, "opinion": "favorite", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "line", "time": 1393891200, "opinion": "overnight", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1393891200, "opinion": "Black", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "external", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "juice box", "time": 1393891200, "opinion": "dependable", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "juice box", "time": 1393891200, "opinion": "well-constructed", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1393891200, "opinion": "give", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mAh", "time": 1393891200, "opinion": "comparable", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1393891200, "opinion": "not heavier", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "proximity", "time": 1393891200, "opinion": "close", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "velour bag", "time": 1393891200, "opinion": "gray", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "glass", "time": 1393891200, "opinion": "good", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "glass", "time": 1393891200, "opinion": "magnifying", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "print", "time": 1393891200, "opinion": "small", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1393891200, "opinion": "report", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "status", "time": 1393891200, "opinion": "charging", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "representative", "time": 1393891200, "opinion": "contacting", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1393891200, "opinion": "buy", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1393891200, "opinion": "put", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393891200, "opinion": "received", "productID": "B00E327OIM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "location", "time": 1393891200, "opinion": "prominent", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "winter", "time": 1393891200, "opinion": "past", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "atmosphere", "time": 1393891200, "opinion": "parking-lot", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "emergency home.So", "time": 1393891200, "opinion": "make", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "solved", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "dilemma", "time": 1393891200, "opinion": "solved", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1393891200, "opinion": "keeping", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "decision", "time": 1393891200, "opinion": "not hard", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "external", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1393891200, "opinion": "charging", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "dependable", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "large", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "save", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "dilemma", "time": 1393891200, "opinion": "potential", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "largest", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "quality", "time": 1393891200, "opinion": "feel", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "ON/OFF button", "time": 1393891200, "opinion": "quality-made", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "ON/OFF button", "time": 1393891200, "opinion": "not tight", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "idea", "time": 1393891200, "opinion": "give", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "external", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "proved", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393891200, "opinion": "recommend", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393891200, "opinion": "received", "productID": "B00IA76GNK"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "thing!Do", "time": 1393804800, "opinion": "good", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "weather", "time": 1393804800, "opinion": "bad", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393804800, "opinion": "buying", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1393804800, "opinion": "largest", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "half pound", "time": 1393804800, "opinion": "extra", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "15000mAh battery", "time": 1393804800, "opinion": "external", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "Peace", "time": 1393804800, "opinion": "priceless", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1393804800, "opinion": "great", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "performance", "time": 1393804800, "opinion": "peak", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1393804800, "opinion": "full", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1393804800, "opinion": "digital", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1393804800, "opinion": "easy", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1393804800, "opinion": "extra", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1393804800, "opinion": "usual", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1393804800, "opinion": "USB", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "velour", "time": 1393804800, "opinion": "draw-string", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "velour", "time": 1393804800, "opinion": "gray", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "velour", "time": 1393804800, "opinion": "decent", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "glass", "time": 1393804800, "opinion": "magnifying", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393804800, "opinion": "received", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1393804800, "opinion": "carry", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1393804800, "opinion": "extra", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1393804800, "opinion": "double-your-charge", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "umph", "time": 1393804800, "opinion": "extra", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery.It", "time": 1393804800, "opinion": "attached", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "bit", "time": 1393804800, "opinion": "add", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "baby", "time": 1393804800, "opinion": "find", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1393804800, "opinion": "USB", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1393804800, "opinion": "find", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "box", "time": 1393804800, "opinion": "large", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "box", "time": 1393804800, "opinion": "rectangular", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1393804800, "opinion": "short", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1393804800, "opinion": "enclosed", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1393804800, "opinion": "USB", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "flashlight feature", "time": 1393804800, "opinion": "not have", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "surface", "time": 1393804800, "opinion": "raised", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "2X power", "time": 1393804800, "opinion": "providing", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "ON/OFF button", "time": 1393804800, "opinion": "easy", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone case", "time": 1393804800, "opinion": "n't mind", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1393804800, "opinion": "hold", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1393804800, "opinion": "extra", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "tad bit", "time": 1393804800, "opinion": "n't mind", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "bulk", "time": 1393804800, "opinion": "extra", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge power", "time": 1393804800, "opinion": "extra", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "activity", "time": 1393804800, "opinion": "outdoor", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample", "time": 1393804800, "opinion": "received", "productID": "B00H3YIFZI"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery power", "time": 1393372800, "opinion": "incorporated", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery power", "time": 1393372800, "opinion": "extra", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1393372800, "opinion": "four-star", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "lot", "time": 1393372800, "opinion": "giving", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1393372800, "opinion": "five-star", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "point", "time": 1393372800, "opinion": "make", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "point", "time": 1393372800, "opinion": "decide", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "one-tenth", "time": 1393372800, "opinion": "weighs", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "one-tenth", "time": 1393372800, "opinion": "tiny", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1393372800, "opinion": "heavier", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1393372800, "opinion": "extra", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1393372800, "opinion": "not notice", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1393372800, "opinion": "not notice", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1393372800, "opinion": "Move", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1393372800, "opinion": "longer", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1393372800, "opinion": "regular", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery.This", "time": 1393372800, "opinion": "external", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "choice", "time": 1393372800, "opinion": "bulky", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "choice", "time": 1393372800, "opinion": "lighter-weight", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "choice", "time": 1393372800, "opinion": "convenient", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "battery.This", "time": 1393372800, "opinion": "separate", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1393372800, "opinion": "hold", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1393372800, "opinion": "nice", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1393372800, "opinion": "slide", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1393372800, "opinion": "nice", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1393372800, "opinion": "removable", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "bottom-front", "time": 1393372800, "opinion": "entire", "productID": "B00HGZ247O"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393372800, "opinion": "received", "productID": "B00HGZ247O"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "increase", "time": 1393372800, "opinion": "small", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weather", "time": 1393372800, "opinion": "bad", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "peace-of-mind", "time": 1393372800, "opinion": "convenient", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "lot", "time": 1393372800, "opinion": "separate", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1393372800, "opinion": "notice", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "matte finish", "time": 1393372800, "opinion": "love", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1393372800, "opinion": "extra", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weight", "time": 1393372800, "opinion": "love", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1393372800, "opinion": "regular", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "material", "time": 1393372800, "opinion": "rubbery", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thickness.I", "time": 1393372800, "opinion": "extra", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "kickstand", "time": 1393372800, "opinion": "wimpy", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "quality", "time": 1393372800, "opinion": "good", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "extender", "time": 1393372800, "opinion": "audio", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "extender", "time": 1393372800, "opinion": "plug-in", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1393372800, "opinion": "USB", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "product page", "time": 1393372800, "opinion": "good", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1393372800, "opinion": "nice", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plug ends.I", "time": 1393372800, "opinion": "sturdy", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1393372800, "opinion": "thick", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1393372800, "opinion": "easy", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "product", "time": 1393372800, "opinion": "clear", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "product page", "time": 1393372800, "opinion": "reading", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1393372800, "opinion": "received", "productID": "B00HVORE3Y"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1392854400, "opinion": "drop", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1392854400, "opinion": "drop", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "email", "time": 1392854400, "opinion": "abrupt", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hunter", "time": 1392854400, "opinion": "fellow", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone number", "time": 1392854400, "opinion": "send", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "fisherman", "time": 1392854400, "opinion": "fellow", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "email", "time": 1392854400, "opinion": "received", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hunting guide", "time": 1392854400, "opinion": "experienced", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "fisherman", "time": 1392854400, "opinion": "experienced", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone case", "time": 1392854400, "opinion": "check", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1392854400, "opinion": "tested", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "port", "time": 1392854400, "opinion": "audio", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "inside.Be", "time": 1392854400, "opinion": "dry", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1392854400, "opinion": "change", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case.This", "time": 1392854400, "opinion": "everyday", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1392854400, "opinion": "received", "productID": "B00HZX8RTG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design phone", "time": 1392854400, "opinion": "svelte", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design phone", "time": 1392854400, "opinion": "maintain", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1392854400, "opinion": "give", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "TLC", "time": 1392854400, "opinion": "give", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1392854400, "opinion": "respect", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1392854400, "opinion": "fine", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "polyurethane", "time": 1392854400, "opinion": "thermoplastic", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "polyurethane", "time": 1392854400, "opinion": "absorbent", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "polyurethane", "time": 1392854400, "opinion": "resistant", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "bit", "time": 1392854400, "opinion": "pliable", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "bit", "time": 1392854400, "opinion": "rubbery", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1392854400, "opinion": "fit", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "glove", "time": 1392854400, "opinion": "custom-made", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1392854400, "opinion": "fine", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1392854400, "opinion": "stick", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1392854400, "opinion": "received", "productID": "B00IA8Z4R8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "winter storm", "time": 1391472000, "opinion": "mid-January", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "lot", "time": 1391472000, "opinion": "highway-turned-parking", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "story", "time": 1391472000, "opinion": "watching", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "size", "time": 1391472000, "opinion": "find", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thought!There", "time": 1391472000, "opinion": "heavy-duty", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391472000, "opinion": "largest", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plenty", "time": 1391472000, "opinion": "give", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1391472000, "opinion": "charging", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "purse", "time": 1391472000, "opinion": "small", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "video/game-play", "time": 1391472000, "opinion": "talk-time", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391472000, "opinion": "external", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1391472000, "opinion": "important", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "body", "time": 1391472000, "opinion": "shiny", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "body", "time": 1391472000, "opinion": "black", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "bronze frame", "time": 1391472000, "opinion": "dark", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "finger print", "time": 1391472000, "opinion": "leave", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "heads-up", "time": 1391472000, "opinion": "give", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "napkin", "time": 1391472000, "opinion": "n't use", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1391472000, "opinion": "four-LED-light", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display", "time": 1391472000, "opinion": "power-level", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display.It", "time": 1391472000, "opinion": "give", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "display.It", "time": 1391472000, "opinion": "three-light", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "print", "time": 1391472000, "opinion": "leave", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "flashlight advantage", "time": 1391472000, "opinion": "offering", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "feature", "time": 1391472000, "opinion": "popular", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mesh bag", "time": 1391472000, "opinion": "layered", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mesh bag", "time": 1391472000, "opinion": "simple", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "padding", "time": 1391472000, "opinion": "not provide", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wear", "time": 1391472000, "opinion": "normal", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wear", "time": 1391472000, "opinion": "daily", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord.If", "time": 1391472000, "opinion": "basic", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord.If", "time": 1391472000, "opinion": "USB", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "performance", "time": 1391472000, "opinion": "peak", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time.And", "time": 1391472000, "opinion": "long", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1391472000, "opinion": "received", "productID": "B00HVJL4Y4"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1391385600, "opinion": "full", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "protection", "time": 1391385600, "opinion": "simple", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1391385600, "opinion": "extra", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wear", "time": 1391385600, "opinion": "normal", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wear", "time": 1391385600, "opinion": "daily", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1391385600, "opinion": "knocked", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1391385600, "opinion": "writing", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1391385600, "opinion": "well-made", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1391385600, "opinion": "hard", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "ground", "time": 1391385600, "opinion": "hit", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1391385600, "opinion": "silvery-white", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1391385600, "opinion": "matte-finish", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1391385600, "opinion": "stick", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1391385600, "opinion": "black", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1391385600, "opinion": "blue", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "too.The cable", "time": 1391385600, "opinion": "heavy-duty", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "too.The cable", "time": 1391385600, "opinion": "USB", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "audio cable.Take", "time": 1391385600, "opinion": "durable", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "audio cable.Take", "time": 1391385600, "opinion": "pass-through", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plus.The", "time": 1391385600, "opinion": "big", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "kick-stand", "time": 1391385600, "opinion": "located", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED indicator", "time": 1391385600, "opinion": "four-light", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1391385600, "opinion": "received", "productID": "B00HX0QDEW"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1391385600, "opinion": "external", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "10000mAh", "time": 1391385600, "opinion": "smaller", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "review", "time": 1391385600, "opinion": "wrote", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "comment", "time": 1391385600, "opinion": "made", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391385600, "opinion": "great", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "half", "time": 1391385600, "opinion": "watched", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "half", "time": 1391385600, "opinion": "hit", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1391385600, "opinion": "long", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1391385600, "opinion": "Scary", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "person", "time": 1391385600, "opinion": "heroic", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "screen", "time": 1391385600, "opinion": "watching", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "capacity battery", "time": 1391385600, "opinion": "largest", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "TV screen", "time": 1391385600, "opinion": "imagining", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "person", "time": 1391385600, "opinion": "imagining", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery charger", "time": 1391385600, "opinion": "user-friendly", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "potential", "time": 1391385600, "opinion": "under-estimate", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery charger", "time": 1391385600, "opinion": "external", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1391385600, "opinion": "charging", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "call", "time": 1391385600, "opinion": "make", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "emergency", "time": 1391385600, "opinion": "dire", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "fate", "time": 1391385600, "opinion": "tempt", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "inconvenience", "time": 1391385600, "opinion": "minor", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "source", "time": 1391385600, "opinion": "charging", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "tablet", "time": 1391385600, "opinion": "re-charge", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1391385600, "opinion": "re-charge", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "purse", "time": 1391385600, "opinion": "larger-size", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "luggage", "time": 1391385600, "opinion": "carry-on", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "size", "time": 1391385600, "opinion": "inconsequential", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391385600, "opinion": "bigger", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "bag", "time": 1391385600, "opinion": "small", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "predecessor", "time": 1391385600, "opinion": "smaller", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "fact", "time": 1391385600, "opinion": "important", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "fact", "time": 1391385600, "opinion": "major", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391385600, "opinion": "external", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "manual", "time": 1391385600, "opinion": "simple", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "read-out", "time": 1391385600, "opinion": "digital", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "flashlight", "time": 1391385600, "opinion": "small", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "flashlight", "time": 1391385600, "opinion": "carry", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clutter", "time": 1391385600, "opinion": "prevents", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "heft", "time": 1391385600, "opinion": "half-pound", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "heft", "time": 1391385600, "opinion": "rationalize", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clutter", "time": 1391385600, "opinion": "helps", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391385600, "opinion": "prevents", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391385600, "opinion": "helps", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1391385600, "opinion": "Having", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1391385600, "opinion": "received", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "12V port", "time": 1390953600, "opinion": "fits", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "room", "time": 1390953600, "opinion": "loose", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "room", "time": 1390953600, "opinion": "fits", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED", "time": 1390953600, "opinion": "blue", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1390953600, "opinion": "brightest", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1390953600, "opinion": "good", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1390953600, "opinion": "brightest", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1390953600, "opinion": "USB", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord", "time": 1390953600, "opinion": "USB", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "concern", "time": 1390953600, "opinion": "main", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1390953600, "opinion": "decent", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "amount", "time": 1390953600, "opinion": "decent", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "tablet", "time": 1390953600, "opinion": "basic", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger.I use", "time": 1390953600, "opinion": "external", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger.I use", "time": 1390953600, "opinion": "expensive", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "vehicle.You", "time": 1390953600, "opinion": "crazy", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "kind", "time": 1390953600, "opinion": "not have", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1390953600, "opinion": "received", "productID": "B00HYHSZG8"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390435200, "opinion": "great", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "backup charger", "time": 1390435200, "opinion": "piece-of-mind", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "call", "time": 1390435200, "opinion": "make", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "emergency", "time": 1390435200, "opinion": "dire", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "source", "time": 1390435200, "opinion": "charging", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1390435200, "opinion": "long", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "tablet", "time": 1390435200, "opinion": "re-charge", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1390435200, "opinion": "re-charge", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "purse", "time": 1390435200, "opinion": "larger-size", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "luggage", "time": 1390435200, "opinion": "carry-on", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "size", "time": 1390435200, "opinion": "inconsequential", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "pouch", "time": 1390435200, "opinion": "drawstring", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "velour", "time": 1390435200, "opinion": "adequately-sized", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390435200, "opinion": "external", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "manual", "time": 1390435200, "opinion": "simple", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "read-out", "time": 1390435200, "opinion": "digital", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "flashlight", "time": 1390435200, "opinion": "small", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "flashlight", "time": 1390435200, "opinion": "carry", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clutter", "time": 1390435200, "opinion": "prevents", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "heft.I", "time": 1390435200, "opinion": "half-pound", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "clutter", "time": 1390435200, "opinion": "helps", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390435200, "opinion": "prevents", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390435200, "opinion": "helps", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390435200, "opinion": "Having", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390435200, "opinion": "fine", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1390435200, "opinion": "received", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "from!For", "time": 1390348800, "opinion": "choose", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "timer", "time": 1390348800, "opinion": "n't get", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1390348800, "opinion": "watch", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1390348800, "opinion": "n't get", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1390348800, "opinion": "fine", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "external", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "flashlight", "time": 1390348800, "opinion": "built-in", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "re-charge", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1390348800, "opinion": "charge", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "idea", "time": 1390348800, "opinion": "great", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "not tossing", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cell", "time": 1390348800, "opinion": "small", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cell", "time": 1390348800, "opinion": "old-fashioned", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hamburger", "time": 1390348800, "opinion": "quarter-pound", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "output", "time": 1390348800, "opinion": "offer", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sense", "time": 1390348800, "opinion": "common", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "head", "time": 1390348800, "opinion": "not raise", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1390348800, "opinion": "holds", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1390348800, "opinion": "long", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1390348800, "opinion": "check", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "velour bag", "time": 1390348800, "opinion": "cheapo", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1390348800, "opinion": "shiny", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1390348800, "opinion": "protect", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "front", "time": 1390348800, "opinion": "black", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "quality", "time": 1390348800, "opinion": "nice", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "front", "time": 1390348800, "opinion": "white", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "easily.An observation", "time": 1390348800, "opinion": "dull", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "band", "time": 1390348800, "opinion": "rubber-like", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "band", "time": 1390348800, "opinion": "dull", "productID": "B00GDQ6DG0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1390348800, "opinion": "received", "productID": "B00GDQ6DG0"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "Amp charger", "time": 1390348800, "opinion": "single", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cell", "time": 1390348800, "opinion": "larger", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cell", "time": 1390348800, "opinion": "fold-up", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cell", "time": 1390348800, "opinion": "old-fashioned", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "purse", "time": 1390348800, "opinion": "small", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "burger patty", "time": 1390348800, "opinion": "quarter-pound", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "thought", "time": 1390348800, "opinion": "give", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "thought", "time": 1390348800, "opinion": "good", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "emergency charger", "time": 1390348800, "opinion": "back-up", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "from!For", "time": 1390348800, "opinion": "choose", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "timer", "time": 1390348800, "opinion": "n't get", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1390348800, "opinion": "watch", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1390348800, "opinion": "n't get", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "job", "time": 1390348800, "opinion": "fine", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "external", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "re-charge", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1390348800, "opinion": "charge", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1390348800, "opinion": "holds", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "time", "time": 1390348800, "opinion": "long", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1390348800, "opinion": "check", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "protection", "time": 1390348800, "opinion": "provide", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "protection", "time": 1390348800, "opinion": "extra", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feel", "time": 1390348800, "opinion": "rubbery", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "feel", "time": 1390348800, "opinion": "soft", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "flashlight", "time": 1390348800, "opinion": "built-in", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sense", "time": 1390348800, "opinion": "common", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "head", "time": 1390348800, "opinion": "not raise", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "idea", "time": 1390348800, "opinion": "great", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "not tossing", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1390348800, "opinion": "hold", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1390348800, "opinion": "USB", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "velour bag", "time": 1390348800, "opinion": "cheapo", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "protection", "time": 1390348800, "opinion": "offers", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "drop", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "observation", "time": 1390348800, "opinion": "clean.An", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "lot", "time": 1390348800, "opinion": "accumulated", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "observation", "time": 1390348800, "opinion": "not black", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1390348800, "opinion": "accumulated", "productID": "B00GDQFWRG"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1390348800, "opinion": "received", "productID": "B00GDQFWRG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cover", "time": 1389484800, "opinion": "tough", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "access", "time": 1389484800, "opinion": "not dainty", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "access", "time": 1389484800, "opinion": "quick", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cellphone look", "time": 1389484800, "opinion": "make", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Description", "time": 1389484800, "opinion": "read", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cellphone look", "time": 1389484800, "opinion": "charming", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cellphone look", "time": 1389484800, "opinion": "handsome", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "grasp", "time": 1389484800, "opinion": "hold", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1389484800, "opinion": "outer", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic frame", "time": 1389484800, "opinion": "hard", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1389484800, "opinion": "rubber-like", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1389484800, "opinion": "thick", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "business", "time": 1389484800, "opinion": "shows", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "money", "time": 1389484800, "opinion": "shows", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "business", "time": 1389484800, "opinion": "means", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "frame", "time": 1389484800, "opinion": "soft", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "money", "time": 1389484800, "opinion": "means", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "screen", "time": 1389484800, "opinion": "protect", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "screen protector", "time": 1389484800, "opinion": "thin", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1389484800, "opinion": "hard", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "spring-action", "time": 1389484800, "opinion": "sturdy", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plate", "time": 1389484800, "opinion": "thin", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "action", "time": 1389484800, "opinion": "spring-like", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wire", "time": 1389484800, "opinion": "catch", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1389484800, "opinion": "decent", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1389484800, "opinion": "protect", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1389484800, "opinion": "not release", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "knowledge", "time": 1389484800, "opinion": "Having", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "knowledge", "time": 1389484800, "opinion": "intimate", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1389484800, "opinion": "inserting", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sense", "time": 1389484800, "opinion": "common", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sense", "time": 1389484800, "opinion": "Using", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "belt", "time": 1389484800, "opinion": "largest", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "screen protector", "time": 1389484800, "opinion": "not clear", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "screen", "time": 1389484800, "opinion": "translucent", "productID": "B00HICP2OC"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1389484800, "opinion": "received", "productID": "B00HICP2OC"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "problem", "time": 1389398400, "opinion": "big", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "music", "time": 1389398400, "opinion": "control", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1389398400, "opinion": "carry", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "speaker", "time": 1389398400, "opinion": "carry", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1389398400, "opinion": "leave", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "music", "time": 1389398400, "opinion": "control", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "button", "time": 1389398400, "opinion": "on/off", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "glass window", "time": 1389398400, "opinion": "closed", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "breaking", "time": 1389398400, "opinion": "sound", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "place", "time": 1389398400, "opinion": "convenient", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "place", "time": 1389398400, "opinion": "find", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "depth", "time": 1389398400, "opinion": "nice", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "dimension", "time": 1389398400, "opinion": "nice", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sound", "time": 1389398400, "opinion": "not bad", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "hub", "time": 1389398400, "opinion": "USB", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "wall", "time": 1389398400, "opinion": "plug-in", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1389398400, "opinion": "gray", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1389398400, "opinion": "dark", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "finish", "time": 1389398400, "opinion": "shiny", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "bluetooth speaker", "time": 1389398400, "opinion": "smallest", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "warranty", "time": 1389398400, "opinion": "one-year", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "level", "time": 1389398400, "opinion": "Waterproof", "productID": "B00HIUL1JO"}
+{"overall": 4.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1389398400, "opinion": "received", "productID": "B00HIUL1JO"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "iPod Generation", "time": 1388102400, "opinion": "5th", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "iPod Generation", "time": 1388102400, "opinion": "fit", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1388102400, "opinion": "charging", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "intent", "time": 1388102400, "opinion": "primary", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "plastic", "time": 1388102400, "opinion": "lightweight", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design", "time": 1388102400, "opinion": "easy-to-use", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "5S", "time": 1388102400, "opinion": "black", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "iPod", "time": 1388102400, "opinion": "black", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "slimness", "time": 1388102400, "opinion": "maintains", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "profile", "time": 1388102400, "opinion": "maintains", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design", "time": 1388102400, "opinion": "slim", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "design", "time": 1388102400, "opinion": "maintains", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "profile", "time": 1388102400, "opinion": "low", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "slimness", "time": 1388102400, "opinion": "love", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1388102400, "opinion": "protective", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1388102400, "opinion": "tougher", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1388102400, "opinion": "stepping", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "slimness", "time": 1388102400, "opinion": "lose", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1388102400, "opinion": "dropping", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "color selection", "time": 1388102400, "opinion": "expect", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1388102400, "opinion": "potent", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1388102400, "opinion": "powerful", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1388102400, "opinion": "holds", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "silver", "time": 1388102400, "opinion": "tiny", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hub", "time": 1388102400, "opinion": "USB", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "quality", "time": 1388102400, "opinion": "top", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "mat", "time": 1388102400, "opinion": "charging", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1388102400, "opinion": "well-constructed", "productID": "B00GBFQWEG"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Generation", "time": 1388102400, "opinion": "5th", "productID": "B00GBFQWEG"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1386028800, "opinion": "easy-to-stash-and-go", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1386028800, "opinion": "external", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "boast", "time": 1386028800, "opinion": "correct", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1386028800, "opinion": "compact", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "thing", "time": 1386028800, "opinion": "good", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "rating", "time": 1386028800, "opinion": "four-star", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "warranty also.Why", "time": 1386028800, "opinion": "not has", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "warranty also.Why", "time": 1386028800, "opinion": "good", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "advertising", "time": 1386028800, "opinion": "free", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "problem", "time": 1386028800, "opinion": "major", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "glaring", "time": 1386028800, "opinion": "in-your-face", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "color", "time": 1386028800, "opinion": "neutral", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "pink", "time": 1386028800, "opinion": "bright", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "pink", "time": 1386028800, "opinion": "hot", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "advertising", "time": 1386028800, "opinion": "misleading", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1386028800, "opinion": "charging", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "match either.Another", "time": 1386028800, "opinion": "exact", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1386028800, "opinion": "charge", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "cable", "time": 1386028800, "opinion": "pink", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "device", "time": 1386028800, "opinion": "charge", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1386028800, "opinion": "dividing", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "power", "time": 1386028800, "opinion": "full", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "Peace", "time": 1386028800, "opinion": "important", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "business model", "time": 1386028800, "opinion": "slim", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "business model", "time": 1386028800, "opinion": "unobtrusive", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "business model", "time": 1386028800, "opinion": "card-sized", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1386028800, "opinion": "received", "productID": "B00EZ71LM0"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "travel time", "time": 1385424000, "opinion": "high-volume", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "weather", "time": 1385424000, "opinion": "bad", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1385424000, "opinion": "simple", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power bank", "time": 1385424000, "opinion": "charge", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1385424000, "opinion": "adequate", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "situation.So", "time": 1385424000, "opinion": "challenging", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "matte finish", "time": 1385424000, "opinion": "black", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "silver metal", "time": 1385424000, "opinion": "blue", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "silver metal", "time": 1385424000, "opinion": "trim", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "assistance", "time": 1385424000, "opinion": "easy-to-access", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "&#34;", "time": 1385424000, "opinion": "minimal", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "assistance", "time": 1385424000, "opinion": "technical", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "assistance", "time": 1385424000, "opinion": "provided", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "&#34;", "time": 1385424000, "opinion": "manual", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1385424000, "opinion": "received", "productID": "B00GJYJFKM"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "individual", "time": 1385251200, "opinion": "safety-minded", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1385251200, "opinion": "great", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "parent", "time": 1385251200, "opinion": "concerned", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "places.Better", "time": 1385251200, "opinion": "unfamiliar", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power source", "time": 1385251200, "opinion": "not available", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "piece", "time": 1385251200, "opinion": "small", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "piece", "time": 1385251200, "opinion": "simple", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "trek", "time": 1385251200, "opinion": "recreational", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "case", "time": 1385251200, "opinion": "carry", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "idea", "time": 1385251200, "opinion": "terrific", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "item", "time": 1385251200, "opinion": "add-on", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "shipping", "time": 1385251200, "opinion": "free", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "baggie", "time": 1385251200, "opinion": "snack-size", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1385251200, "opinion": "received", "productID": "B00GIDNNRA"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1385251200, "opinion": "6-port", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "slots.Enter", "time": 1385251200, "opinion": "lower", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "fact", "time": 1385251200, "opinion": "love", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "locations.On", "time": 1385251200, "opinion": "convenient", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wall outlet", "time": 1385251200, "opinion": "low", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "file cabinet", "time": 1385251200, "opinion": "four-drawer", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "rubber", "time": 1385251200, "opinion": "tough", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "phone", "time": 1385251200, "opinion": "Unite", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "toggle switch", "time": 1385251200, "opinion": "on/off", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1385251200, "opinion": "3-port", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Fire HDX", "time": 1385251200, "opinion": "Kindle", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "part", "time": 1385251200, "opinion": "unbending", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "set", "time": 1385251200, "opinion": "black", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "set", "time": 1385251200, "opinion": "shiny", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "matte", "time": 1385251200, "opinion": "black", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "point", "time": 1385251200, "opinion": "highest", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "wiggle.The charger", "time": 1385251200, "opinion": "6-port", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "matte", "time": 1385251200, "opinion": "compatible", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "matte", "time": 1385251200, "opinion": "compact", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "orientation", "time": 1385251200, "opinion": "opposite", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED light", "time": 1385251200, "opinion": "bright", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED light", "time": 1385251200, "opinion": "blue", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1385251200, "opinion": "6-port", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1385251200, "opinion": "received", "productID": "B00GN0AO34"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1383696000, "opinion": "Enhanced", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "Battery", "time": 1383696000, "opinion": "Rechargeable", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power slot", "time": 1383696000, "opinion": "auxiliary", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "power portal", "time": 1383696000, "opinion": "auxiliary", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "cord.I", "time": 1383696000, "opinion": "USB", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "hand", "time": 1383696000, "opinion": "guide", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED light", "time": 1383696000, "opinion": "blue", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "LED light", "time": 1383696000, "opinion": "subtle", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1383696000, "opinion": "distracting.This", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1383696000, "opinion": "bright", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1383696000, "opinion": "simple", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "charger", "time": 1383696000, "opinion": "fine", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "AT53ZTTO707MB", "feature": "sample product", "time": 1383696000, "opinion": "received", "productID": "B00D64PN36"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1332979200, "opinion": "full", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "life span", "time": 1332979200, "opinion": "preserves", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1332979200, "opinion": "switches", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1332979200, "opinion": "preserves", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "battery", "time": 1332979200, "opinion": "protects", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "chip", "time": 1332979200, "opinion": "smart", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "charge", "time": 1332979200, "opinion": "recognizes", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "chip", "time": 1332979200, "opinion": "built-in", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "light", "time": 1332979200, "opinion": "green", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "piece", "time": 1332979200, "opinion": "put", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "?!?", "time": 1332979200, "opinion": "attractive", "productID": "B001UB279A"}
+{"overall": 2.0, "userID": "AT53ZTTO707MB", "feature": "too.Good thing", "time": 1332979200, "opinion": "cord", "productID": "B001UB279A"}

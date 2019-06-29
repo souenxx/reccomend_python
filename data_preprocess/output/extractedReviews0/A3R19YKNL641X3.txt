@@ -1,0 +1,775 @@
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "protection", "time": 1405814400, "opinion": "good", "productID": "B00HR8KS1E"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1405814400, "opinion": "light-weight", "productID": "B00HR8KS1E"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "lip", "time": 1405814400, "opinion": "minimal", "productID": "B00HR8KS1E"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1405728000, "opinion": "single", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1405728000, "opinion": "multi-function", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1405728000, "opinion": "hold", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "usage", "time": 1405728000, "opinion": "actual", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1405728000, "opinion": "snagging", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "set", "time": 1405728000, "opinion": "yanking", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "mass", "time": 1405728000, "opinion": "additional", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "side", "time": 1405728000, "opinion": "flip", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1405728000, "opinion": "good", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1405728000, "opinion": "sound", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "movement", "time": 1405728000, "opinion": "normal", "productID": "B00ELJ6KB4"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "exercise", "time": 1405728000, "opinion": "vigorous", "productID": "B00ELJ6KB4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "2600mah", "time": 1405555200, "opinion": "received", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "OXA 2600mah", "time": 1405555200, "opinion": "designed", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "5S", "time": 1405555200, "opinion": "all.On", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1405555200, "opinion": "recharge", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "5S", "time": 1405555200, "opinion": "classy", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "backup charge", "time": 1405555200, "opinion": "good", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "house", "time": 1405555200, "opinion": "left", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "basis.I", "time": 1405555200, "opinion": "daily", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1405555200, "opinion": "smaller", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "basis", "time": 1405555200, "opinion": "regular", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "side", "time": 1405555200, "opinion": "positive", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "value.Disclosure", "time": 1405555200, "opinion": "excellent", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "option", "time": 1405555200, "opinion": "excellent", "productID": "B00H3YIFZI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "review unit", "time": 1404000000, "opinion": "receiving", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "mix", "time": 1404000000, "opinion": "nice", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1404000000, "opinion": "ideal", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1404000000, "opinion": "USB", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1404000000, "opinion": "normal", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1404000000, "opinion": "micro", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "flashlight", "time": 1404000000, "opinion": "built-in", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power button", "time": 1404000000, "opinion": "click", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "display", "time": 1404000000, "opinion": "digital", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "output", "time": 1404000000, "opinion": "port/power", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "speed", "time": 1404000000, "opinion": "recharging", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lettering", "time": 1404000000, "opinion": "embossed", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1404000000, "opinion": "taking", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "capacity.I", "time": 1404000000, "opinion": "full", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1404000000, "opinion": "recharge", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "circumstances.Disclosure", "time": 1404000000, "opinion": "normal", "productID": "B00C13YSIO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1404000000, "opinion": "recharge", "productID": "B00C13YSIO"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1403654400, "opinion": "mobile", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "road", "time": 1403654400, "opinion": "running", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "selling point", "time": 1403654400, "opinion": "main", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "post", "time": 1403654400, "opinion": "handlebar", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1403654400, "opinion": "n't release", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "plastic", "time": 1403654400, "opinion": "hard", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cover", "time": 1403654400, "opinion": "clear", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phones.Disclosure", "time": 1403654400, "opinion": "upgrade", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1403654400, "opinion": "cut", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "engineering", "time": 1403654400, "opinion": "creative", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cover", "time": 1403654400, "opinion": "clear", "productID": "B00BN7XNQW"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "entry", "time": 1403654400, "opinion": "top", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "entry", "time": 1403654400, "opinion": "found", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "feature", "time": 1403654400, "opinion": "great", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "flash", "time": 1403654400, "opinion": "fast", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "blink", "time": 1403654400, "opinion": "slow", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "LED lighting", "time": 1403654400, "opinion": "green", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "flash", "time": 1403654400, "opinion": "seizure-inducing", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "arm", "time": 1403654400, "opinion": "slide", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "arm", "time": 1403654400, "opinion": "falling", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "screen", "time": 1403654400, "opinion": "control", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "material", "time": 1403654400, "opinion": "comfortable", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1403654400, "opinion": "transfer", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "pressure", "time": 1403654400, "opinion": "adjust", "productID": "B00KBZ414K"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "weight", "time": 1403654400, "opinion": "lose", "productID": "B00KBZ414K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1403049600, "opinion": "mobile", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1403049600, "opinion": "external", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1403049600, "opinion": "mid-range", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "user", "time": 1403049600, "opinion": "heavy", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "user", "time": 1403049600, "opinion": "mobile", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "information", "time": 1403049600, "opinion": "give", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "display", "time": 1403049600, "opinion": "love", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "display", "time": 1403049600, "opinion": "digital", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "illumination", "time": 1403049600, "opinion": "extra", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "LED flashlight", "time": 1403049600, "opinion": "built-in", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1403049600, "opinion": "mobile", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "combination", "time": 1403049600, "opinion": "good", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "moment.Disclosure", "time": 1403049600, "opinion": "critical", "productID": "B00IMZKDOS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Swede", "time": 1402790400, "opinion": "Friendly", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "idea.The", "time": 1402790400, "opinion": "great", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "package", "time": 1402790400, "opinion": "main", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "pen", "time": 1402790400, "opinion": "full-sized", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "length", "time": 1402790400, "opinion": "preferred", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "design", "time": 1402790400, "opinion": "knit", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1402790400, "opinion": "decent", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "streak", "time": 1402790400, "opinion": "n't do", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "streak", "time": 1402790400, "opinion": "find", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1402790400, "opinion": "clip", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "bundle", "time": 1402790400, "opinion": "great", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "price", "time": 1402790400, "opinion": "great", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cloth", "time": 1402790400, "opinion": "small", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "one.Disclosure", "time": 1402790400, "opinion": "recommend", "productID": "B00K4NVRR8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cell case", "time": 1402272000, "opinion": "latest", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "shell case", "time": 1402272000, "opinion": "also replaced", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "better.The case", "time": 1402272000, "opinion": "light", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "damage", "time": 1402272000, "opinion": "structural", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1402272000, "opinion": "toss", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1402272000, "opinion": "entire", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "casing", "time": 1402272000, "opinion": "plastic", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "damage", "time": 1402272000, "opinion": "prevent", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Ice case", "time": 1402272000, "opinion": "clear", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "mix", "time": 1402272000, "opinion": "nice", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1402272000, "opinion": "top", "productID": "B0093IHVJI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger battery", "time": 1402272000, "opinion": "USB", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger battery", "time": 1402272000, "opinion": "external", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger battery", "time": 1402272000, "opinion": "started", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "trip", "time": 1402272000, "opinion": "week-long", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1402272000, "opinion": "great", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "5S", "time": 1402272000, "opinion": "recharge", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "equivalent", "time": 1402272000, "opinion": "running", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "LED", "time": 1402272000, "opinion": "single", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "coating", "time": 1402272000, "opinion": "black", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "control", "time": 1402272000, "opinion": "on/off", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "coating", "time": 1402272000, "opinion": "high-gloss", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "switch", "time": 1402272000, "opinion": "on/off", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1402272000, "opinion": "beefy", "productID": "B00IA76GNK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "combination", "time": 1402272000, "opinion": "hard", "productID": "B00IA76GNK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "approach", "time": 1402272000, "opinion": "cute", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1402272000, "opinion": "2-in-1", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1402272000, "opinion": "USB", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "connector", "time": 1402272000, "opinion": "micro-USB", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "option", "time": 1402272000, "opinion": "great", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "guy", "time": 1402272000, "opinion": "hippo-kinda", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1402272000, "opinion": "USB", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "rubber", "time": 1402272000, "opinion": "flexible", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "length", "time": 1402272000, "opinion": "effective", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "deal", "time": 1402272000, "opinion": "good", "productID": "B00JLQU9DC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1401667200, "opinion": "iHangy", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sleeve", "time": 1401667200, "opinion": "silicon-based", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "job", "time": 1401667200, "opinion": "good", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1401667200, "opinion": "outer", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plastic shell", "time": 1401667200, "opinion": "hard", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cover", "time": 1401667200, "opinion": "shell-style", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1401667200, "opinion": "plastic", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "photo lens", "time": 1401667200, "opinion": "front", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1401667200, "opinion": "front", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1401667200, "opinion": "good", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "length", "time": 1401667200, "opinion": "adjust", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1401667200, "opinion": "small", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lock", "time": 1401667200, "opinion": "n't get", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1401667200, "opinion": "not coming", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "shell", "time": 1401667200, "opinion": "outer", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1401667200, "opinion": "stick", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1401667200, "opinion": "everyday", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "option", "time": 1401667200, "opinion": "great", "productID": "B00JAOFPZW"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1401408000, "opinion": "micro-USB", "productID": "B00IDI70SQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "difference", "time": 1401408000, "opinion": "makes", "productID": "B00IDI70SQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "adapter piece", "time": 1401408000, "opinion": "selling", "productID": "B00IDI70SQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1401321600, "opinion": "portable", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1401321600, "opinion": "smaller", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1401321600, "opinion": "compact", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1401321600, "opinion": "meaning", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1401321600, "opinion": "recharge", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1401321600, "opinion": "compact", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1401321600, "opinion": "nice", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "performance", "time": 1401321600, "opinion": "good", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1401321600, "opinion": "full", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "track", "time": 1401321600, "opinion": "lost", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "LED display", "time": 1401321600, "opinion": "multiple", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "flashlight", "time": 1401321600, "opinion": "built-in", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "feature", "time": 1401321600, "opinion": "handy", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "set", "time": 1401321600, "opinion": "price/size/feature", "productID": "B00H9MVEI4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery charger.Disclosure", "time": 1401321600, "opinion": "external", "productID": "B00H9MVEI4"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1401148800, "opinion": "external", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "opportunity", "time": 1401148800, "opinion": "works", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1401148800, "opinion": "supplied", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "5S", "time": 1401148800, "opinion": "recharge", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "indicator", "time": 1401148800, "opinion": "remaining", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "time", "time": 1401148800, "opinion": "charging", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "indicator light", "time": 1401148800, "opinion": "red", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1401148800, "opinion": "charging", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "indicator", "time": 1401148800, "opinion": "blue", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "light", "time": 1401148800, "opinion": "stayed", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "light", "time": 1401148800, "opinion": "blue", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1401148800, "opinion": "refresh", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1401148800, "opinion": "full", "productID": "B00FNWJGFK"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "charger.Disclosure", "time": 1401148800, "opinion": "basic", "productID": "B00FNWJGFK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "stand", "time": 1400630400, "opinion": "portable", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "stand", "time": 1400630400, "opinion": "n't think", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1400630400, "opinion": "holds", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1400630400, "opinion": "unobtrusive", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "aluminum", "time": 1400630400, "opinion": "solid", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1400630400, "opinion": "stable.The", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "stand", "time": 1400630400, "opinion": "single", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1400630400, "opinion": "back", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plastic", "time": 1400630400, "opinion": "heavy-duty", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1400630400, "opinion": "cool", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "angle", "time": 1400630400, "opinion": "controls", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1400630400, "opinion": "recessed", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1400630400, "opinion": "back", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1400630400, "opinion": "release", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "button", "time": 1400630400, "opinion": "push", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1400630400, "opinion": "n't have", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "quirk", "time": 1400630400, "opinion": "point", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "problem", "time": 1400630400, "opinion": "true", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "bottom", "time": 1400630400, "opinion": "flush", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1400630400, "opinion": "n't lay", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "piece", "time": 1400630400, "opinion": "remarkable", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "home", "time": 1400630400, "opinion": "permanent", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "it.Disclosure", "time": 1400630400, "opinion": "not using", "productID": "B00JSU430G"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "gadget", "time": 1400371200, "opinion": "cool", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1400371200, "opinion": "short", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "housing", "time": 1400371200, "opinion": "clever", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1400371200, "opinion": "clear", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord slack", "time": 1400371200, "opinion": "extra", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device plug", "time": 1400371200, "opinion": "remove", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1400371200, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1400371200, "opinion": "recharge", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "reverse", "time": 1400371200, "opinion": "fits", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1400371200, "opinion": "spare", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1400371200, "opinion": "n't bring", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1400371200, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "idea", "time": 1400371200, "opinion": "Great", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sync", "time": 1400371200, "opinion": "USB", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1400371200, "opinion": "charging", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sync", "time": 1400371200, "opinion": "K-ble", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge cable", "time": 1400371200, "opinion": "USB", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge cable", "time": 1400371200, "opinion": "K-ble", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "order", "time": 1400371200, "opinion": "short", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1400371200, "opinion": "thicker", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "feature", "time": 1400371200, "opinion": "great", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "outlet", "time": 1400371200, "opinion": "located", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "ft", "time": 1400371200, "opinion": "standard", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1400371200, "opinion": "remain", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "speed", "time": 1400371200, "opinion": "slower", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "length", "time": 1400371200, "opinion": "additional", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1400371200, "opinion": "heavier", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "speed difference", "time": 1400371200, "opinion": "n't problematic", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "ft cable", "time": 1400371200, "opinion": "not need", "productID": "B00JWY5TRY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "review unit", "time": 1399075200, "opinion": "receiving", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "mix", "time": 1399075200, "opinion": "nice", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1399075200, "opinion": "ideal", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1399075200, "opinion": "USB", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1399075200, "opinion": "normal", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1399075200, "opinion": "micro", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1399075200, "opinion": "USB", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lightning connector", "time": 1399075200, "opinion": "micro", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lightning connector", "time": 1399075200, "opinion": "USB", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lightning connector", "time": 1399075200, "opinion": "30-pin", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lightning connector", "time": 1399075200, "opinion": "mini", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "flashlight", "time": 1399075200, "opinion": "built-in", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power button", "time": 1399075200, "opinion": "click", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "velvet bag", "time": 1399075200, "opinion": "included", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "velvet bag", "time": 1399075200, "opinion": "grey", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "display", "time": 1399075200, "opinion": "digital", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "output", "time": 1399075200, "opinion": "port/power", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lettering", "time": 1399075200, "opinion": "embossed", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "speed", "time": 1399075200, "opinion": "recharging", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1399075200, "opinion": "unplugged", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1399075200, "opinion": "plug", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1399075200, "opinion": "taking", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1399075200, "opinion": "full", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "circumstances.Disclosure", "time": 1399075200, "opinion": "normal", "productID": "B00E2TT8W6"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1399075200, "opinion": "recharge", "productID": "B00E2TT8W6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "addition", "time": 1398729600, "opinion": "solid", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "S1 battery", "time": 1398729600, "opinion": "external", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "LED indicator", "time": 1398729600, "opinion": "single", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1398729600, "opinion": "regular", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1398729600, "opinion": "good", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "side", "time": 1398729600, "opinion": "slow", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "LED", "time": 1398729600, "opinion": "fourth", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "2A plug", "time": 1398729600, "opinion": "charge", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1398729600, "opinion": "single", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1398729600, "opinion": "mobile", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1398729600, "opinion": "overwhelming", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "basis.Overall", "time": 1398729600, "opinion": "regular", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1398729600, "opinion": "handy", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1398729600, "opinion": "nice", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "power button", "time": 1398729600, "opinion": "double-clicking", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1398729600, "opinion": "left", "productID": "B00E327OIM"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "choice.Disclosure", "time": 1398729600, "opinion": "good", "productID": "B00E327OIM"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "concept", "time": 1398556800, "opinion": "interesting", "productID": "B00FK0ECYA"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "ring", "time": 1398556800, "opinion": "key", "productID": "B00FK0ECYA"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1398556800, "opinion": "nice", "productID": "B00FK0ECYA"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "with.Overall", "time": 1398556800, "opinion": "n't help", "productID": "B00FK0ECYA"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1398556800, "opinion": "calling", "productID": "B00FK0ECYA"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "design", "time": 1398556800, "opinion": "current", "productID": "B00FK0ECYA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1398470400, "opinion": "external", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1398470400, "opinion": "bigger-than-usual", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1398470400, "opinion": "USB", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1398470400, "opinion": "expecting", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "negatives.First", "time": 1398470400, "opinion": "outweigh", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger/power supply", "time": 1398470400, "opinion": "full-on", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "laptop", "time": 1398470400, "opinion": "full-sized", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "laptop", "time": 1398470400, "opinion": "charge", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1398470400, "opinion": "non-USB", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "variety", "time": 1398470400, "opinion": "handle", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power plug", "time": 1398470400, "opinion": "full-sized", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "output cord", "time": 1398470400, "opinion": "shorter", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "rubber holder", "time": 1398470400, "opinion": "fits", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1398470400, "opinion": "main", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1398470400, "opinion": "external", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "laptop", "time": 1398470400, "opinion": "n't used", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "computer", "time": 1398470400, "opinion": "restart", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1398470400, "opinion": "max", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "OXA", "time": 1398470400, "opinion": ":-RRB-", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1398470400, "opinion": "external", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "laptop", "time": 1398470400, "opinion": "plug", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1398470400, "opinion": "plug", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "problem", "time": 1398470400, "opinion": "real", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "bonus.The", "time": 1398470400, "opinion": "major", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "laptop charger", "time": 1398470400, "opinion": "replaces", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "speaker", "time": 1398470400, "opinion": "native", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "product", "time": 1398470400, "opinion": "flawless", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sequences.The OXA", "time": 1398470400, "opinion": "button-press", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "flexibility", "time": 1398470400, "opinion": "n't need", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1398470400, "opinion": "n't need", "productID": "B00HJKRQAQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "no-brainer", "time": 1398470400, "opinion": "hands-down", "productID": "B00HJKRQAQ"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1398384000, "opinion": "nice", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "bit", "time": 1398384000, "opinion": "spend", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "assortment.The reason", "time": 1398384000, "opinion": "multi-pack", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "tip", "time": 1398384000, "opinion": "rubberized", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1398384000, "opinion": "nice", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "assortment.The reason", "time": 1398384000, "opinion": "main", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1398384000, "opinion": "short", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1398384000, "opinion": "full-size", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "writing/note", "time": 1398384000, "opinion": "extended", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "fashion", "time": 1398384000, "opinion": "pen-like", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1398384000, "opinion": "mobile", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "basis", "time": 1398384000, "opinion": "regular", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "stylus", "time": 1398384000, "opinion": "lose", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "option", "time": 1398384000, "opinion": "good", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "group", "time": 1398384000, "opinion": "larger", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "price point.Disclosure", "time": 1398384000, "opinion": "decent", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1398384000, "opinion": "decent", "productID": "B007R29HVC"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "price point.Disclosure", "time": 1398384000, "opinion": "excellent", "productID": "B007R29HVC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "tip", "time": 1398384000, "opinion": "mesh-like", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "range", "time": 1398384000, "opinion": "good", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "length", "time": 1398384000, "opinion": "longer", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "silver", "time": 1398384000, "opinion": "professional", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "mini-stylus", "time": 1398384000, "opinion": "purple", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "mini-stylus", "time": 1398384000, "opinion": "bright", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "thing", "time": 1398384000, "opinion": "minor", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "coloring", "time": 1398384000, "opinion": "black", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "coloring", "time": 1398384000, "opinion": "professional", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1398384000, "opinion": "good", "productID": "B00EU79YH4"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "number", "time": 1395187200, "opinion": "reviewing", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Battery Case", "time": 1395187200, "opinion": "Protective", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "portion", "time": 1395187200, "opinion": "lower", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "portion", "time": 1395187200, "opinion": "top", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "ease", "time": 1395187200, "opinion": "important", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "level", "time": 1395187200, "opinion": "nice", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "problem", "time": 1395187200, "opinion": "n't have", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "jack", "time": 1395187200, "opinion": "straight", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "benefit", "time": 1395187200, "opinion": "major", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1395187200, "opinion": "micro-USB", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "care", "time": 1395187200, "opinion": "n't do", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1395187200, "opinion": "micro-USB", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "ease", "time": 1395187200, "opinion": "appreciated", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone case.I", "time": 1395187200, "opinion": "regular", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1395187200, "opinion": "micro-USB", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "night", "time": 1395187200, "opinion": "recharging", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "juice", "time": 1395187200, "opinion": "extra", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1395187200, "opinion": "nice", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "piece", "time": 1395187200, "opinion": "shiny", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "gold look", "time": 1395187200, "opinion": "brushed", "productID": "B00B1UQBGA"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "piece", "time": 1395187200, "opinion": "gaudy", "productID": "B00B1UQBGA"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1393113600, "opinion": "nice", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "concept", "time": 1393113600, "opinion": "interesting", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1393113600, "opinion": "sturdy", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "something.The coloring", "time": 1393113600, "opinion": "bright", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "something.The coloring", "time": 1393113600, "opinion": "red", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "level", "time": 1393113600, "opinion": "good", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "portrait stand", "time": 1393113600, "opinion": "provide", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "drawback", "time": 1393113600, "opinion": "real", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1393113600, "opinion": "carry", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "stand", "time": 1393113600, "opinion": "snap", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "benefit", "time": 1393113600, "opinion": "main", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "basis", "time": 1393113600, "opinion": "regular", "productID": "B00DBEK0TI"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1393113600, "opinion": "everyday", "productID": "B00DBEK0TI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "shell case", "time": 1393113600, "opinion": "nice", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "pattern", "time": 1393113600, "opinion": "vivid", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "shell case", "time": 1393113600, "opinion": "hard", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "pattern", "time": 1393113600, "opinion": "abstract", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "shell", "time": 1393113600, "opinion": "hard", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "level", "time": 1393113600, "opinion": "good", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1393113600, "opinion": "fine", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "scuffing", "time": 1393113600, "opinion": "minor", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "protection", "time": 1393113600, "opinion": "complete", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "feature", "time": 1393113600, "opinion": "nice", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "feature", "time": 1393113600, "opinion": "obvious", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1393113600, "opinion": "good", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1393113600, "opinion": "grabbed", "productID": "B00E8GYIRI"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1393113600, "opinion": "good", "productID": "B00E8GYIRI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Dual-port 3A", "time": 1391558400, "opinion": "testing", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "review unit", "time": 1391558400, "opinion": "receiving", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "friend", "time": 1391558400, "opinion": "fond", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "outlet", "time": 1391558400, "opinion": "found", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1391558400, "opinion": "largest", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "15000mAh", "time": 1391558400, "opinion": "returned.At", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1391558400, "opinion": "charge", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "tablet", "time": 1391558400, "opinion": "charge", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1391558400, "opinion": "USB", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1391558400, "opinion": "normal", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1391558400, "opinion": "micro", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1391558400, "opinion": "USB", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "connector", "time": 1391558400, "opinion": "30-pin", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "velvet", "time": 1391558400, "opinion": "black", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lightning connector", "time": 1391558400, "opinion": "needed", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "flashlight", "time": 1391558400, "opinion": "built-in", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power button", "time": 1391558400, "opinion": "click", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "speed", "time": 1391558400, "opinion": "recharging", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "standard", "time": 1391558400, "opinion": "measuring", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPad", "time": 1391558400, "opinion": "Charging", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "recharge", "time": 1391558400, "opinion": "give", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "rate", "time": 1391558400, "opinion": "slow", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPad.On", "time": 1391558400, "opinion": "repowered", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "port", "time": 1391558400, "opinion": "USB", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cover", "time": 1391558400, "opinion": "glossy", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "tradeoff", "time": 1391558400, "opinion": "OK", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cover", "time": 1391558400, "opinion": "black", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "number", "time": 1391558400, "opinion": "backup", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1391558400, "opinion": "backup", "productID": "B00HZWJGS8"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "job", "time": 1391558400, "opinion": "Great", "productID": "B00HZWJGS8"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "battery charger", "time": 1390694400, "opinion": "received", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "battery charger", "time": 1390694400, "opinion": "external", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "bit", "time": 1390694400, "opinion": "small", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "recharge", "time": 1390694400, "opinion": "full", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1390694400, "opinion": "smart", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1390694400, "opinion": "thin", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "surface", "time": 1390694400, "opinion": "black", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "surface", "time": 1390694400, "opinion": "glossy", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1390694400, "opinion": "smart", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1390694400, "opinion": "n't have", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1390694400, "opinion": "normal", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "edge", "time": 1390694400, "opinion": "bottom", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1390694400, "opinion": "USB", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1390694400, "opinion": "flat", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "output", "time": 1390694400, "opinion": "test", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "drain", "time": 1390694400, "opinion": "slow", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "job", "time": 1390694400, "opinion": "good", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "documentation", "time": 1390694400, "opinion": "skimpy", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1390694400, "opinion": "external", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1390694400, "opinion": "decent", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "power outage", "time": 1390694400, "opinion": "prolonged", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "impression", "time": 1390694400, "opinion": "emotional", "productID": "B00EZ71LM0"}
+{"overall": 3.0, "userID": "A3R19YKNL641X3", "feature": "impression", "time": 1390694400, "opinion": "less-than-wonderful", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery charger", "time": 1388880000, "opinion": "2600mAh", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "category", "time": 1388880000, "opinion": "general", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1388880000, "opinion": "nice", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1388880000, "opinion": "compact", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "measure", "time": 1388880000, "opinion": "give", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1388880000, "opinion": "micro-USB", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1388880000, "opinion": "USB", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1388880000, "opinion": "short", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "adapter", "time": 1388880000, "opinion": "short", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "adapter", "time": 1388880000, "opinion": "micro-USB", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "end", "time": 1388880000, "opinion": "USB", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "adapter", "time": 1388880000, "opinion": "changed", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "downside", "time": 1388880000, "opinion": "biggest", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "LED light", "time": 1388880000, "opinion": "red", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1388880000, "opinion": "left", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1388880000, "opinion": "charging", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1388880000, "opinion": "charging", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "recharge", "time": 1388880000, "opinion": "full", "productID": "B00FYZQ0AU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "luck.Bottom line", "time": 1388880000, "opinion": "pushing", "productID": "B00FYZQ0AU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1387843200, "opinion": "regular", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "feature.There", "time": 1387843200, "opinion": "great", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1387843200, "opinion": "complete", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "glow", "time": 1387843200, "opinion": "blue", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "check", "time": 1387843200, "opinion": "open", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1387843200, "opinion": "light-up", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1387843200, "opinion": "open", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1387843200, "opinion": "external", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1387843200, "opinion": "regular", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "light-up", "time": 1387843200, "opinion": "Using", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "indicator", "time": 1387843200, "opinion": "full-charge", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "number", "time": 1387843200, "opinion": "full", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1387843200, "opinion": "faulty", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "indicator", "time": 1387843200, "opinion": "visual", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "understanding", "time": 1387843200, "opinion": "faulty", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge option", "time": 1387843200, "opinion": "go-to", "productID": "B00G5K3B46"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "price", "time": 1386979200, "opinion": "excellent", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1386979200, "opinion": "full", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1386979200, "opinion": "rich", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "experience", "time": 1386979200, "opinion": "comfortable", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "earpiece", "time": 1386979200, "opinion": "comfortable", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "earpiece", "time": 1386979200, "opinion": "soft", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "size", "time": 1386979200, "opinion": "Small", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cording", "time": 1386979200, "opinion": "rounded", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1386979200, "opinion": "flat", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "difference", "time": 1386979200, "opinion": "makes", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "microphone", "time": 1386979200, "opinion": "built-in", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "range", "time": 1386979200, "opinion": "full", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1386979200, "opinion": "high", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "range", "time": 1386979200, "opinion": "high", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "range", "time": 1386979200, "opinion": "crisp", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1386979200, "opinion": "delivered", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "order.Disclosure", "time": 1386979200, "opinion": "short", "productID": "B00BT1BQEI"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "wall charger", "time": 1377475200, "opinion": "nice", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lot", "time": 1377475200, "opinion": "draws", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Kindle", "time": 1377475200, "opinion": "current", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Kindle", "time": 1377475200, "opinion": "charging", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "time", "time": 1377475200, "opinion": "normal", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPad", "time": 1377475200, "opinion": "current", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPad", "time": 1377475200, "opinion": "charging", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "mode", "time": 1377475200, "opinion": "trickle", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charging", "time": 1377475200, "opinion": "complete", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "wall charger.When", "time": 1377475200, "opinion": "excellent", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1377475200, "opinion": "nice", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "capacity", "time": 1377475200, "opinion": "full", "productID": "B00DRLA5OU"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "X NFC", "time": 1376784000, "opinion": "Waterproof", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "option", "time": 1376784000, "opinion": "good", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "durability", "time": 1376784000, "opinion": "maintain", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "packaging", "time": 1376784000, "opinion": "easy", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "term", "time": 1376784000, "opinion": "long", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "tag chain", "time": 1376784000, "opinion": "sturdy", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "wear", "time": 1376784000, "opinion": "daily", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "tag chain", "time": 1376784000, "opinion": "key", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "touch", "time": 1376784000, "opinion": "Nice", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "NXP application", "time": 1376784000, "opinion": "download", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "app", "time": 1376784000, "opinion": "n't intuitive", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "perfectly.Overall", "time": 1376784000, "opinion": "read", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "product", "time": 1376784000, "opinion": "nice", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "application", "time": 1376784000, "opinion": "intuitive", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "run.Disclosure", "time": 1376784000, "opinion": "long", "productID": "B00DRDZ08Y"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1376784000, "opinion": "good", "productID": "B00DRDZ08Y"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1376784000, "opinion": "external", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "combination", "time": 1376784000, "opinion": "excellent", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Bolse battery", "time": 1376784000, "opinion": "external", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "smartphone charge", "time": 1376784000, "opinion": "normal", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1376784000, "opinion": "micro-USB", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1376784000, "opinion": "normal", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1376784000, "opinion": "hold", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "readout", "time": 1376784000, "opinion": "digital", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1376784000, "opinion": "great", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Fan", "time": 1376265600, "opinion": "Adult", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1376265600, "opinion": "decent", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "line", "time": 1376265600, "opinion": "hard", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "wear", "time": 1376265600, "opinion": "daily", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "LEGO", "time": 1376265600, "opinion": "like/love", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "usage.But", "time": 1376265600, "opinion": "normal", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "conversation", "time": 1376265600, "opinion": "great", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "conversation", "time": 1376265600, "opinion": "starter", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "chance", "time": 1376265600, "opinion": "good", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "entertainment", "time": 1376265600, "opinion": "decent", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "conference call.If", "time": 1376265600, "opinion": "long", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "boy", "time": 1376265600, "opinion": "steep", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "conference call.If", "time": 1376265600, "opinion": "boring", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "price", "time": 1376265600, "opinion": "ignore", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "it.Disclosure", "time": 1376265600, "opinion": "worth", "productID": "B00DGFVVWC"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Battery", "time": 1376179200, "opinion": "External", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "twist", "time": 1376179200, "opinion": "unique", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery design", "time": 1376179200, "opinion": "normal", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "storage point", "time": 1376179200, "opinion": "mid-range", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "capacity", "time": 1376179200, "opinion": "6000mAh", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "storage point", "time": 1376179200, "opinion": "decent", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "pack", "time": 1376179200, "opinion": "recharge", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1376179200, "opinion": "separate", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cord", "time": 1376179200, "opinion": "pack", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1376179200, "opinion": "single", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1376179200, "opinion": "mid-range", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "choice.Disclosure", "time": 1376179200, "opinion": "good", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery pack", "time": 1376179200, "opinion": "external", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "moment", "time": 1376179200, "opinion": "critical", "productID": "B009S0NIDO"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "review", "time": 1374451200, "opinion": "received", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "AON6 5200mAh", "time": 1374451200, "opinion": "received", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Battery", "time": 1374451200, "opinion": "External", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "fan", "time": 1374451200, "opinion": "real", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "capacity", "time": 1374451200, "opinion": "charging", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "end", "time": 1374451200, "opinion": "low", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1374451200, "opinion": "regular", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1374451200, "opinion": "great", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1374451200, "opinion": "micro-USB", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cable", "time": 1374451200, "opinion": "USB", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1374451200, "opinion": "started", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "velvet pouch", "time": 1374451200, "opinion": "small", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power drain", "time": 1374451200, "opinion": "additional", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPad", "time": 1374451200, "opinion": "slower", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "basis", "time": 1374451200, "opinion": "regular", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "choice", "time": 1374451200, "opinion": "good", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "weight", "time": 1374451200, "opinion": "lighter", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power outage", "time": 1374451200, "opinion": "extended", "productID": "B00DU05T26"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1372204800, "opinion": "external", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "level", "time": 1372204800, "opinion": "expecting", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "owner", "time": 1372204800, "opinion": "happy", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "level", "time": 1372204800, "opinion": "decent", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1372204800, "opinion": "smart", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit.It", "time": 1372204800, "opinion": "great", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1372204800, "opinion": "recharge", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1372204800, "opinion": "needed", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power outage", "time": 1372204800, "opinion": "prolonged", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPhone/iPad thing", "time": 1372204800, "opinion": "ration", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "NT120C", "time": 1372204800, "opinion": "longer", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charge", "time": 1372204800, "opinion": "holding", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sense", "time": 1372204800, "opinion": "makes", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1372204800, "opinion": "charging", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1372204800, "opinion": "overnight", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "combination", "time": 1372204800, "opinion": "close", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery option", "time": 1372204800, "opinion": "choosing", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "time period", "time": 1372204800, "opinion": "significant", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery option", "time": 1372204800, "opinion": "external", "productID": "B007IMPTNQ"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "place", "time": 1369612800, "opinion": "good", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1369612800, "opinion": "put", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "size", "time": 1369612800, "opinion": "single", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "tight.The", "time": 1369612800, "opinion": "brace", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "suction base", "time": 1369612800, "opinion": "works", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "side", "time": 1369612800, "opinion": "push", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "viewing line", "time": 1369612800, "opinion": "optimal", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "phone", "time": 1369612800, "opinion": "swivel", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "motion", "time": 1369612800, "opinion": "up-and-down", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "outlet", "time": 1368403200, "opinion": "USB", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "car", "time": 1368403200, "opinion": "regular", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1368403200, "opinion": "drains", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1368403200, "opinion": "USB", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1368403200, "opinion": "solid", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "car", "time": 1368403200, "opinion": "regular", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plastic", "time": 1368403200, "opinion": "cheap", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plastic", "time": 1368403200, "opinion": "n't have", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1368403200, "opinion": "single", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "option", "time": 1368403200, "opinion": "charging", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1368403200, "opinion": "USB", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "addition", "time": 1368403200, "opinion": "great", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "travel kit", "time": 1368403200, "opinion": "electronic", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1368403200, "opinion": "built-in", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "item", "time": 1368403200, "opinion": "regular", "productID": "B00BWUXP9K"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "time", "time": 1368316800, "opinion": "elliptial", "productID": "B009G5T9LG"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "case", "time": 1368316800, "opinion": "remove", "productID": "B009G5T9LG"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "fit", "time": 1368316800, "opinion": "snug", "productID": "B009G5T9LG"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "arm", "time": 1368316800, "opinion": "n't move", "productID": "B009G5T9LG"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "band", "time": 1368316800, "opinion": "adjust", "productID": "B009G5T9LG"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "arm", "time": 1368316800, "opinion": "slipped", "productID": "B009G5T9LG"}
+{"overall": 2.0, "userID": "A3R19YKNL641X3", "feature": "care", "time": 1368316800, "opinion": "long-term", "productID": "B009G5T9LG"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "outlet", "time": 1368316800, "opinion": "USB", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "car", "time": 1368316800, "opinion": "regular", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1368316800, "opinion": "drains", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1368316800, "opinion": "USB", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1368316800, "opinion": "solid", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "car", "time": 1368316800, "opinion": "regular", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plastic", "time": 1368316800, "opinion": "cheap", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plastic", "time": 1368316800, "opinion": "n't have", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1368316800, "opinion": "single", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1368316800, "opinion": "USB", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "addition", "time": 1368316800, "opinion": "great", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "option.If", "time": 1368316800, "opinion": "charging", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1368316800, "opinion": "built-in", "productID": "B00B1HVI4I"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1365206400, "opinion": "charge", "productID": "B008PO58HS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "lot", "time": 1365206400, "opinion": "prevent", "productID": "B008PO58HS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "base", "time": 1365206400, "opinion": "charging", "productID": "B008PO58HS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "number", "time": 1365206400, "opinion": "collecting", "productID": "B008PO58HS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "job", "time": 1365206400, "opinion": "Nice", "productID": "B008PO58HS"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "iPad", "time": 1356480000, "opinion": "run", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery life", "time": 1356480000, "opinion": "extend", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1356480000, "opinion": "well-designed", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1356480000, "opinion": "left", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "%", "time": 1356480000, "opinion": "showing", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "indicator", "time": 1356480000, "opinion": "n't tripped", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power", "time": 1356480000, "opinion": "full", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1356480000, "opinion": "recharging", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "car", "time": 1356480000, "opinion": "USB-equipped", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "number", "time": 1356480000, "opinion": "large", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "area", "time": 1356480000, "opinion": "dark", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "flashlight", "time": 1356480000, "opinion": "small", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "light", "time": 1356480000, "opinion": "extra", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "addition", "time": 1356480000, "opinion": "convenient", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "power source", "time": 1356480000, "opinion": "additional", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device life", "time": 1356480000, "opinion": "extend", "productID": "B008TY621A"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device life", "time": 1356480000, "opinion": "electronic", "productID": "B008TY621A"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phone setup", "time": 1356307200, "opinion": "built-in", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "phone setup", "time": 1356307200, "opinion": "hands-free", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "basis", "time": 1356307200, "opinion": "daily", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery life", "time": 1356307200, "opinion": "good", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1356307200, "opinion": "Sound", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1356307200, "opinion": "excellent", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "fact", "time": 1356307200, "opinion": "'s", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "indicator", "time": 1356307200, "opinion": "real", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "window", "time": 1356307200, "opinion": "break", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "visor", "time": 1356307200, "opinion": "push", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "Android phone", "time": 1356307200, "opinion": "n't have", "productID": "B007AQF0WK"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "car feature", "time": 1356307200, "opinion": "test", "productID": "B007AQF0WK"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1356307200, "opinion": "great", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1356307200, "opinion": "deliver", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "music", "time": 1356307200, "opinion": "play", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1356307200, "opinion": "sound", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "floor", "time": 1356307200, "opinion": "main", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "connection", "time": 1356307200, "opinion": "losing", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1356307200, "opinion": "excellent", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "notification", "time": 1356307200, "opinion": "transmit", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "music", "time": 1356307200, "opinion": "transmit", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "side", "time": 1356307200, "opinion": "spendy", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "text messages.I", "time": 1356307200, "opinion": "happy", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "thing", "time": 1356307200, "opinion": "big", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1351382400, "opinion": "USB", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "charger", "time": 1351382400, "opinion": "received", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1351382400, "opinion": "single", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1351382400, "opinion": "micro-USB", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "Kindle", "time": 1351382400, "opinion": "charge", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "plug", "time": 1351382400, "opinion": "mini-USB", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1351382400, "opinion": "extra", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "chance", "time": 1351382400, "opinion": "decent", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "slot", "time": 1351382400, "opinion": "USB", "productID": "B007RVIXZY"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "issue", "time": 1325635200, "opinion": "remedy", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "viewing", "time": 1325635200, "opinion": "heads-up", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "fact", "time": 1325635200, "opinion": "love", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1325635200, "opinion": "charge", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "road", "time": 1325635200, "opinion": "hits", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "convenience", "time": 1325635200, "opinion": "likes", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "cost", "time": 1325635200, "opinion": "small", "productID": "B004OA6VX2"}
+{"overall": 5.0, "userID": "A3R19YKNL641X3", "feature": "hit.Disclosure", "time": 1325635200, "opinion": "real", "productID": "B004OA6VX2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "problem", "time": 1320537600, "opinion": "n't have", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "Base", "time": 1320537600, "opinion": "Charging", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1320537600, "opinion": "charging", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "iPhone.The charger", "time": 1320537600, "opinion": "charging", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "plate", "time": 1320537600, "opinion": "flat", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery unit", "time": 1320537600, "opinion": "start", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1320537600, "opinion": "drop", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "process", "time": 1320537600, "opinion": "start", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "size", "time": 1320537600, "opinion": "involve", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "stress", "time": 1320537600, "opinion": "put", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "color", "time": 1320537600, "opinion": "involve", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1320537600, "opinion": "molded", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "part", "time": 1320537600, "opinion": "solid", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "review unit", "time": 1320537600, "opinion": "white", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "unit", "time": 1320537600, "opinion": "white", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1320537600, "opinion": "combined", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery unit", "time": 1320537600, "opinion": "leave", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1320537600, "opinion": "attach", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1320537600, "opinion": "good", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "size", "time": 1320537600, "opinion": "ideal", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery", "time": 1320537600, "opinion": "extra", "productID": "B0043RTM1O"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "stage", "time": 1319932800, "opinion": "unpacking", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "pain", "time": 1319932800, "opinion": "not causing", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "seal", "time": 1319932800, "opinion": "complete", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "experience", "time": 1319932800, "opinion": "hands-free", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "advantage", "time": 1319932800, "opinion": "taking", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "experience", "time": 1319932800, "opinion": "give", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "headphone", "time": 1319932800, "opinion": "basic", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "price", "time": 1319932800, "opinion": "cheap", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "job", "time": 1319932800, "opinion": "good", "productID": "B00428N9N6"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "job", "time": 1293235200, "opinion": "good", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "period", "time": 1293235200, "opinion": "long", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "bluetooth headset", "time": 1293235200, "opinion": "high-end", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "sound", "time": 1293235200, "opinion": "decent", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1293235200, "opinion": "sound", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "end", "time": 1293235200, "opinion": "high", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1293235200, "opinion": "sound", "productID": "B0042X8PB2"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "bump", "time": 1291507200, "opinion": "extra", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "video", "time": 1291507200, "opinion": "finish", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "book", "time": 1291507200, "opinion": "finish", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "battery life", "time": 1291507200, "opinion": "doubled", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "deal", "time": 1291507200, "opinion": "great", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "finish", "time": 1291507200, "opinion": "glossy", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "design", "time": 1291507200, "opinion": "slim", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "design", "time": 1291507200, "opinion": "sleek", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "bulk", "time": 1291507200, "opinion": "adds", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "generation", "time": 1291507200, "opinion": "earlier", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "owning.Disclosure", "time": 1291507200, "opinion": "worth", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "product", "time": 1291507200, "opinion": "solid", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "basis.Bottom line", "time": 1291507200, "opinion": "regular", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "bit", "time": 1291507200, "opinion": "detract", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "product", "time": 1291507200, "opinion": "good", "productID": "B0046EBTQ0"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "review unit", "time": 1215302400, "opinion": "received", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "headset", "time": 1215302400, "opinion": "hands-free", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "headset", "time": 1215302400, "opinion": "interested", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "power cord", "time": 1215302400, "opinion": "USB", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "push", "time": 1215302400, "opinion": "quick", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "device", "time": 1215302400, "opinion": "found", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "password", "time": 1215302400, "opinion": "running", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "password", "time": 1215302400, "opinion": "entered", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "pairing", "time": 1215302400, "opinion": "complete", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "message service", "time": 1215302400, "opinion": "left", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "service", "time": 1215302400, "opinion": "dial", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "message", "time": 1215302400, "opinion": "short", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "quality", "time": 1215302400, "opinion": "sound", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "support", "time": 1215302400, "opinion": "external", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "plastic tip", "time": 1215302400, "opinion": "clear", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "size", "time": 1215302400, "opinion": "large", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "plastic tip", "time": 1215302400, "opinion": "switch", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "cell phone", "time": 1215302400, "opinion": "holding", "productID": "B001630QZE"}
+{"overall": 4.0, "userID": "A3R19YKNL641X3", "feature": "time", "time": 1215302400, "opinion": "spend", "productID": "B001630QZE"}

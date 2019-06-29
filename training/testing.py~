@@ -1,0 +1,176 @@
+import get_matrices
+import train
+import numpy as np
+
+def get_user_care(user_id, user_index, aspect_index, user_feature_matrix):
+    user_i = user_index[user_id]
+    for k, v in aspect_index.items():
+        print k + " : " + str(user_feature_matrix[user_i, v])
+
+def get_item_care(product_id, product_index, aspect_index, product_feature_matrix):
+    user_i = product_index[product_id]
+    for k, v in aspect_index.items():
+        print k + " : " + str(product_feature_matrix[user_i, v])
+
+def top_k(product_index, user_id, X, Y, A, user_index, user_feature_matrix, k, alpha,aspect_index):
+    user_i = user_index[user_id]
+    print ('user_i=\n'+str(user_i))
+    user_care = user_feature_matrix[user_i, :]
+    print ('user_care=\n'+str(user_care))
+    #idx = np.argpartition(user_care, -k)
+    #print ('idx=\n'+str(idx))
+    #idx = idx[-k:]
+    #print ('idx=\n'+str(idx))
+    idx = np.argsort(user_care)[::-1]
+    for i in range(10):
+        aspect_id = get_aspect_id(aspect_index, idx[i])
+        print ('aspect_id=\n'+str(aspect_id))
+    print ('idx=\n'+str(idx))
+    R_i = np.zeros(Y.shape[0])
+    print ('R_i=\n'+str(R_i))
+    for i in range(R_i.shape[0]):
+        tmp = X[user_i, idx].dot(Y[i, idx].T) / k / 5.0
+        R_i[i] = tmp * alpha + (1 - alpha) * A[user_i, i]
+    print ('R_i=\n'+str(R_i))
+    idx = np.argpartition(R_i, -3)
+    print ('idx=\n'+str(idx))
+    idx = idx[-3:]
+    print ('idx=\n'+str(idx))
+    item_id = get_item_id(product_index, idx[-1])
+    print ('item_id=\n'+str(item_id))
+    return item_id
+
+def top_feature(X_,X_x,user_index, user_feature_matrix, aspect_index, user_index2, user_feature_matrix2):
+    #user_i = user_index[user_id]
+    #user_i2 = user_index2[user_id2]
+    #user_i = 0
+    #print ('user_i=\n'+str(user_i))
+    user_care = X_[0, :]
+    user_care2 = X_x[0, :]
+    print ('user_care=\n'+str(user_care))
+    print ('user_feature_matrix=\n'+str(user_feature_matrix))
+    print ('X_=\n'+str(X_))
+    print aspect_index
+    print user_care
+    idx = np.argsort(user_care)[::-1]
+    idx2 = np.argsort(user_care2)[::-1]
+    print user_care
+    print idx
+    print aspect_index
+    dcg=0
+    idcg=0
+    for i in range(20):
+        aspect_id = get_aspect_id(aspect_index, idx[i])
+        aspect_id2 = get_aspect_id(aspect_index, idx2[i])
+        #aspect_value = get_aspect_value(aspect_index, idx[i])
+        dcg += get_dcg(user_care2[idx[i]],i+1)
+        idcg += get_dcg(user_care2[idx2[i]],i+1)
+        print ('aspect_id=\n'+str(aspect_id))
+        print ('aspect_id2=\n'+str(aspect_id2))
+        #print ('aspect_value=\n'+str(aspect_value))
+    #print ('ndcg=\n'+str(dcg/idcg))
+    ndcg = dcg/idcg
+    return ndcg
+
+def get_item_id(product_index, index):
+    for k, v in product_index.items():
+        if v == index:
+            return k
+
+def get_aspect_id(aspect_index, index):
+    for k, v in aspect_index.items():
+        if v == index:
+            return k
+
+def get_dcg2(rel, rank):
+    dcg = (np.power(2.0,rel)-1.0)/(np.log2(rank+1));
+    return dcg
+
+def get_dcg(rel, rank):
+    if rank==1:
+        dcg = rel
+    else:
+        dcg = rel/(np.log2(rank))
+    return dcg
+
+if __name__ == "__main__":
+    feature_cluster_path = "../data/Cell_Phones_and_Accessories_5/feature-cluster.txt"
+    reviews_path = "../data/Cell_Phones_and_Accessories_5/extractedReviews0.txt"
+    train_path = "../data/Cell_Phones_and_Accessories_5/train_review.txt"
+    userb_path = "../data/Cell_Phones_and_Accessories_5/A1EVV74UQYVKRY.txt"
+    userc_path = "../data/Cell_Phones_and_Accessories_5/A1ODOGXEYECQQ8.txt"
+    userd_path = "../data/Cell_Phones_and_Accessories_5/A1PI8VBCXXSGC7.txt"
+    usere_path = "../data/Cell_Phones_and_Accessories_5/AWPODHOB4GFWL.txt"
+    userf_path = "../data/Cell_Phones_and_Accessories_5/AWPODHOB4GFWL.txt"
+    test_path = "../data/Cell_Phones_and_Accessories_5/test_review.txt"
+    neg_entries = "../data/Cell_Phones_and_Accessories_5/opinion-lexicon-English/negative-words.txt"
+    pos_entries = "../data/Cell_Phones_and_Accessories_5/opinion-lexicon-English/positive-words.txt"
+    [lookup_dict, aspect_index] = get_matrices.get_cluster(feature_cluster_path)
+    #print aspect_index
+    #print aspect_index.values()
+    #print [lookup_dict, aspect_index]
+    #[user_dict, product_dict] = get_matrices.get_reviews(reviews_path)
+    [user_dict, product_dict] = get_matrices.get_reviews(train_path)
+    [user_dict2, product_dict2] = get_matrices.get_reviews(test_path)
+    [user_dict3, product_dict3] = get_matrices.get_reviews(userd_path)
+    #[user_dict4, product_dict4] = get_matrices.get_reviews(usere_path)
+    [user_index, product_index] = get_matrices.get_index(user_dict, product_dict)
+    [user_index2, product_index2] = get_matrices.get_index(user_dict2, product_dict2)
+    [user_index3, product_index3] = get_matrices.get_index(user_dict3, product_dict3)
+    #[user_index4, product_index4] = get_matrices.get_index(user_dict4, product_dict4)
+    user_item_matrix = get_matrices.get_user_item_matrix(train_path, user_index, product_index)
+    user_item_matrix2 = get_matrices.get_user_item_matrix(test_path, user_index2, product_index2)
+    user_item_matrix3 = get_matrices.get_user_item_matrix(userd_path, user_index3, product_index3)
+    #user_item_matrix4 = get_matrices.get_user_item_matrix(userd_path, user_index4, product_index4)
+    user_feature_matrix = get_matrices.get_user_feature_matrix(user_dict, user_index, lookup_dict, aspect_index, 5)
+    user_feature_matrix2 = get_matrices.get_user_feature_matrix(user_dict2, user_index2, lookup_dict, aspect_index, 5)
+    user_feature_matrix3 = get_matrices.get_user_feature_matrix(user_dict3, user_index3, lookup_dict, aspect_index, 5)
+    #user_feature_matrix4 = get_matrices.get_user_feature_matrix(user_dict4, user_index4, lookup_dict, aspect_index, 5)
+
+    neg_dict = get_matrices.get_entries(neg_entries, -1)
+    pos_dict = get_matrices.get_entries(pos_entries, 1)
+    product_feature_matrix = get_matrices.get_product_feature_matrix(product_dict, product_index, lookup_dict, aspect_index, 5,
+                                                        neg_dict, pos_dict)
+    product_feature_matrix2 = get_matrices.get_product_feature_matrix(product_dict2, product_index2, lookup_dict, aspect_index, 5,
+                                                        neg_dict, pos_dict)
+    product_feature_matrix3 = get_matrices.get_product_feature_matrix(product_dict3, product_index3, lookup_dict, aspect_index, 5,
+                                                        neg_dict, pos_dict)
+    #product_feature_matrix4 = get_matrices.get_product_feature_matrix(product_dict4, product_index4, lookup_dict, aspect_index, 5,
+                                                        #neg_dict, pos_dict)
+    #u_id = user_index["A10UHQH1YL5Q6B"]
+    #p_id = product_index["B00HH7MAUW"]
+    #p_id = product_index["B00BGG5LO2"]
+    #user_item_matrix[u_id, p_id] = 0
+    [U1, U2, V, H1, H2] = train.training(user_item_matrix, user_feature_matrix, product_feature_matrix, 50, 50, 0.01, 0.01, 0.01, 0.01, 0.01, 5000, 0.002)
+    [U1x, U2x, Vx, H1x, H2x] = train.training(user_item_matrix2, user_feature_matrix2, product_feature_matrix2, 50, 50, 0.01, 0.01, 0.01, 0.01, 0.01, 5000, 0.002)
+    [U1y, U2y, Vy, H1y, H2y] = train.training(user_item_matrix3, user_feature_matrix3, product_feature_matrix3, 50, 50, 0.01, 0.01, 0.01, 0.01, 0.01, 5000, 0.002)
+    #[U1z, U2z, Vz, H1z, H2z] = train.training(user_item_matrix4, user_feature_matrix4, product_feature_matrix4, 50, 50, 0.01, 0.01, 0.01, 0.01, 0.01, 5000, 0.002)
+
+
+    X_ = U1.dot(V.T)
+    Y_ = U2.dot(V.T)
+    A_ = U1.dot(U2.T) + H1.dot(H2.T)
+    X_x = U1x.dot(Vx.T)
+    Y_x = U2x.dot(Vx.T)
+    A_x = U1x.dot(U2x.T) + H1x.dot(H2x.T)
+    X_y = U1y.dot(Vy.T)
+    Y_y = U2y.dot(Vy.T)
+    A_y = U1y.dot(U2y.T) + H1y.dot(H2y.T)
+    #X_z = U1z.dot(Vz.T)
+    #Y_z = U2z.dot(Vz.T)
+    #A_z = U1z.dot(U2z.T) + H1y.dot(H2z.T)
+
+    #print A_[u_id, p_id]
+    #print user_item_matrix
+    #most_rec = top_k(product_index, "AYB4ELCS5AM8P", X_, Y_, A_, user_index, user_feature_matrix, 5, 1.0)
+    #most_rec = top_k(product_index, "A10UHQH1YL5Q6B", X_, Y_, A_, user_index, user_feature_matrix, 5, 1.0,aspect_index)
+    #print most_rec
+    #print get_user_care("A10UHQH1YL5Q6B", user_index, aspect_index, user_feature_matrix)
+    #print get_item_care(most_rec, product_index, aspect_index, product_feature_matrix)
+    #most_f = top_feature(product_index, "A1E1LEVQ9VQNK", X_, Y_, A_, user_index, user_feature_matrix, 5,aspect_index)
+    #most_f = top_feature(product_index2, "A1E1LEVQ9VQNK", X_x, Y_x, A_x, user_index2, user_feature_matrix2, 5,aspect_index)
+    most_f = top_feature("A1E1LEVQ9VQNK","A1E1LEVQ9VQNK", X_, X_x, user_index, user_feature_matrix,aspect_index, user_index2, user_feature_matrix2)
+    most_f2 = top_feature("A1PI8VBCXXSGC7","A1E1LEVQ9VQNK", X_y, X_x, user_index3, user_feature_matrix3,aspect_index, user_index2, user_feature_matrix2)
+    #most_f2 = top_feature("A1PI8VBCXXSGC7","A1E1LEVQ9VQNK", X_x,user_index3, user_feature_matrix3,aspect_index, user_index2, user_feature_matrix2)
+    print ('most_f=\n'+str(most_f))
+    print ('most_f2=\n'+str(most_f2))

@@ -1,0 +1,1025 @@
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "mAh bank", "time": 1405123200, "opinion": "iFound", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "SD/TF Memory", "time": 1405123200, "opinion": "includes", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1405123200, "opinion": "features", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1405123200, "opinion": "bright", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1405123200, "opinion": "iFound", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "product description", "time": 1405123200, "opinion": "wrong", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1405123200, "opinion": "charge", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1405123200, "opinion": "on/off", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1405123200, "opinion": "hold", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED", "time": 1405123200, "opinion": "red", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "gen", "time": 1405123200, "opinion": "1st", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1405123200, "opinion": "built-in", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "bank", "time": 1405123200, "opinion": "nice", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "SD/TF Memory", "time": 1405123200, "opinion": "nice", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1405123200, "opinion": "on/off", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1405123200, "opinion": "bright", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "capacity bank", "time": 1405123200, "opinion": "high", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "rate", "time": 1405123200, "opinion": "charging", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "company", "time": 1405123200, "opinion": "contacting", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1405123200, "opinion": "update", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "value.Approx", "time": 1405123200, "opinion": "great", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "iFound", "time": 1405123200, "opinion": "priced", "productID": "B00HWPTLTW"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1405123200, "opinion": "included.review", "productID": "B00HWPTLTW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1404432000, "opinion": "sleek", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery pack", "time": 1404432000, "opinion": "function", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "7800mAh capacity", "time": 1404432000, "opinion": "large", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "gen", "time": 1404432000, "opinion": "1st", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Fire HDX", "time": 1404432000, "opinion": "charged", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "capacity", "time": 1404432000, "opinion": "charging", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sense", "time": 1404432000, "opinion": "makes", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "20m", "time": 1404432000, "opinion": "1h", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1404432000, "opinion": "portable", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC Charger", "time": 1404432000, "opinion": "USB", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Simplicity", "time": 1404432000, "opinion": "up.Charge", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1404432000, "opinion": "micro", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "wrap", "time": 1404432000, "opinion": "love", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1404432000, "opinion": "USB", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit", "time": 1404432000, "opinion": "intelligent", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1404432000, "opinion": "prevents", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery.Lepow", "time": 1404432000, "opinion": "protect", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "color molding", "time": 1404432000, "opinion": "direct", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1404432000, "opinion": "protect", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "process", "time": 1404432000, "opinion": "reduces", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "video", "time": 1404432000, "opinion": "upload", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "hand", "time": 1404432000, "opinion": "fits", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Simplicity", "time": 1404432000, "opinion": "showing", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1404432000, "opinion": "ergonomic", "productID": "B00JTDAXDI"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1404345600, "opinion": "charging", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "travel charger", "time": 1404345600, "opinion": "warm", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "maximum output", "time": 1404345600, "opinion": "current", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "wall charger", "time": 1404345600, "opinion": "iFlash", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1404345600, "opinion": "n't leave", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "theiFlash 20W", "time": 1404345600, "opinion": "electronic", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "overheat", "time": 1404345600, "opinion": "Intelligent", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection.Port", "time": 1404345600, "opinion": "over-current", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection.Port", "time": 1404345600, "opinion": "Intelligent", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "theiFlash 20W", "time": 1404345600, "opinion": "assured", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1404345600, "opinion": "electronic", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1404345600, "opinion": "charge", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1404345600, "opinion": "assured", "productID": "B00JYU894G"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "speaker", "time": 1404172800, "opinion": "excellent", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "volume", "time": 1404172800, "opinion": "turned", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "volume", "time": 1404172800, "opinion": "full", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "music", "time": 1404172800, "opinion": "streamed", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sound", "time": 1404172800, "opinion": "distorting", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Cube", "time": 1404172800, "opinion": "great", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "bass", "time": 1404172800, "opinion": "average", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "video", "time": 1404172800, "opinion": "streamed", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "auxiliary cable", "time": 1404172800, "opinion": "included", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Cube.If", "time": 1404172800, "opinion": "Magic", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "jack", "time": 1404172800, "opinion": "audio", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cube shape", "time": 1404172800, "opinion": "unique", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Cube.Connecting", "time": 1404172800, "opinion": "Magic", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "range", "time": 1404172800, "opinion": "Bluetooth", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "instruction manual", "time": 1404172800, "opinion": "easy", "productID": "B00K11K4KO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "input cable", "time": 1404172800, "opinion": "auxiliary", "productID": "B00K11K4KO"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "company", "time": 1403481600, "opinion": "emailed", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "reply", "time": 1403481600, "opinion": "received", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "light", "time": 1403481600, "opinion": "charging", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "reply", "time": 1403481600, "opinion": "informative", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED", "time": 1403481600, "opinion": "red", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED", "time": 1403481600, "opinion": "red", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "lime", "time": 1403481600, "opinion": "matte", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1403481600, "opinion": "supply", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1403481600, "opinion": "partial", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1403481600, "opinion": "charging", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1403481600, "opinion": "supplied", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1403481600, "opinion": "notice.review", "productID": "B00HMVPH58"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1403049600, "opinion": "USB", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1403049600, "opinion": "unique", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "hub", "time": 1403049600, "opinion": "USB", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "hub", "time": 1403049600, "opinion": "micro", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1403049600, "opinion": "short", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC charger", "time": 1403049600, "opinion": "USB", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "Fire HD", "time": 1403049600, "opinion": "charge", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "hand", "time": 1403049600, "opinion": "hold", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1403049600, "opinion": "unique", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "lightning", "time": 1403049600, "opinion": "n't test", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1403049600, "opinion": "cute", "productID": "B00JLQU9DC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "money", "time": 1403049600, "opinion": "refund", "productID": "B00JLQU9DC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1402185600, "opinion": "wall/desktop", "productID": "B00K5YX710"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "speed", "time": 1402185600, "opinion": "full", "productID": "B00K5YX710"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1402185600, "opinion": "USB", "productID": "B00K5YX710"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "speed", "time": 1402185600, "opinion": "intended", "productID": "B00K5YX710"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power cord", "time": 1402185600, "opinion": "detachable", "productID": "B00K5YX710"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "plug adapter", "time": 1402185600, "opinion": "provide", "productID": "B00K5YX710"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "conversation", "time": 1401667200, "opinion": "convenient", "productID": "B00JRIH3ZG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "conversation", "time": 1401667200, "opinion": "hands-free", "productID": "B00JRIH3ZG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "handset receiver", "time": 1401667200, "opinion": "Radiation-proof", "productID": "B00JRIH3ZG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "handset", "time": 1401667200, "opinion": "comfortable", "productID": "B00JRIH3ZG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC sample", "time": 1401667200, "opinion": "nice", "productID": "B00JRIH3ZG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1399420800, "opinion": "charging", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "end", "time": 1399420800, "opinion": "unfinished", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "icon", "time": 1399420800, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "end", "time": 1399420800, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "side", "time": 1399420800, "opinion": "unfinished", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1399420800, "opinion": "external", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "end", "time": 1399420800, "opinion": "inserting", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1399420800, "opinion": "charging", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1399420800, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "keychain cable", "time": 1399420800, "opinion": "compact", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Pin cable", "time": 1399420800, "opinion": "compact", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "keychain cable", "time": 1399420800, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1399420800, "opinion": "forget", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "end", "time": 1399420800, "opinion": "unfinished", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1399420800, "opinion": "charging", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "adapter battery", "time": 1399420800, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "source", "time": 1399420800, "opinion": "recharging", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "end", "time": 1399420800, "opinion": "USB", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "adapter battery", "time": 1399420800, "opinion": "external", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1399420800, "opinion": "external", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1399420800, "opinion": "me.review", "productID": "B00JCVPTSQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1397001600, "opinion": "cute", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "shape", "time": 1397001600, "opinion": "unique", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pouch", "time": 1397001600, "opinion": "receive", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1397001600, "opinion": "charging", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "instruction manual", "time": 1397001600, "opinion": "receive", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1397001600, "opinion": "li-poly", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1397001600, "opinion": "expensive", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuiting", "time": 1397001600, "opinion": "short", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "HD", "time": 1397001600, "opinion": "n't charge", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "HDX", "time": 1397001600, "opinion": "n't charge", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1397001600, "opinion": "charging", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1397001600, "opinion": "micro", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1397001600, "opinion": "USB", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "wall adapter", "time": 1397001600, "opinion": "USB", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "round cable.Two", "time": 1397001600, "opinion": "common", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "condition", "time": 1397001600, "opinion": "good", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Moonstone", "time": 1397001600, "opinion": "fake", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "dot com", "time": 1397001600, "opinion": "lepowglobal", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Form", "time": 1397001600, "opinion": "Sincerest", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "link", "time": 1397001600, "opinion": "find", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "link", "time": 1397001600, "opinion": "add", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Moonstone", "time": 1397001600, "opinion": "purchase", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1397001600, "opinion": "quality", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1397001600, "opinion": "tablets.review", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "seller", "time": 1397001600, "opinion": "authorized", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1397001600, "opinion": "charge", "productID": "B00E447L8C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC", "time": 1389312000, "opinion": "portable", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC", "time": 1389312000, "opinion": "USB", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Charger", "time": 1389312000, "opinion": "Rapid", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "%", "time": 1389312000, "opinion": "n't record", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Kindle Fire/s", "time": 1389312000, "opinion": "charging", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cell phone", "time": 1389312000, "opinion": "prepaid", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "problems.I", "time": 1389312000, "opinion": "n't have", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Speed", "time": 1389312000, "opinion": "High", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "overheat", "time": 1389312000, "opinion": "Intelligent", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection built-in", "time": 1389312000, "opinion": "over-current", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger.One-Year", "time": 1389312000, "opinion": "rapid", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "WarrantyI", "time": 1389312000, "opinion": "Limited", "productID": "B00HI3HQWM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cell phone", "time": 1389312000, "opinion": "prepaid", "productID": "B00HI3HQWM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "speaker", "time": 1388361600, "opinion": "charge", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1388361600, "opinion": "charging", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1388361600, "opinion": "USB", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "quality", "time": 1388361600, "opinion": "audio", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "quality", "time": 1388361600, "opinion": "average", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "speaker", "time": 1388361600, "opinion": "small", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1388361600, "opinion": "pairing", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "frequency/callsign", "time": 1388361600, "opinion": "not paired", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "tone", "time": 1388361600, "opinion": "hear", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "volume", "time": 1388361600, "opinion": "control", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "volume", "time": 1388361600, "opinion": "adjusting", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "station", "time": 1388361600, "opinion": "changed", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "track", "time": 1388361600, "opinion": "changed", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "volume", "time": 1388361600, "opinion": "adjusting", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "volume", "time": 1388361600, "opinion": "adjust", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "proof", "time": 1388361600, "opinion": "splash", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1388361600, "opinion": "honest", "productID": "B00GMOJVOY"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "plug", "time": 1388361600, "opinion": "protective", "productID": "B00GMOJVOY"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Output charger", "time": 1387238400, "opinion": "High", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Output charger", "time": 1387238400, "opinion": "impressed", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1387238400, "opinion": "over-current", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1387238400, "opinion": "over-heated", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1387238400, "opinion": "over-charging", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1387238400, "opinion": "longer", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1387238400, "opinion": "compact", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1387238400, "opinion": "high", "productID": "B00GLIBGW6"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1387238400, "opinion": "honest", "productID": "B00GLIBGW6"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1386288000, "opinion": "provide", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1386288000, "opinion": "honest", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery pack", "time": 1386288000, "opinion": "received", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "neon pink", "time": 1386288000, "opinion": "reddish", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "color", "time": 1386288000, "opinion": "describe", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1386288000, "opinion": "charging", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "flat/ribbon", "time": 1386288000, "opinion": "matching", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "flat/ribbon", "time": 1386288000, "opinion": "USB", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1386288000, "opinion": "thicker", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1386288000, "opinion": "external", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1386288000, "opinion": "external", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1386288000, "opinion": "'d", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1386288000, "opinion": "USB", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1386288000, "opinion": "included", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "HD", "time": 1386288000, "opinion": "charged", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "process", "time": 1386288000, "opinion": "repeated", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1386288000, "opinion": "n't have", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1386288000, "opinion": "supply", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "3100mAh", "time": 1386288000, "opinion": "Supplying", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device warranty", "time": 1386288000, "opinion": "usable", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device warranty", "time": 1386288000, "opinion": "make", "productID": "B00EZ71LM0"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1386288000, "opinion": "not charge", "productID": "B00EZ71LM0"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1385942400, "opinion": "USB", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power cord", "time": 1385942400, "opinion": "detachable", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power cord", "time": 1385942400, "opinion": "USB", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1385942400, "opinion": "update", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1385942400, "opinion": "nice", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1385942400, "opinion": "honest", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1385942400, "opinion": "unbiased", "productID": "B00FQVNYR4"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "travel charger", "time": 1383609600, "opinion": "charging", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "travel charger", "time": 1383609600, "opinion": "dual", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1383609600, "opinion": "charging", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1383609600, "opinion": "over-current", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1383609600, "opinion": "over-heated", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1383609600, "opinion": "over-charging", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1383609600, "opinion": "full", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review Warranty", "time": 1383609600, "opinion": "honest", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.Sample", "time": 1383609600, "opinion": "update", "productID": "B00CPK7U60"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Car Charger", "time": 1381968000, "opinion": "Dual", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Car Charger", "time": 1381968000, "opinion": "USB", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "socket", "time": 1381968000, "opinion": "lighter", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "iPad", "time": 1381968000, "opinion": "slower", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "room", "time": 1381968000, "opinion": "n't have", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power tablet", "time": 1381968000, "opinion": "hungry", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1381968000, "opinion": "total", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit protection", "time": 1381968000, "opinion": "important", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1381968000, "opinion": "honest", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1381968000, "opinion": "provided", "productID": "B00D64PN36"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1380499200, "opinion": "provide", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1380499200, "opinion": "green", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1380499200, "opinion": "honest", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1380499200, "opinion": "received", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1380499200, "opinion": "black", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1380499200, "opinion": "USB", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1380499200, "opinion": "dedicated", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1380499200, "opinion": "update", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cloth cable", "time": 1380499200, "opinion": "jacketed", "productID": "B00FAADBHO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1379635200, "opinion": "rugged", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "capacity", "time": 1379635200, "opinion": "large", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "compass", "time": 1379635200, "opinion": "liquid", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1379635200, "opinion": "charge", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC charger", "time": 1379635200, "opinion": "USB", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1379635200, "opinion": "charging", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "mAh capacity", "time": 1379635200, "opinion": "huge", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1379635200, "opinion": "on/off", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1379635200, "opinion": "small", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge cable", "time": 1379635200, "opinion": "micro", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1379635200, "opinion": "on/off", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge cable", "time": 1379635200, "opinion": "USB", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cables.I", "time": 1379635200, "opinion": "charging", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flap", "time": 1379635200, "opinion": "inside", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1379635200, "opinion": "charged", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1379635200, "opinion": "waterproof", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1379635200, "opinion": "protect", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1379635200, "opinion": "not use", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "unit", "time": 1379635200, "opinion": "waterproof", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1379635200, "opinion": "honest", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1379635200, "opinion": "unbiased", "productID": "B00DUKJ5CQ"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "socket", "time": 1376524800, "opinion": "lighter", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376524800, "opinion": "iFlash", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1376524800, "opinion": "total", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit protection", "time": 1376524800, "opinion": "short", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376524800, "opinion": "powerful", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1376524800, "opinion": "charge", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376524800, "opinion": "USB", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Car Charger", "time": 1376524800, "opinion": "USB", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Car Charger", "time": 1376524800, "opinion": "Rapid", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "iFlash", "time": 1376524800, "opinion": "white", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376524800, "opinion": "honest", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1376524800, "opinion": "provided", "productID": "B00D1HIOP2"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "socket", "time": 1376524800, "opinion": "lighter", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376524800, "opinion": "iFlash", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1376524800, "opinion": "total", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit protection", "time": 1376524800, "opinion": "short", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376524800, "opinion": "powerful", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1376524800, "opinion": "charge", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376524800, "opinion": "USB", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Car Charger", "time": 1376524800, "opinion": "USB", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Car Charger", "time": 1376524800, "opinion": "Rapid", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376524800, "opinion": "honest", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1376524800, "opinion": "provided", "productID": "B00D1HJ0KU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power tablet", "time": 1376524800, "opinion": "hungry", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4400mAh bank", "time": 1376524800, "opinion": "iFlash", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1376524800, "opinion": "slim", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1376524800, "opinion": "slim", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1376524800, "opinion": "n't have", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1376524800, "opinion": "built-in", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1376524800, "opinion": "blue", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "test", "time": 1376524800, "opinion": "began", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1376524800, "opinion": "reach", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "USB", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1376524800, "opinion": "mobile", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "n't support", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "micro", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1376524800, "opinion": "charging", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "PC port", "time": 1376524800, "opinion": "USB", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC charger.When", "time": 1376524800, "opinion": "USB", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "press", "time": 1376524800, "opinion": "Double", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "USB", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "color", "time": 1376524800, "opinion": "refreshing", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "micro", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pouch", "time": 1376524800, "opinion": "blue", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376524800, "opinion": "update", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1376524800, "opinion": "red", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1376524800, "opinion": "grabbed", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1376524800, "opinion": "plugged", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "zone", "time": 1376524800, "opinion": "red", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "time period.I", "time": 1376524800, "opinion": "entire", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1376524800, "opinion": "held", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376524800, "opinion": "honest", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1376524800, "opinion": "provided", "productID": "B00DHEE0ZW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power tablet", "time": 1376524800, "opinion": "hungry", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4400mAh bank", "time": 1376524800, "opinion": "iFlash", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1376524800, "opinion": "slim", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1376524800, "opinion": "slim", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1376524800, "opinion": "n't have", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1376524800, "opinion": "perfect", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1376524800, "opinion": "built-in", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4400mAh", "time": 1376524800, "opinion": "iFlash", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "test", "time": 1376524800, "opinion": "began", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1376524800, "opinion": "charged", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "USB", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1376524800, "opinion": "mobile", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "n't support", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "micro", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1376524800, "opinion": "charging", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "PC port", "time": 1376524800, "opinion": "USB", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC charger.When", "time": 1376524800, "opinion": "USB", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "press", "time": 1376524800, "opinion": "Double", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "USB", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "color", "time": 1376524800, "opinion": "refreshing", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1376524800, "opinion": "micro", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pouch", "time": 1376524800, "opinion": "blue", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376524800, "opinion": "update", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376524800, "opinion": "honest", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1376524800, "opinion": "provided", "productID": "B00DHEHC3E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "socket", "time": 1376438400, "opinion": "lighter", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1376438400, "opinion": "iFlash", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "time", "time": 1376438400, "opinion": "slower", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1376438400, "opinion": "total", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4G", "time": 1376438400, "opinion": "charge", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1376438400, "opinion": "charged", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1376438400, "opinion": "prepaid", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cables.This charger", "time": 1376438400, "opinion": "not compatible", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376438400, "opinion": "honest", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1376438400, "opinion": "provided", "productID": "B00D446PLC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port AC", "time": 1376352000, "opinion": "dual", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port AC", "time": 1376352000, "opinion": "nice", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "adapter charger", "time": 1376352000, "opinion": "USB", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "adapter", "time": 1376352000, "opinion": "white", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1376352000, "opinion": "current", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "1A port", "time": 1376352000, "opinion": "charging", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "bank", "time": 1376352000, "opinion": "not compatible", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "mAh power", "time": 1376352000, "opinion": "charged", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376352000, "opinion": "update", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "mAh power", "time": 1376352000, "opinion": "iFlash", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1376352000, "opinion": "honest", "productID": "B00ATPP11E"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery pack", "time": 1375747200, "opinion": "external", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "feature", "time": 1375747200, "opinion": "nice", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "move", "time": 1375747200, "opinion": "dumb", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "manual", "time": 1375747200, "opinion": "checked", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "indicator", "time": 1375747200, "opinion": "reading", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "EL", "time": 1375747200, "opinion": "=", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1375747200, "opinion": "charging", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1375747200, "opinion": "charge", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1375747200, "opinion": "micro", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1375747200, "opinion": "USB", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "M3", "time": 1375747200, "opinion": "prolong", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1375747200, "opinion": "charging", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1375747200, "opinion": "charging", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "capacity", "time": 1375747200, "opinion": "high", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "capacity", "time": 1375747200, "opinion": "smaller", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "surface", "time": 1375747200, "opinion": "black", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "size", "time": 1375747200, "opinion": "choose", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "surface", "time": 1375747200, "opinion": "shiny", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight.Approx", "time": 1375747200, "opinion": "LED", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1375747200, "opinion": "honest", "productID": "B00DZ62K18"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "wall charger", "time": 1375056000, "opinion": "great", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "prongs", "time": 1375056000, "opinion": "folding", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1375056000, "opinion": "built-in", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1375056000, "opinion": "over-charging", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "plug adapter", "time": 1375056000, "opinion": "purchase", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1375056000, "opinion": "folding", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "A", "time": 1375056000, "opinion": "50-60Hz", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1375056000, "opinion": "over-current", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1375056000, "opinion": "over-heated", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1375056000, "opinion": "honest", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1375056000, "opinion": "unbiased", "productID": "B00DRLA5OU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1374019200, "opinion": "external", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1374019200, "opinion": "portable", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1374019200, "opinion": "low", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "charge", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "charge", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1374019200, "opinion": "n't have", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "mobile", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "wealth", "time": 1374019200, "opinion": "n't provide", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "micro", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1374019200, "opinion": "lightweight", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1374019200, "opinion": "requires", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "slim", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1374019200, "opinion": "micro", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "put", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "light", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1374019200, "opinion": "full", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1374019200, "opinion": "charge", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output port.It", "time": 1374019200, "opinion": "larger", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "turn", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1374019200, "opinion": "charging", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "iPod", "time": 1374019200, "opinion": "charge", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1374019200, "opinion": "included", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "internal", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1374019200, "opinion": "charge", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1374019200, "opinion": "charging", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "micro", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Connector/tip1", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Connector/tip1", "time": 1374019200, "opinion": "white", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "internal", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable1 bank", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1374019200, "opinion": "micro", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "micro", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1374019200, "opinion": "USB", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable1 bank", "time": 1374019200, "opinion": "white", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1374019200, "opinion": "extra", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1374019200, "opinion": "n't feel", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "ultra-slim", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1374019200, "opinion": "honest", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight too!The", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight too!The", "time": 1374019200, "opinion": "iFlash", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1374019200, "opinion": "unbiased", "productID": "B00CCWP93W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1374019200, "opinion": "external", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1374019200, "opinion": "portable", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1374019200, "opinion": "low", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "charge", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "charge", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1374019200, "opinion": "n't have", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "mobile", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "wealth", "time": 1374019200, "opinion": "n't provide", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "micro", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1374019200, "opinion": "lightweight", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1374019200, "opinion": "requires", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "slim", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connection", "time": 1374019200, "opinion": "micro", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "put", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "light", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1374019200, "opinion": "full", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1374019200, "opinion": "charge", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "output port.It", "time": 1374019200, "opinion": "larger", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "turn", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1374019200, "opinion": "charging", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "iPod", "time": 1374019200, "opinion": "charge", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1374019200, "opinion": "included", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "internal", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1374019200, "opinion": "charge", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1374019200, "opinion": "charging", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "micro", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Connector/tip1", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Connector/tip1", "time": 1374019200, "opinion": "white", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "internal", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable1 bank", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1374019200, "opinion": "micro", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1374019200, "opinion": "micro", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1374019200, "opinion": "USB", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable1 bank", "time": 1374019200, "opinion": "white", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1374019200, "opinion": "extra", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1374019200, "opinion": "n't feel", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1374019200, "opinion": "ultra-slim", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1374019200, "opinion": "honest", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight too!The", "time": 1374019200, "opinion": "built-in", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight too!The", "time": 1374019200, "opinion": "iFlash", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1374019200, "opinion": "unbiased", "productID": "B00CCWPVYE"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1373932800, "opinion": "external", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1373932800, "opinion": "portable", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1373932800, "opinion": "low", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373932800, "opinion": "charge", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mAh bank", "time": 1373932800, "opinion": "mobile", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "face", "time": 1373932800, "opinion": "mirror-like", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "face", "time": 1373932800, "opinion": "shiny", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1373932800, "opinion": "n't have", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "band", "time": 1373932800, "opinion": "white", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mAh bank", "time": 1373932800, "opinion": "charge", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373932800, "opinion": "full", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "drawstring case", "time": 1373932800, "opinion": "black", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "100/240V charger", "time": 1373932800, "opinion": "USB", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "2-Micro", "time": 1373932800, "opinion": "USB", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1373932800, "opinion": "prepaid", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "zone", "time": 1373932800, "opinion": "red", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1373932800, "opinion": "charge", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "USB", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mah", "time": 1373932800, "opinion": "USB", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373932800, "opinion": "honest", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373932800, "opinion": "charge", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mah", "time": 1373932800, "opinion": "Dual", "productID": "B00B90GLTO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1373932800, "opinion": "external", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1373932800, "opinion": "portable", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1373932800, "opinion": "low", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373932800, "opinion": "charge", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mAh bank", "time": 1373932800, "opinion": "mobile", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "face", "time": 1373932800, "opinion": "gray", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "face", "time": 1373932800, "opinion": "mirror-like", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mAh bank", "time": 1373932800, "opinion": "charge", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1373932800, "opinion": "n't have", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373932800, "opinion": "full", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "drawstring case", "time": 1373932800, "opinion": "black", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "100/240V charger", "time": 1373932800, "opinion": "USB", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "2-Micro", "time": 1373932800, "opinion": "USB", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1373932800, "opinion": "prepaid", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "zone", "time": 1373932800, "opinion": "red", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1373932800, "opinion": "charge", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "USB", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373932800, "opinion": "charge", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Duty Output", "time": 1373932800, "opinion": "Heavy", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mAh", "time": 1373932800, "opinion": "USB", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "8400mAh", "time": 1373932800, "opinion": "Dual", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Battery Year", "time": 1373932800, "opinion": "External", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Replacement", "time": 1373932800, "opinion": "Limited", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373932800, "opinion": "honest", "productID": "B00B90HW1U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1373932800, "opinion": "external", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1373932800, "opinion": "portable", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1373932800, "opinion": "low", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373932800, "opinion": "charge", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1373932800, "opinion": "n't have", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "band", "time": 1373932800, "opinion": "white", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "5600mAh bank", "time": 1373932800, "opinion": "charge", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "white", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "USB", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sky", "time": 1373932800, "opinion": "nice", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "5600mAh bank", "time": 1373932800, "opinion": "mobile", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1373932800, "opinion": "blue", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373932800, "opinion": "full", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1373932800, "opinion": "great", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "iPod", "time": 1373932800, "opinion": "charged", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373932800, "opinion": "included", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "included", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373932800, "opinion": "USB", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "USB", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1373932800, "opinion": "on/off", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373932800, "opinion": "charged.To", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373932800, "opinion": "micro", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373932800, "opinion": "USB", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373932800, "opinion": "USB", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1373932800, "opinion": "USB", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373932800, "opinion": "portable", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373932800, "opinion": "slim", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373932800, "opinion": "love", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1373932800, "opinion": "LED", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373932800, "opinion": "lightweight", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373932800, "opinion": "LED", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373932800, "opinion": "honest", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Battery.A sample", "time": 1373932800, "opinion": "External", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "designiFlash Backup", "time": 1373932800, "opinion": "blue", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373932800, "opinion": "unbiased", "productID": "B00BRTQKDO"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1373673600, "opinion": "external", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1373673600, "opinion": "portable", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1373673600, "opinion": "low", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373673600, "opinion": "charge", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sky case", "time": 1373673600, "opinion": "blue", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373673600, "opinion": "blue", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1373673600, "opinion": "n't have", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "5600mAh bank", "time": 1373673600, "opinion": "charge", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sky case", "time": 1373673600, "opinion": "nice", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373673600, "opinion": "white", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373673600, "opinion": "USB", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "5600mAh bank", "time": 1373673600, "opinion": "mobile", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373673600, "opinion": "full", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1373673600, "opinion": "great", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "iPod", "time": 1373673600, "opinion": "charged", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373673600, "opinion": "included", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373673600, "opinion": "included", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373673600, "opinion": "USB", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373673600, "opinion": "USB", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1373673600, "opinion": "on/off", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373673600, "opinion": "charged.To", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373673600, "opinion": "micro", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373673600, "opinion": "USB", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector tip", "time": 1373673600, "opinion": "USB", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1373673600, "opinion": "USB", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1373673600, "opinion": "portable", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373673600, "opinion": "slim", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1373673600, "opinion": "LED", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "color", "time": 1373673600, "opinion": "love", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373673600, "opinion": "lightweight", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373673600, "opinion": "honest", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373673600, "opinion": "unbiased", "productID": "B00BRTR1IM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Cigarette adapter", "time": 1373587200, "opinion": "USB", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flush", "time": 1373587200, "opinion": "sits", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1373587200, "opinion": "flush", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cigarette adapter", "time": 1373587200, "opinion": "USB", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Adaptor", "time": 1373587200, "opinion": "Dual", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flush", "time": 1373587200, "opinion": "sits", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Adaptor", "time": 1373587200, "opinion": "USB", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "adapter", "time": 1373587200, "opinion": "remove", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1373587200, "opinion": "USB", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "safety function", "time": 1373587200, "opinion": "recover", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1373587200, "opinion": "honest", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "limit protection", "time": 1373587200, "opinion": "current", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373587200, "opinion": "ensure", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit protection", "time": 1373587200, "opinion": "short", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "devices.I", "time": 1373587200, "opinion": "powered", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1373587200, "opinion": "provided", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373587200, "opinion": "stable", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "shutdown protection", "time": 1373587200, "opinion": "thermal", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit protection", "time": 1373587200, "opinion": "recover", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charge", "time": 1373587200, "opinion": "safe", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "shutdown protection", "time": 1373587200, "opinion": "features", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "limit protection", "time": 1373587200, "opinion": "recover", "productID": "B004X71HXU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1372982400, "opinion": "label", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "car charger", "time": 1372982400, "opinion": "Dual", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cigarette port.More", "time": 1372982400, "opinion": "important", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1372982400, "opinion": "wanted", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED light", "time": 1372982400, "opinion": "green", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "feature.Very", "time": 1372982400, "opinion": "Important", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1372982400, "opinion": "full", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1372982400, "opinion": "over-current", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1372982400, "opinion": "over-heated", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1372982400, "opinion": "over-charging", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "starsThe", "time": 1372982400, "opinion": "over-heating", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port charger", "time": 1372982400, "opinion": "dual", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED", "time": 1372982400, "opinion": "green", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1372982400, "opinion": "honest", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "product sample", "time": 1372982400, "opinion": "received", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1372982400, "opinion": "unbiased", "productID": "B00DKCVO7I"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fit", "time": 1372204800, "opinion": "tight", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fit", "time": 1372204800, "opinion": "ensure", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fit", "time": 1372204800, "opinion": "secure", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fit", "time": 1372204800, "opinion": "test", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone holder", "time": 1372204800, "opinion": "wiggled", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1372204800, "opinion": "held", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "slot", "time": 1372204800, "opinion": "held", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone holder", "time": 1372204800, "opinion": "install", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Volume knob", "time": 1372204800, "opinion": "large", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "clearance", "time": 1372204800, "opinion": "n't have", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "space", "time": 1372204800, "opinion": "20mm", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "40mm", "time": 1372204800, "opinion": "20mm", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "tilt", "time": 1372204800, "opinion": "360-degree", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone holder", "time": 1372204800, "opinion": "adjustable", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "rotation", "time": 1372204800, "opinion": "360-degree", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fit.Nice product", "time": 1372204800, "opinion": "secure", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1372204800, "opinion": "honest", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sub pad", "time": 1372204800, "opinion": "required", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1372204800, "opinion": "unbiased", "productID": "B00D4ABOZS"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1371772800, "opinion": "portable", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1371772800, "opinion": "low", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1371772800, "opinion": "charge", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1371772800, "opinion": "mobile", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1371772800, "opinion": "charge", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1371772800, "opinion": "n't have", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery pack", "time": 1371772800, "opinion": "external", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1371772800, "opinion": "bright", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power cable", "time": 1371772800, "opinion": "USB", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON2", "time": 1371772800, "opinion": "perfect", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1371772800, "opinion": "handy", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1371772800, "opinion": "bright", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1371772800, "opinion": "included", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power cable", "time": 1371772800, "opinion": "USB", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1371772800, "opinion": "charge", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1371772800, "opinion": "USB", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1371772800, "opinion": "charging", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1371772800, "opinion": "included", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON2", "time": 1371772800, "opinion": "charge", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "4g", "time": 1371772800, "opinion": "charged", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "strobe", "time": 1371772800, "opinion": "LED", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON2", "time": 1371772800, "opinion": "charge", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1371772800, "opinion": "LED", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1371772800, "opinion": "USB", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1371772800, "opinion": "USB", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1371772800, "opinion": "USB", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "information", "time": 1371772800, "opinion": "port", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1371772800, "opinion": "on/off", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weight", "time": 1371772800, "opinion": "off.Approximate", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "travel AON2", "time": 1371772800, "opinion": "black", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1371772800, "opinion": "honest", "productID": "B00D8LOAEA"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1371772800, "opinion": "unbiased", "productID": "B00D8LOAEA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1371600000, "opinion": "USB", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPad", "time": 1371600000, "opinion": "charging", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "output", "time": 1371600000, "opinion": "features", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1371600000, "opinion": "USB", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "YPCC-210B", "time": 1371600000, "opinion": "over-heated", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPad", "time": 1371600000, "opinion": "charge", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1371600000, "opinion": "charge", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1371600000, "opinion": "connected.A", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "warranty", "time": 1371600000, "opinion": "limited", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED ring", "time": 1371600000, "opinion": "red", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.One year", "time": 1371600000, "opinion": "unbiased", "productID": "B00CKZ70TM"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.One year", "time": 1371600000, "opinion": "honest", "productID": "B00CKZ70TM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "amount", "time": 1371427200, "opinion": "tasteful", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "look button", "time": 1371427200, "opinion": "on/off", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "look button", "time": 1371427200, "opinion": "chrome", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "bling", "time": 1371427200, "opinion": "tasteful", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "look band", "time": 1371427200, "opinion": "chrome", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "light", "time": 1371427200, "opinion": "blue", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1371427200, "opinion": "charge", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1371427200, "opinion": "included", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON4", "time": 1371427200, "opinion": "charge", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "life span.Now", "time": 1371427200, "opinion": "prolong", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1371427200, "opinion": "charge", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1371427200, "opinion": "micro-mini", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring wire", "time": 1371427200, "opinion": "included", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1371427200, "opinion": "USB", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring wire", "time": 1371427200, "opinion": "USB", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1371427200, "opinion": "turns", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charging/power cable", "time": 1371427200, "opinion": "unplug", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1371427200, "opinion": "on/off", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring cable", "time": 1371427200, "opinion": "USB", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1371427200, "opinion": "honest", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1371427200, "opinion": "unbiased", "productID": "B00CRPIJ9U"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1370995200, "opinion": "portable", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1370995200, "opinion": "low", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1370995200, "opinion": "charge", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1370995200, "opinion": "mobile", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1370995200, "opinion": "charge", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1370995200, "opinion": "n't have", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery pack", "time": 1370995200, "opinion": "external", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON5", "time": 1370995200, "opinion": "on-the-go", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON5", "time": 1370995200, "opinion": "perfect", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1370995200, "opinion": "charge", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring", "time": 1370995200, "opinion": "USB", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cursor", "time": 1370995200, "opinion": "hover", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring wire", "time": 1370995200, "opinion": "USB", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1370995200, "opinion": "included", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON5", "time": 1370995200, "opinion": "charge", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "instruction manual.After", "time": 1370995200, "opinion": "making", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1370995200, "opinion": "charging", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON5", "time": 1370995200, "opinion": "turned", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1370995200, "opinion": "plugged", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1370995200, "opinion": "charge", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "problem", "time": 1370995200, "opinion": "solved", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1370995200, "opinion": "micro-mini", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring wire", "time": 1370995200, "opinion": "included", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1370995200, "opinion": "USB", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "spring wire", "time": 1370995200, "opinion": "USB", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "AON5", "time": 1370995200, "opinion": "charge", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery capacity", "time": 1370995200, "opinion": "display", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "input port", "time": 1370995200, "opinion": "USB", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1370995200, "opinion": "honest", "productID": "B00CR49N3C"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1370995200, "opinion": "unbiased", "productID": "B00CR49N3C"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery charger", "time": 1370476800, "opinion": "portable", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery power", "time": 1370476800, "opinion": "low", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "short", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "USB", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "access", "time": 1370476800, "opinion": "n't have", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED flashlight", "time": 1370476800, "opinion": "bright", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1370476800, "opinion": "attractive", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1370476800, "opinion": "sleek", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1370476800, "opinion": "full", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "laptop", "time": 1370476800, "opinion": "USB", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "USB", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "laptop", "time": 1370476800, "opinion": "included", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "included", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "AC adapter", "time": 1370476800, "opinion": "USB", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1370476800, "opinion": "on/off", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "button", "time": 1370476800, "opinion": "on/off", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery cycle", "time": 1370476800, "opinion": "Long", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power controller", "time": 1370476800, "opinion": "smart", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power efficiency", "time": 1370476800, "opinion": "maximum", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "circuit", "time": 1370476800, "opinion": "short", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection design", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection design", "time": 1370476800, "opinion": "Double", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery board", "time": 1370476800, "opinion": "protects", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1370476800, "opinion": "charging", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "~ LED", "time": 1370476800, "opinion": "Intelligent", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1370476800, "opinion": "included", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPod", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "USB", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "connector", "time": 1370476800, "opinion": "USB", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1370476800, "opinion": "included", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "LED", "time": 1370476800, "opinion": "blue", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "Fire HD", "time": 1370476800, "opinion": "Kindle", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "KF HD", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1370476800, "opinion": "charge", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power bank", "time": 1370476800, "opinion": "charging", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1370476800, "opinion": "update", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1370476800, "opinion": "update", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1370476800, "opinion": "run", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1370476800, "opinion": "honest", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1370476800, "opinion": "love", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1370476800, "opinion": "provided", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPod Touch.This", "time": 1370476800, "opinion": "charging", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1370476800, "opinion": "sleek", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1370476800, "opinion": "handy", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "Fire", "time": 1370476800, "opinion": "charging", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "flashlight", "time": 1370476800, "opinion": "bright", "productID": "B00CLDD4PC"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1370476800, "opinion": "unbiased", "productID": "B00CLDD4PC"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1369008000, "opinion": "great", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1369008000, "opinion": "charged", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "plug adapter", "time": 1369008000, "opinion": "purchase", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "dot guide", "time": 1369008000, "opinion": "Check", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "dot guide", "time": 1369008000, "opinion": "voltagevalet", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "warranty", "time": 1369008000, "opinion": "limited", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.One year", "time": 1369008000, "opinion": "unbiased", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.One year", "time": 1369008000, "opinion": "honest", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1369008000, "opinion": "not compatible", "productID": "B00COQL9QM"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "flap", "time": 1368835200, "opinion": "magnetic", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1368835200, "opinion": "uncluttered", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1368835200, "opinion": "slim", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1368835200, "opinion": "honest", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "securely.Because", "time": 1368835200, "opinion": "holds", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1368835200, "opinion": "provided", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1368835200, "opinion": "simple", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fact", "time": 1368835200, "opinion": "uncluttered", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fact", "time": 1368835200, "opinion": "simple", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "fact", "time": 1368835200, "opinion": "stitching", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "design", "time": 1368835200, "opinion": "stitching", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1368835200, "opinion": "unbiased", "productID": "B00CJBUDC8"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cotton ball", "time": 1368835200, "opinion": "put", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "claim", "time": 1368835200, "opinion": "test", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "claim", "time": 1368835200, "opinion": "waterproof", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1368835200, "opinion": "excellent", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1368835200, "opinion": "universal", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1368835200, "opinion": "waterproof", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pressure", "time": 1368835200, "opinion": "apply", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1368835200, "opinion": "honest", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "WarrantyI", "time": 1368835200, "opinion": "Limited", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1368835200, "opinion": "provided", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPX8", "time": 1368835200, "opinion": "Certified", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "claim", "time": 1368835200, "opinion": "test", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1368835200, "opinion": "holding", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "value.One Year", "time": 1368835200, "opinion": "great", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1368835200, "opinion": "unbiased", "productID": "B00CJDOTSU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "suction", "time": 1368662400, "opinion": "excellent", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPod 4G", "time": 1368662400, "opinion": "hold", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "water", "time": 1368662400, "opinion": "warm", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pad", "time": 1368662400, "opinion": "not sticky", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "residue", "time": 1368662400, "opinion": "sticky", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weather", "time": 1368662400, "opinion": "extreme", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "weather", "time": 1368662400, "opinion": "cold", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "surface", "time": 1368662400, "opinion": "moved", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "holder", "time": 1368662400, "opinion": "adjusting", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cradle", "time": 1368662400, "opinion": "attaching", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "surface", "time": 1368662400, "opinion": "rotates", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pad", "time": 1368662400, "opinion": "bottom", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "piece", "time": 1368662400, "opinion": "tape/plastic", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1368662400, "opinion": "honest", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1368662400, "opinion": "unbiased", "productID": "B00CJCKIXG"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cell case", "time": 1365033600, "opinion": "Waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "review", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cell phone", "time": 1365033600, "opinion": "not putting", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPod", "time": 1365033600, "opinion": "not putting", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "water", "time": 1365033600, "opinion": "ran", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "dinner plate", "time": 1365033600, "opinion": "put", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "edge", "time": 1365033600, "opinion": "push", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "open", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "time", "time": 1365033600, "opinion": "give", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "tab", "time": 1365033600, "opinion": "front", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "earphone jack", "time": 1365033600, "opinion": "waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "cell", "time": 1365033600, "opinion": "prepaid", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "smartphone.I", "time": 1365033600, "opinion": "large", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "side", "time": 1365033600, "opinion": "safe", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "couple", "time": 1365033600, "opinion": "buy", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1365033600, "opinion": "drowning", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "chance", "time": 1365033600, "opinion": "good", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "tissue", "time": 1365033600, "opinion": "putting", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case.I", "time": 1365033600, "opinion": "waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "touch screen", "time": 1365033600, "opinion": "n't test", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "test", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1365033600, "opinion": "waterproof", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "precaution", "time": 1365033600, "opinion": "extra", "productID": "B00BUBR498"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Output Charger", "time": 1365033600, "opinion": "USB", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery", "time": 1365033600, "opinion": "full", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1365033600, "opinion": "USB", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1365033600, "opinion": "honest", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charging", "time": 1365033600, "opinion": "slow", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1365033600, "opinion": "over-charging", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charging", "time": 1365033600, "opinion": "charging", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1365033600, "opinion": "not compatible", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1365033600, "opinion": "unbiased", "productID": "B00BWUXP9K"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger!I", "time": 1361750400, "opinion": "rapid", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger!I", "time": 1361750400, "opinion": "nice", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1361750400, "opinion": "over-current", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1361750400, "opinion": "great", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "glass", "time": 1361750400, "opinion": "magnifying", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Wall/Travel/AC Charger", "time": 1361750400, "opinion": "Rapid", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.I", "time": 1361750400, "opinion": "honest", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Blackand Bolse", "time": 1361750400, "opinion": "white", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Wall/Travel/AC Charger", "time": 1361750400, "opinion": "USB", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Wall/Travel/AC", "time": 1361750400, "opinion": "USB", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1361750400, "opinion": "update", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Output", "time": 1361750400, "opinion": "compact", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1361750400, "opinion": "making", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "instruction sheet", "time": 1361750400, "opinion": "included", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Output", "time": 1361750400, "opinion": "making", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "print", "time": 1361750400, "opinion": "read", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "print", "time": 1361750400, "opinion": "light", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "charger", "time": 1361750400, "opinion": "compact", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Output", "time": 1361750400, "opinion": "easier", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.I", "time": 1361750400, "opinion": "unbiased", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Bolse", "time": 1361750400, "opinion": ">", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "information", "time": 1361750400, "opinion": "copy", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1361750400, "opinion": "multiple", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1361750400, "opinion": "hungry", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1361750400, "opinion": "charge", "productID": "B00BFQ9R0W"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1361750400, "opinion": "<", "productID": "B00BFQ9R0W"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "dock", "time": 1361664000, "opinion": "charging", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1361664000, "opinion": "USB", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1361664000, "opinion": "unplug", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "dock", "time": 1361664000, "opinion": "charging", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1361664000, "opinion": "located", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1361664000, "opinion": "charge", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1361664000, "opinion": "USB", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "phone", "time": 1361664000, "opinion": "charge", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "episode", "time": 1361664000, "opinion": "large", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "area", "time": 1361664000, "opinion": "charging", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "Fire HD", "time": 1361664000, "opinion": "wake", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "battery app", "time": 1361664000, "opinion": "free", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "silicone cover", "time": 1361664000, "opinion": "removing", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1361664000, "opinion": "USB", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "port", "time": 1361664000, "opinion": "male", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "product", "time": 1361664000, "opinion": "USB", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1361664000, "opinion": "update", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "information", "time": 1361664000, "opinion": "pertinent", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "dock", "time": 1361664000, "opinion": "charging", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.I", "time": 1361664000, "opinion": "unbiased", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review.I", "time": 1361664000, "opinion": "honest", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "Fires.Unplug", "time": 1361664000, "opinion": "Kindle", "productID": "B00BAO73Q4"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "holder", "time": 1355616000, "opinion": "easy", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "weather yet.One", "time": 1355616000, "opinion": "cold", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "width", "time": 1355616000, "opinion": "extends", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "disc", "time": 1355616000, "opinion": "plastic", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "surface", "time": 1355616000, "opinion": "clean", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "disc", "time": 1355616000, "opinion": "adhesive", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "holder", "time": 1355616000, "opinion": "mini", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "disc", "time": 1355616000, "opinion": "adhesive", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "disc", "time": 1355616000, "opinion": "adhesive", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "holder", "time": 1355616000, "opinion": "remove", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "disc", "time": 1355616000, "opinion": "adhesive", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "position", "time": 1355616000, "opinion": "horizontal", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "holder til", "time": 1355616000, "opinion": "rotated", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1355616000, "opinion": "honest", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sample", "time": 1355616000, "opinion": "provided", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1355616000, "opinion": "unbiased", "productID": "B00AA1PQNA"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sticker", "time": 1355616000, "opinion": "attached", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "alcohol", "time": 1355616000, "opinion": "rubbing", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "home button", "time": 1355616000, "opinion": "cleaned", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "pin", "time": 1355616000, "opinion": "straight", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "power", "time": 1355616000, "opinion": "staying", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1355616000, "opinion": "similar", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sticker", "time": 1355616000, "opinion": "unusable", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sticker", "time": 1355616000, "opinion": "black", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1355616000, "opinion": "honest", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": ".3", "time": 1355616000, "opinion": "adhesive", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1355616000, "opinion": "unbiased", "productID": "B00AEEQPN8"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "side", "time": 1352505600, "opinion": "heavy", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sound", "time": 1352505600, "opinion": "room-filling", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sound", "time": 1352505600, "opinion": "powerful", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "level", "time": 1352505600, "opinion": "moderate", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "blast", "time": 1352505600, "opinion": "full", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "quality", "time": 1352505600, "opinion": "sound", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "bass", "time": 1352505600, "opinion": "deep", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "bass", "time": 1352505600, "opinion": "not over-powering", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1352505600, "opinion": "audio", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "device", "time": 1352505600, "opinion": "non-Bluetooth", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "thisMediabridge", "time": 1352505600, "opinion": "similar", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "cable", "time": 1352505600, "opinion": "male", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "thisMediabridge", "time": 1352505600, "opinion": "audio", "productID": "B0094S35QU"}
+{"overall": 4.0, "userID": "A1PI8VBCXXSGC7", "feature": "sound", "time": 1352505600, "opinion": "preset", "productID": "B0094S35QU"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "Defender case", "time": 1327017600, "opinion": "purchase", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "chance", "time": 1327017600, "opinion": "good", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "IPod", "time": 1327017600, "opinion": "drop", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "protection", "time": 1327017600, "opinion": "offer", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case.The", "time": 1327017600, "opinion": "purchased", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case.The", "time": 1327017600, "opinion": "black/red", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "polycarbonate", "time": 1327017600, "opinion": "hi-impact", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "polycarbonate", "time": 1327017600, "opinion": "black", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "window", "time": 1327017600, "opinion": "clear", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "black", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "black", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "touch sensitivity", "time": 1327017600, "opinion": "n't hinder", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "screen protector", "time": 1327017600, "opinion": "love", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "black", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "border", "time": 1327017600, "opinion": "leaves", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "poly-carbonate", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "border", "time": 1327017600, "opinion": "small", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "black", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "jack cover", "time": 1327017600, "opinion": "close", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "silicone cover", "time": 1327017600, "opinion": "red", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "lint/dust", "time": 1327017600, "opinion": "not collecting", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "jack cover", "time": 1327017600, "opinion": "smaller", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "dock cover.The", "time": 1327017600, "opinion": "close", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case on.So", "time": 1327017600, "opinion": "good", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "adapter", "time": 1327017600, "opinion": "purchase", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "review", "time": 1327017600, "opinion": "update", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "purchase", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "case", "time": 1327017600, "opinion": "pink", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "sort", "time": 1327017600, "opinion": "n't see", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "color", "time": 1327017600, "opinion": "pink", "productID": "B004FLJBDW"}
+{"overall": 5.0, "userID": "A1PI8VBCXXSGC7", "feature": "pink", "time": 1327017600, "opinion": "hot", "productID": "B004FLJBDW"}
