@@ -14,8 +14,8 @@ def ndcg(list1,list2):
     idcg=0
     ndcg=0
     for i in range(10):
-        dcg+=get_dcg(mini_list[i],i+1)
-        idcg+=get_dcg(mini_list2[i],i+1)
+        dcg+=get_dcg(list[i],i+1)
+        idcg+=get_dcg(list2[i],i+1)
         
     ndcg=dcg/idcg
     return ndcg
