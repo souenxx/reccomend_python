@@ -1,20 +1,22 @@
-file = "test2.txt"
-file2 = "test2c.txt"
+import numpy as np
+
+file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test2.txt"
+file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test2c.txt"
 
 def mydict(path):
     result={}
-    with open(file) as data_file:
+    with open(path) as data_file:
         for line in data_file:
             s=list(line.rstrip().split(","))
             result[(s[0],s[1])] = s[2] 
     return result
 
-def ndcg(list1,list2):
+def get_ndcg(list1,list2):
     dcg=0
     idcg=0
     ndcg=0
     for i in range(10):
-        dcg+=get_dcg(list[i],i+1)
+        dcg+=get_dcg(list1[i],i+1)
         idcg+=get_dcg(list2[i],i+1)
         
     ndcg=dcg/idcg
@@ -30,18 +32,24 @@ def get_dcg(rel,rank):
     else:
         dcg=rel/(np.log2(rank))
     return dcg
+    
 
 n=mydict(file)
 n2=mydict(file2)
 
 for mykey in n.keys():
     if mykey in n2:
+        #print(mykey)
         n2[mykey]=n[mykey]
     else:
         n2[mykey]=0
-        
- 
 
-print(n2)
+nl=list(n.values())
+nlf=[float(s) for s in nl]
 
-#print(n.keys())
+nl2=list(n2.values())
+nlf2=[float(t) for t in nl2]
+
+kekka=get_ndcg(nlf,nlf2)
+
+print(kekka)
