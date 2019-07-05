@@ -4,12 +4,15 @@ file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test2.txt"
 file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test2c.txt"
 
 def mydict(path):
-    result={}
+    user_dict=[]
     with open(path) as data_file:
         for line in data_file:
             s=list(line.rstrip().split(","))
-            result[(s[0],s[1])] = s[2] 
-    return result
+            user_id = s[0]
+            if user_id not in user_dict:
+                user_dict.append(user_id)
+            #user_dict[user_id][(s[0],s[1])] = s[2] 
+    return user_dict
 
 def get_ndcg(list1,list2):
     dcg=0
@@ -34,22 +37,26 @@ def get_dcg(rel,rank):
     return dcg
     
 
+
+
 n=mydict(file)
 n2=mydict(file2)
 
-for mykey in n.keys():
-    if mykey in n2:
+
+print(n)
+#for mykey in n.keys():
+    #if mykey in n2:
         #print(mykey)
-        n2[mykey]=n[mykey]
-    else:
-        n2[mykey]=0
+        #n2[mykey]=n[mykey]
+    #else:
+        #n2[mykey]=0
 
-nl=list(n.values())
-nlf=[float(s) for s in nl]
+#nl=list(n.values())
+#nlf=[float(s) for s in nl]
 
-nl2=list(n2.values())
-nlf2=[float(t) for t in nl2]
+#nl2=list(n2.values())
+#nlf2=[float(t) for t in nl2]
 
-kekka=get_ndcg(nlf,nlf2)
+#kekka=get_ndcg(nlf,nlf2)
 
-print(kekka)
+#print(kekka)
