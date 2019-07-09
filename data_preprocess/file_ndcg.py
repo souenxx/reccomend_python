@@ -1,7 +1,7 @@
 import numpy as np
 
-file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test2.txt"
-file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test2c.txt"
+file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
+file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 
 def mydict(path):
     user_dict={}
@@ -19,11 +19,11 @@ def mydict(path):
             #user_dict[user_id].append(pair)
     return user_dict
 
-def get_ndcg(list1,list2):
+def get_ndcg(list1,list2,num_f):
     dcg=0
     idcg=0
     ndcg=0
-    for i in range(10):
+    for i in range(num_f):
         dcg+=get_dcg(list1[i],i+1)
         idcg+=get_dcg(list2[i],i+1)
         
@@ -51,27 +51,46 @@ n=mydict(file)
 nc=mydict(file)
 n2=mydict(file2)
 
+main_user='10'
+
+num_f=200
+
+nlist=[]
+nclist=[]
+
+flist=get_featurelist(n,main_user)
+
 for user_id in n.keys():
-    for i in range(len(n[user_id])):
-        flist=get_featurelist(n,user_id)
-        flist2=get_featurelist(n2,user_id)
-        name_values = [x['feature'] for x in n2[user_id] if x['feature'] == flist[i]]
+    flist2=get_featurelist(n2,user_id)
+    for i in range(num_f):
+        name_values = [x['feature'] for x in n[user_id] if x['feature'] == flist2[i]]
         if len(name_values):
-            nc[user_id][i]['score']=n2[user_id][flist2.index(name_values[0])]['score']
+            nc[main_user][i]['score']=n[main_user][flist.index(n2[user_id][i]['feature'])]['score']
         else:
-            nc[user_id][i]['score']=0
-    print(nc)
-            
-#print(n2['49'])
+            nc[main_user][i]['score']=0
+    minilist=[]
+    minilistc=[]
+    for i in range(num_f):
+        minilist.append(float(n[main_user][i]['score']))
+        minilistc.append(float(nc[main_user][i]['score']))
+    nlist.append(minilist)
+    nclist.append(minilistc)
 
-#nl=list(n.values())
-
-#print(nl)
-#nlf=[float(s) for s in nl]
-
-#nl2=list(n2.values())
-#nlf2=[float(t) for t in nl2]
-
-#kekka=get_ndcg(nlf,nlf2)
-
-#print(kekka)
+"""
+for user_id in n.keys(): 
+    minilist=[]
+    minilistc=[]
+    for i in range(20):
+        minilist.append(float(n[user_id][i]['score']))
+        minilistc.append(float(nc[user_id][i]['score']))
+    nlist.append(minilist)
+    nclist.append(minilistc)
+#print(nclist[0])
+"""
+kekka_list=[]
+for i in range(len(n.keys())):
+    kekka=get_ndcg(nclist[i],nlist[int(main_user)],num_f)
+    kekka_list.append(kekka)
+#print(kekka_list)
+kekka_index=sorted(range(len(kekka_list)),key=lambda k: kekka_list[k],reverse=True)
+print(kekka_index.index(int(main_user))+1)
