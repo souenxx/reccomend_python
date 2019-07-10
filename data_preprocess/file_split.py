@@ -24,19 +24,49 @@ def review_split(path,review_num):
     list2=[]
     biglist=[]
     minilist=[]
+    list1mini=[]
+    list2mini=[]
     i=0
     card=0
     with open(path) as data_file:
         for line in data_file:
             s=list(line.rstrip().split(","))
+            #print(line)
             if i<review_num[card]:
-                i++
                 minilist.append(line)
+                i=i+1
             else:
                 i=0
-                card=card+1
-                biglist.append(minilist)
+                z=0
+                for key in minilist:
+                    z=z+1
+                    random.shuffle(minilist)
+                    if z<(len(minilist)//2):
+                        list1mini.append(key)
+                    else:
+                        list2mini.append(key)
+                list1.append(list1mini)
+                list2.append(list2mini)
+                list1mini=[]
+                list2mini=[]
                 minilist=[]
                 minilist.append(line)
+                card=card+1
+                i=i+1
+        biglist.append(minilist)
+        z=0
+        for key in minilist:
+            z=z+1
+            random.shuffle(minilist)
+            if z<(len(minilist)//2):
+                list1mini.append(key)
+            else:
+                list2mini.append(key)
+        list1.append(list1mini)
+        list2.append(list2mini)
+    return list1,list2
+
 num=review_count(file)
-print(num[0])
+l1,l2=review_split(file,num)
+print(l1[49])
+print(l2[49])
