@@ -1,7 +1,8 @@
 import numpy as np
-
-file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
-file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
+file = "C:/Users/kidos/desktop/test.txt"
+file2 = "C:/Users/kidos/desktop/test2.txt"
+#file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
+#file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 
 def mydict(path):
     user_dict={}
@@ -51,9 +52,9 @@ n=mydict(file)
 nc=mydict(file)
 n2=mydict(file2)
 
-main_user='10'
+main_user='99'
 
-num_f=200
+num_f=100
 
 nlist=[]
 nclist=[]
