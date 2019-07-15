@@ -66,14 +66,14 @@ def review_split(path,review_num):
 num=review_count(file)
 l1,l2=review_split(file,num)
 
-with open("split1.txt",'wt') as f:
+with open("split11111.txt",'wt') as f:
     for i in range(len(num)):
         l=[]
         l=map(str,l1[i])
         for ele in l:
             f.write(ele)
             
-with open("split2.txt",'wt') as f:
+with open("split22222.txt",'wt') as f:
     for i in range(len(num)):
         l=[]
         l=map(str,l2[i])

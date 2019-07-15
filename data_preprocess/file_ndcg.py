@@ -1,11 +1,12 @@
 import numpy as np
-file = "C:/Users/kidos/desktop/test.txt"
-file2 = "C:/Users/kidos/desktop/test2.txt"
+file = "C:/Users/kidos/desktop/testp4/test.txt"
+file2 = "C:/Users/kidos/desktop/testp4/test2.txt"
 #file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 #file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 
 def mydict(path):
     user_dict={}
+    user_list=[]
     feature_list=[]
     with open(path) as data_file:
         for line in data_file:
@@ -16,9 +17,10 @@ def mydict(path):
             pair['score']=s[2]
             if user_id not in user_dict:
                 user_dict[user_id]=[]
+                user_list.append(user_id)
             user_dict[user_id].append(pair)
             #user_dict[user_id].append(pair)
-    return user_dict
+    return user_dict,user_list
 
 def get_ndcg(list1,list2,num_f):
     dcg=0
@@ -48,50 +50,45 @@ def get_featurelist(n,user_id):
         featurelist.append(n[user_id][i]['feature'])
     return featurelist
 
-n=mydict(file)
-nc=mydict(file)
-n2=mydict(file2)
 
-main_user='99'
+def generate_nlist(n,nc,n2,main_user,num_f):
+    nlist=[]
+    nclist=[]
+    flist=get_featurelist(nc,main_user)
+    for user_id in nc.keys():
+        flist2=[]
+        flist2=get_featurelist(n2,user_id)
+        for i in range(num_f):
+            name_values=[]
+            name_values = [x['feature'] for x in n[main_user] if x['feature'] == flist2[i]]
+            if len(name_values):
+                nc[main_user][i]['score']=n[main_user][flist.index(n2[user_id][i]['feature'])]['score']
+            else:
+                nc[main_user][i]['score']=0
+        minilist=[]
+        minilistc=[]
+        for i in range(num_f):
+            minilist.append(float(n[main_user][i]['score']))
+            minilistc.append(float(nc[main_user][i]['score']))
+        nlist.append(minilist)
+        nclist.append(minilistc)
+    kekka_list=[]
+    for i in range(len(n.keys())):
+        kekka=get_ndcg(nclist[i],nlist[int(main_user)],num_f)
+        kekka_list.append(kekka)
+    kekka_index=sorted(range(len(kekka_list)),key=lambda k: kekka_list[k],reverse=True)
+    result=kekka_index.index(int(main_user))+1
+    return result
+
+n,u=mydict(file)
+nc,uc=mydict(file)
+n2,u2=mydict(file2)
 
 num_f=100
 
-nlist=[]
-nclist=[]
-
-flist=get_featurelist(n,main_user)
-
-for user_id in n.keys():
-    flist2=get_featurelist(n2,user_id)
-    for i in range(num_f):
-        name_values = [x['feature'] for x in n[user_id] if x['feature'] == flist2[i]]
-        if len(name_values):
-            nc[main_user][i]['score']=n[main_user][flist.index(n2[user_id][i]['feature'])]['score']
-        else:
-            nc[main_user][i]['score']=0
-    minilist=[]
-    minilistc=[]
-    for i in range(num_f):
-        minilist.append(float(n[main_user][i]['score']))
-        minilistc.append(float(nc[main_user][i]['score']))
-    nlist.append(minilist)
-    nclist.append(minilistc)
-
-"""
-for user_id in n.keys(): 
-    minilist=[]
-    minilistc=[]
-    for i in range(20):
-        minilist.append(float(n[user_id][i]['score']))
-        minilistc.append(float(nc[user_id][i]['score']))
-    nlist.append(minilist)
-    nclist.append(minilistc)
-#print(nclist[0])
-"""
-kekka_list=[]
-for i in range(len(n.keys())):
-    kekka=get_ndcg(nclist[i],nlist[int(main_user)],num_f)
-    kekka_list.append(kekka)
-#print(kekka_list)
-kekka_index=sorted(range(len(kekka_list)),key=lambda k: kekka_list[k],reverse=True)
-print(kekka_index.index(int(main_user))+1)
+goukei=0
+for i in u:
+    result=generate_nlist(n,nc,n2,i,num_f)
+    print(result)
+    goukei=goukei+result
+print(goukei/len(u))
