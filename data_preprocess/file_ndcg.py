@@ -1,6 +1,6 @@
 import numpy as np
-file = "C:/Users/kidos/desktop/testp4/test.txt"
-file2 = "C:/Users/kidos/desktop/testp4/test2.txt"
+file = "C:/Users/kidos/desktop/testp-e5/test.txt"
+file2 = "C:/Users/kidos/desktop/testp-e5/test2.txt"
 #file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 #file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 
@@ -72,13 +72,14 @@ def generate_nlist(n,nc,n2,main_user,num_f):
             minilistc.append(float(nc[main_user][i]['score']))
         nlist.append(minilist)
         nclist.append(minilistc)
-    kekka_list=[]
-    for i in range(len(n.keys())):
-        kekka=get_ndcg(nclist[i],nlist[int(main_user)],num_f)
-        kekka_list.append(kekka)
-    kekka_index=sorted(range(len(kekka_list)),key=lambda k: kekka_list[k],reverse=True)
-    result=kekka_index.index(int(main_user))+1
-    return result
+    kekka=get_ndcg(nclist[main_user],nlist[int(main_user)],num_f)
+    #kekka_list=[]
+    #for i in range(len(n.keys())):
+        #kekka=get_ndcg(nclist[i],nlist[int(main_user)],num_f)
+        #kekka_list.append(kekka)
+    #kekka_index=sorted(range(len(kekka_list)),key=lambda k: kekka_list[k],reverse=True)
+    #result=kekka_index.index(int(main_user))+1
+    return kekka
 
 n,u=mydict(file)
 nc,uc=mydict(file)
