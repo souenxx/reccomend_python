@@ -1,6 +1,6 @@
 import numpy as np
-file = "C:/Users/kidos/desktop/testp-e5/test.txt"
-file2 = "C:/Users/kidos/desktop/testp-e5/test2.txt"
+file = "C:/Users/kidos/desktop/testpp5/test.txt"
+file2 = "C:/Users/kidos/desktop/testpp5/test2.txt"
 #file = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 #file2 = "C:/Users/kidos/git/reccomend_python/data_preprocess/test.txt"
 
@@ -29,7 +29,8 @@ def get_ndcg(list1,list2,num_f):
     for i in range(num_f):
         dcg+=get_dcg(list1[i],i+1)
         idcg+=get_dcg(list2[i],i+1)
-        
+    #print(dcg)
+    #print(idcg)
     ndcg=dcg/idcg
     return ndcg
 
@@ -50,8 +51,31 @@ def get_featurelist(n,user_id):
         featurelist.append(n[user_id][i]['feature'])
     return featurelist
 
-
 def generate_nlist(n,nc,n2,main_user,num_f):
+    nlist=[]
+    nclist=[]
+    flist=get_featurelist(nc,main_user)
+    flist2=[]
+    flist2=get_featurelist(n2,main_user)
+    for i in range(num_f):
+        name_values=[]
+        name_values = [x['feature'] for x in n[main_user] if x['feature'] == flist2[i]]
+        if len(name_values):
+            nc[main_user][i]['score']=n[main_user][flist.index(n2[main_user][i]['feature'])]['score']
+        else:
+            nc[main_user][i]['score']=0
+                
+    minilist=[]
+    minilistc=[]
+    for i in range(num_f):
+        minilist.append(float(n[main_user][i]['score']))
+        minilistc.append(float(nc[main_user][i]['score']))
+    nlist.append(minilist)
+    nclist.append(minilistc)
+    kekka=get_ndcg(nclist[0],nlist[0],num_f)    
+    return kekka
+
+def generate_nlist_c(n,nc,n2,main_user,num_f):
     nlist=[]
     nclist=[]
     flist=get_featurelist(nc,main_user)
@@ -65,6 +89,7 @@ def generate_nlist(n,nc,n2,main_user,num_f):
                 nc[main_user][i]['score']=n[main_user][flist.index(n2[user_id][i]['feature'])]['score']
             else:
                 nc[main_user][i]['score']=0
+                
         minilist=[]
         minilistc=[]
         for i in range(num_f):
@@ -72,7 +97,9 @@ def generate_nlist(n,nc,n2,main_user,num_f):
             minilistc.append(float(nc[main_user][i]['score']))
         nlist.append(minilist)
         nclist.append(minilistc)
-    kekka=get_ndcg(nclist[main_user],nlist[int(main_user)],num_f)
+        #print(nlist)
+        #print(nclist)
+    kekka=get_ndcg(nclist[int(main_user)],nlist[int(main_user)],num_f)
     #kekka_list=[]
     #for i in range(len(n.keys())):
         #kekka=get_ndcg(nclist[i],nlist[int(main_user)],num_f)
@@ -82,14 +109,18 @@ def generate_nlist(n,nc,n2,main_user,num_f):
     return kekka
 
 n,u=mydict(file)
+#print(n)
 nc,uc=mydict(file)
 n2,u2=mydict(file2)
 
 num_f=100
 
+#result=generate_nlist_c(n,nc,n2,'0',num_f)
+#print(result)
+
 goukei=0
 for i in u:
     result=generate_nlist(n,nc,n2,i,num_f)
-    print(result)
+    #print(result)
     goukei=goukei+result
 print(goukei/len(u))
