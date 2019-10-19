@@ -1,0 +1,59 @@
+@RELATION @user-item
+
+@ATTRIBUTE user STRING 
+@ATTRIBUTE item STRING 
+@ATTRIBUTE rating NUMERIC
+@ATTRIBUTE sentiment STRING
+@ATTRIBUTE side STRING
+
+@DATA
+0,27,0,character:+1 humour:+1 actors:-1 character:-1 </endperson27>,</endperson13>
+0,137,1,soundtrack:+1 performance:+1 specialeffects:+1 extras:+1 films:-1 humour:-1 </endperson137>,</endperson65>
+0,86,2,films:+1 isnt:+1 isnt:-1 </endperson86>,</endperson44>
+0,26,3,disc:-1 </endperson26>
+0,82,4,isnt:+1 </endperson82>,</endperson43>
+0,32,5, </endperson32>,</endperson15>
+0,128,6,seventies:+1 performance:+1 isnt:+1 </endperson128>
+0,75,7,performance:+1 isnt:+1 character:-1 </endperson75>
+0,151,8,films:-1 </endperson151>,</endperson73>
+0,156,9,character:+1 </endperson156>,</endperson74>
+1,27,0,character:+1 humour:+1 actors:-1 character:-1 </endperson27>,</endperson13>
+1,137,1,soundtrack:+1 performance:+1 specialeffects:+1 extras:+1 films:-1 humour:-1 </endperson137>,</endperson65>
+1,86,2,films:+1 isnt:+1 isnt:-1 </endperson86>,</endperson44>
+1,26,3,disc:-1 </endperson26>
+1,82,4,isnt:+1 </endperson82>,</endperson43>
+1,32,5, </endperson32>,</endperson15>
+1,128,6,seventies:+1 performance:+1 isnt:+1 </endperson128>
+1,75,7,performance:+1 isnt:+1 character:-1 </endperson75>
+1,151,8,films:-1 </endperson151>,</endperson73>
+1,156,9,character:+1 </endperson156>,</endperson74>
+2,27,0,character:+1 humour:+1 actors:-1 character:-1 </endperson27>,</endperson13>
+2,137,1,soundtrack:+1 performance:+1 specialeffects:+1 extras:+1 films:-1 humour:-1 </endperson137>,</endperson65>
+2,86,2,films:+1 isnt:+1 isnt:-1 </endperson86>,</endperson44>
+2,26,3,disc:-1 </endperson26>
+2,82,4,isnt:+1 </endperson82>,</endperson43>
+2,32,5, </endperson32>,</endperson15>
+2,128,6,seventies:+1 performance:+1 isnt:+1 </endperson128>
+2,75,7,performance:+1 isnt:+1 character:-1 </endperson75>
+2,151,8,films:-1 </endperson151>,</endperson73>
+2,156,9,character:+1 </endperson156>,</endperson74>
+3,27,0,character:+1 humour:+1 actors:-1 character:-1 </endperson27>,</endperson13>
+3,137,1,soundtrack:+1 performance:+1 specialeffects:+1 extras:+1 films:-1 humour:-1 </endperson137>,</endperson65>
+3,86,2,films:+1 isnt:+1 isnt:-1 </endperson86>,</endperson44>
+3,26,3,disc:-1 </endperson26>
+3,82,4,isnt:+1 </endperson82>,</endperson43>
+3,32,5, </endperson32>,</endperson15>
+3,128,6,seventies:+1 performance:+1 isnt:+1 </endperson128>
+3,75,7,performance:+1 isnt:+1 character:-1 </endperson75>
+3,151,8,films:-1 </endperson151>,</endperson73>
+3,156,9,character:+1 </endperson156>,</endperson74>
+4,27,0,character:+1 humour:+1 actors:-1 character:-1 </endperson27>,</endperson13>
+4,137,1,soundtrack:+1 performance:+1 specialeffects:+1 extras:+1 films:-1 humour:-1 </endperson137>,</endperson65>
+4,86,2,films:+1 isnt:+1 isnt:-1 </endperson86>,</endperson44>
+4,26,3,disc:-1 </endperson26>
+4,82,4,isnt:+1 </endperson82>,</endperson43>
+4,32,5, </endperson32>,</endperson15>
+4,128,6,seventies:+1 performance:+1 isnt:+1 </endperson128>
+4,75,7,performance:+1 isnt:+1 character:-1 </endperson75>
+4,151,8,films:-1 </endperson151>,</endperson73>
+4,156,9,character:+1 </endperson156>,</endperson74>
