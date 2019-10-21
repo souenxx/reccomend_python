@@ -18,15 +18,20 @@ for line in line2:
     i=i+2
   j=3
   if flag:
-    print(part[0]+","+part[1]+","+part[2]+",",end="")
+    strr=part[0]+","+part[1]+","+part[2]+","
+    #print(part[0]+","+part[1]+","+part[2]+",",end="")
     while part[j] != "<":
-      print(str(featurelist.index(part[j]))+":"+part[j+1],end="")
+      #print(str(featurelist.index(part[j]))+":"+part[j+1],end="")
+      strr+=str(featurelist.index(part[j]))+":"+part[j+1]
       j=j+2
       if part[j] != "<":
-        print(" ",end="")
-    print("")
+        #print(" ",end="")
+        strr+=" "
+    #print("")
+    print("strr:"+strr)
+    entrylist.append(strr)
 
-#print(featurelist)
+print(entrylist)
 
 j=0
 for ff in featurelist:
