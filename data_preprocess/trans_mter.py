@@ -33,7 +33,11 @@ for line in line2:
 
 print(entrylist)
 
+featurelist2=[]
 j=0
 for ff in featurelist:
-  print(str(j)+"="+ff)
+  ff=str(j)+"="+ff
+  #print(str(j)+"="+ff)
+  featurelist2.append(ff)
   j=j+1
+print(featurelist2)
