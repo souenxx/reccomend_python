@@ -1,0 +1,2067 @@
+@RELATION @user-item
+@ATTRIBUTE user STRING
+@ATTRIBUTE item STRING
+@ATTRIBUTE rating NUMERIC
+@ATTRIBUTE sentiment STRING
+@ATTRIBUTE side STRING
+@DATA
+0,0,3,character:young character:unsavoury
+0,1,3,films:better performance:good isnt:hunt character:jealous tfeel:painful
+0,2,5,actress:young isnt:simply
+0,6,4,films:before actress:best humour:relegated
+0,7,4,isnt:suitable scenes:extended isnt:great
+0,9,4,isnt:dreadful horrorfilms:like character:filler isnt:good
+0,14,4,character:less isnt:realistic
+0,15,3,scenes:extra
+0,17,4,performance:good character:little
+0,21,4,tfeel:right humour:nice scenes:deleted moments:funny
+0,24,4,actors:sewers isnt:afraid
+0,25,2,arent:enough isnt:bad tlook:realistic
+0,26,3,disc:absence
+0,27,4,character:likeable humour:gentle actors:impossible character:mistake
+0,28,3,isnt:much actionfilms:happy reviews:critical credits:final
+0,33,3,movie:horror isnt:good truck:chickens video:nasty
+0,35,4,plot:little acting:mistake
+0,36,5,isnt:happy character:old isnt:thoroughly
+0,40,4,character:stood
+0,42,3,moments:funny isnt:bad
+0,45,3,someones:sexual
+0,46,5,wi:able
+0,48,5,performance:good isnt:pretty ending:disappointing actors:draw
+0,50,4,films:horror character:badly
+0,52,4,isnt:horror
+0,54,4,scenes:violence
+0,55,3,scenes:right acting:good romance:difficult character:unfortunately isnt:bad
+0,59,3,snothing:special storyline:hard
+0,60,5,films:loved isnt:appreciate productions:best performances:emotional
+0,62,4,scenes:usual performances:great isnt:annoying
+0,63,3,performance:memorable scenes:interesting character:senior
+0,64,4,performance:exaggerated reviews:good scenes:extra character:peripheral toilethumour:much
+0,65,3,scenes:pretty
+0,71,4,performance:great isnt:sure character:recognisable scenes:extended
+0,72,3,performance:good
+0,73,5,films:best performance:good specialfeatures:couple
+0,75,3,performance:good isnt:likeable character:affinity
+0,76,5,discversion:available
+0,77,3,films:new character:believable films:surprise arent:forgotten
+0,78,3,character:interesting reviews:good acting:good character:strong
+0,79,3,isnt:much isnt:good
+0,81,2,specialeffects:amazing isnt:fault
+0,82,4,isnt:attractive
+0,86,4,films:recent isnt:brilliant isnt:bad
+0,90,3,comics:pretty
+0,94,3,performance:good movie:actually isnt:likeable
+0,98,4,isnt:perfect films:original isnt:need
+0,99,5,comedy:great
+0,100,4,casting:good watch:weird
+0,101,2,character:likeable squeak:irritated
+0,103,3,performances:better
+0,106,4,isnt:best
+0,111,4,actress:terrible
+0,112,4,isnt:good
+0,113,3,performance:good gadgets:little
+0,119,3,plot:believable isnt:big isnt:enough
+0,120,4,isnt:best isnt:old
+0,121,4,halfhour:good isnt:great films:past
+0,122,2,specialeffects:impressive isnt:bad
+0,128,4,seventies:early performance:good isnt:great
+0,131,4,performance:good
+0,132,3,isnt:good storyline:realistic isnt:bad
+0,133,3,screenplay:clever character:down reviews:critical isnt:bad
+0,137,4,soundtrack:liked performance:genuine specialeffects:good extras:available films:zombie humour:less
+0,138,4,character:mass disc:version
+0,143,3,character:main watch:severa specialeffects:impressive
+0,144,5,performance:powerful character:likeable
+0,146,4,films:usual performance:excellent reviews:good comedy:romantic performance:good isnt:bad
+0,149,3,performance:good moments:funny
+0,151,5,films:wrong
+0,156,5,character:likeable
+0,163,3,films:better character:strong performance:good
+0,165,4,someones:exciting trademark:fantastic
+0,167,4,actress:best awards:best scenes:painful
+0,174,5,actors:excellent actor:famous character:minor
+1,178,5,character:great
+1,99,4,character:great
+1,181,4,character:good scenes:exciting fans:like
+1,65,5,movie:amazing cinematography:beautiful genres:several
+1,182,4,acting:excellent
+1,184,3,specialeffects:available budget:big
+1,187,5,scenes:beach hero:romantic scenes:screaming
+1,89,5,casting:great
+1,100,5,sequences:great performances:excellent
+1,188,3,films:disaster movie:disaster
+1,79,5,adventure:big
+1,191,5,humour:gentle
+1,196,5,actors:established star:new specialeffects:amazing watch:enjoyable
+1,198,3,films:great acting:great
+1,200,5,cast:amazing sceneselection:available scene:deleted
+1,209,5,films:future
+1,211,4,actress:favourite screen:local
+1,213,5,cast:perfect
+1,216,5,cast:impressive
+1,239,3,movie:good specialeffects:amazing
+2,33,3,movies:notorious director:remake movie:original
+2,40,3,movie:delayed plot:predictable
+2,250,4,movie:reality budget:uncomfortable
+2,251,5,movie:best movie:heart
+2,253,4,actionscenes:biggest
+2,32,5,movies:romantic
+2,255,5,character:great movie:favourite
+2,256,3,movies:unsung actor:unknown movie:bad
+2,257,3,movie:anticipated
+2,90,5,movie:anticipated characters:+1
+2,258,2,character:loved movie:+1
+2,259,3,fare:better viewers:younger movie:anticipated
+2,260,5,character:likeable movie:best movie:amazing
+2,261,4,movie:beautifully movies:much movie:heat
+2,263,4,movie:good movies:end movie:dark video:nasty
+2,77,4,performance:better movie:fantastic movie:end watch:already
+2,26,5,movies:charm character:younger movie:family audiences:younger actor:old
+2,266,4,movie:strange
+2,54,4,movies:successful movie:success movie:lost comics:strip humour:darkness guys:bad
+2,268,5,movie:hope movie:big
+2,270,4,movies:favourite movie:mistakes
+2,271,5,movie:love movies:lacks
+2,272,3,plotholes:hulking movies:lies budget:big
+2,275,4,movies:ideal movie:familiar actionsequences:big explosions:bigger budget:big
+2,277,2,movie:well everyones:support
+2,279,3,downside:good star:good movie:enjoyed scenes:great
+2,280,3,movie:good acting:skills budget:big movie:heard plot:wrapped
+2,285,5,movies:successful
+2,286,4,movies:unpleasant movie:biggest
+2,60,4,script:light
+2,78,3,character:likeable movies:force cinemas:nationwide
+2,94,4,movie:family moving:tale
+2,63,4,character:likeable humour:good
+2,100,5,movie:escalates
+2,287,4,actor:best movies:horror cinemas:nationwide
+2,292,4,movie:good
+2,72,5,performance:best scenes:bright scenes:scary
+2,295,3,lacklustre:lazy
+2,296,4,movies:family movie:family
+2,142,1,plot:familiar
+2,300,4,scenes:optional
+2,301,4,movie:memorable movie:heard
+2,132,4,horror:murders viewers:unfamiliar movie:dark cockroach:infested
+2,302,5,movies:nice movie:smiling
+2,2,4,movies:promoted scenes:fighting
+2,188,1,movie:progressed audiences:younger scenes:dark
+2,179,4,cast:great movie:fantastic
+2,308,3,movie:good cringe:more
+2,71,4,twists:deaths
+2,314,5,scenes:obvious movie:death
+2,315,4,movie:younger actress:unknown ending:ridiculous movie:thriller
+2,318,4,movie:popular character:old
+2,319,1,humour:realms
+2,323,4,character:warmest
+4,275,4,scenes:same performances:strong
+4,377,3,movie:completely character:major
+4,378,4,plot:excellent performances:excellent acting:real
+4,381,2,star:wise storyline:flimsy
+5,383,5,character:likeable snothing:special moving:emotional
+5,353,5,character:optimistic
+5,386,5,films:attracted
+5,198,5,comedy:romantic
+5,388,5,actors:favourite
+5,390,3,acting:good watch:spent comedy:enjoyable
+5,391,5,performance:excellent
+5,392,4,twists:clever
+5,393,5,scenes:much character:believeable
+5,35,5,character:great character:dark
+5,251,5,actors:young moments:funny scenes:deleted actors:young character:nasty
+5,396,5,hero:due watch:enjoyable
+5,397,4,character:pretty moments:funny
+5,399,4,actress:young performance:excellent scenery:wonderful performances:shine character:strange disc:available
+5,151,5,watch:enjoyed character:loveable
+5,89,5,character:younger character:bursting credits:rolled
+5,403,5,character:great
+5,98,5,humour:light scenes:deleted
+5,260,5,performances:enjoyable stunts:good
+5,406,3,moments:funny watch:down
+5,99,5,soundtrack:good character:likeable moments:funny storyline:basic mom:funny
+5,120,5,moments:funny
+5,191,5,performance:good scenes:incredible
+5,75,2,character:interesting
+5,411,5,performance:wonderful screen:present
+5,413,4,moments:funny
+6,9,5,plot:wonderful
+6,415,5,actors:best
+6,416,5,character:incredibly
+6,42,5,soundtrack:memorable
+6,418,5,cast:fantastic performance:memorable
+6,420,5,cast:superb character:clear
+6,77,5,humour:much video:success sbusiness:happen
+6,421,4,cast:great character:more
+6,422,5,films:like plot:fantastic
+6,423,5,bond:good
+7,270,5,soundtrack:good wi:feel storyline:great
+7,178,5,plot:brief acting:excellent
+7,426,3,chemistry:good
+7,427,4,budget:large
+7,413,4,actors:better character:good
+7,428,4,actress:young roles:strong zombie:young acting:good
+7,190,5,performance:best
+7,263,3,character:dependable star:higher
+7,308,2,actors:good plot:brief
+7,433,2,plot:brief bond:good acting:good
+7,434,4,performance:strong acting:good
+7,436,5,soundtrack:good star:excellent footballplayer:good
+7,391,5,storyline:superb
+7,437,4,character:good viewers:younger acting:great animation:full
+7,440,3,roles:good
+7,442,3,actors:good moments:funny
+7,447,5,soundtrack:special
+7,450,5,chemistry:good watch:eager storyline:excellent
+7,187,5,character:good star:full bond:good
+7,453,5,acting:excellent
+7,455,5,chemistry:good performance:wonderful gags:funny storyline:good
+7,456,5,actors:good
+7,14,5,character:seriousness roles:good
+7,458,3,character:good
+7,459,4,plot:brief specialeffects:high
+7,460,3,character:stronger performance:honest explosions:good acting:good
+7,414,3,character:support acting:good
+7,462,5,storyline:good
+7,465,4,acting:good
+7,466,3,romance:good actors:good
+7,467,4,films:good scenes:good
+7,468,4,chemistry:good acting:good
+7,469,3,chemistry:good character:strong acting:good
+7,46,3,actors:talented acting:good
+7,471,4,chemistry:good
+7,472,4,ending:predictable character:funny
+7,475,4,chemistry:good acting:good
+7,410,3,scenes:again
+7,28,4,chemistry:good
+7,487,4,actors:good character:strong acting:best
+7,488,5,plot:summery
+7,489,5,acting:excellent
+7,77,4,character:good
+7,275,4,character:different
+7,492,4,chemistry:good performance:believable storyline:great
+7,493,5,chemistry:good character:much
+7,494,4,chemistry:enjoyed
+7,258,4,character:believable performance:good specialeffects:excellent
+7,101,2,chemistry:good star:washed acting:good
+7,496,2,plot:basic
+7,99,5,chemistry:good soundtrack:good character:liked performance:good scenes:inappropriate
+7,499,3,performance:good
+7,500,3,character:easier specialeffects:good acting:good
+7,501,4,character:good performance:good
+7,376,4,specialeffects:amazing acting:good
+7,503,2,chemistry:good
+7,505,4,actors:supporting acting:excellent
+7,507,3,actor:best character:fun
+7,508,4,chemistry:good moments:scary scenery:wonderful
+7,388,5,roles:good acting:excellent
+7,509,3,actors:good
+7,510,3,movies:best
+7,511,5,chemistry:good character:good
+7,513,4,storyline:excellent specialeffects:good
+7,516,5,films:scary
+7,517,3,chemistry:good
+7,521,4,acting:good
+7,103,5,plot:basic storyline:excellent moving:good
+7,524,3,chemistry:good character:good
+7,36,5,actors:young character:great plot:long storyline:excellent acting:excellent
+7,59,3,plot:brief
+7,526,4,actors:good character:good storyline:good acting:brilliant
+7,527,4,films:old
+7,528,5,plot:brief storyline:great
+7,530,3,films:few character:better acting:good
+7,531,5,storyline:excellent bond:good acting:excellent
+7,392,4,character:good
+7,353,5,acting:great
+7,268,3,roles:good
+7,534,5,characters:complex storyline:moving
+7,390,3,character:good
+7,271,3,actors:young
+7,539,4,acting:good
+7,540,1,wi:agree reviews:hubby
+7,98,4,films:original performance:excellent
+7,543,4,chemistry:funny acting:great
+7,546,2,moments:funny
+7,86,2,films:good sexreferences:moderate
+7,6,5,actors:good character:believable comedy:hearted acting:like
+7,35,5,character:favourite
+7,549,4,character:animated
+7,550,3,performance:good storyline:slightly
+7,27,3,scenes:funny acting:good
+7,556,4,storyline:great scenes:few
+7,560,4,storyline:great acting:excellent
+7,561,4,performances:great
+7,562,5,films:best character:straight fans:old
+7,79,5,films:best
+7,209,4,character:established scenes:scarecrow
+7,564,4,chemistry:good scenes:scarecrow
+7,272,3,acting:best
+7,565,4,character:bounce acting:real
+7,216,4,plot:apologise
+7,396,3,ending:predictable character:good
+7,17,4,performance:powerful scenes:liked
+7,40,4,actress:young storyline:different
+7,255,5,character:human storyline:excellent
+7,571,4,acting:excellent
+7,574,4,chemistry:good acting:wooden
+7,181,4,familyfilm:good films:predictable
+7,50,5,storyline:excellent
+7,393,5,character:different moving:powerful
+7,64,4,scenes:funny acting:good
+7,585,4,storyline:depth
+7,251,4,storyline:sensitive
+7,589,4,chemistry:great character:main
+7,590,4,acting:great
+7,591,4,ending:predictable character:believable acting:great
+7,592,5,characters:excellent storyline:excellent acting:excellent
+7,598,5,storyline:excellent acting:great
+7,600,1,roles:good
+7,81,1,chemistry:good films:better storyline:weak
+7,15,4,ending:predictable
+7,604,3,wi:much star:performers
+7,420,4,comedy:hearted
+7,607,4,character:fun
+7,609,3,acting:good
+7,7,4,chemistry:good storyline:believable
+7,256,3,comedy:good
+7,409,4,character:likable acting:good
+7,55,4,nudity:strong
+7,617,3,chemistry:good
+7,90,3,characters:good
+7,60,4,character:believable
+7,394,4,soundtrack:great ending:good reviews:good
+7,421,5,soundtrack:great chickflick:romantic
+7,165,5,character:believable scenes:some
+7,622,4,character:believable
+7,624,4,prince:charming
+7,78,5,acting:best
+7,626,3,character:believable animation:good
+7,399,4,scenery:wonderful
+7,285,5,character:believable
+7,629,3,actors:real wi:revenge
+7,630,3,animation:good
+7,167,5,cast:great
+7,389,5,viewers:younger
+7,631,5,watch:closely
+7,632,5,watch:hubby
+7,633,4,character:believable
+7,402,4,musicvideo:good
+7,45,4,scenes:enjoyed stunts:dangerous
+7,279,4,soundtrack:good
+7,94,5,filmchoice:bad
+7,419,2,star:actual
+7,641,4,actors:budding
+7,643,4,soundtrack:great
+7,120,5,acting:good
+7,403,5,soundtrack:brilliant
+7,412,5,scenes:action
+7,138,5,acting:best
+8,82,3,films:majority moments:funny movie:better
+8,456,5,movie:first
+8,442,1,character:like
+8,656,4,films:love cast:solid
+8,32,4,movie:enjoyable
+8,659,4,movie:enjoy
+8,257,3,movie:accessible
+8,392,4,character:good
+8,427,1,comedy:best script:weak
+8,475,4,performance:funny genre:new
+8,453,3,movie:slushy
+8,435,2,movies:romantic movie:honestly chickflick:romantic
+8,458,3,performance:excellent movie:good performances:superbly
+8,434,4,performance:good characters:proper screentime:lack
+8,64,5,movie:funny
+8,187,2,isnt:enough
+8,27,1,movie:decent
+8,574,4,cast:decent performance:decent
+8,660,2,movie:interesting
+8,571,5,cast:well script:good
+8,524,4,movie:good
+8,59,3,movie:better
+8,472,3,movie:enjoyable performances:outstanding
+8,417,3,chemistry:good cast:supporting movie:funny
+8,521,5,movies:funny cast:great plot:decent
+8,662,4,chemistry:lot cast:sufficient specialeffects:good genre:rarity performances:sufficient
+8,484,4,movie:clever
+8,463,4,chemistry:real character:interesting performance:good comedy:romantic
+8,465,5,movie:good plot:obviously actionscenes:witty
+8,426,4,storyline:fresh
+8,663,3,movie:romantic chickflick:romantic
+8,462,3,comedy:effective
+8,450,2,movie:first director:new tfeel:right
+8,539,4,movie:enjoyable
+8,510,3,movie:good isnt:enjoyable
+8,665,4,actors:best performance:funny
+8,666,3,movie:pretty isnt:right tfeel:right director:lot
+8,649,1,films:comic movie:decent tfeel:right
+8,415,4,comedy:dramatic performances:good
+8,378,5,actresses:talented films:better scenes:clever
+8,259,3,movies:best cast:decent movie:decent isnt:positive
+8,90,5,movies:good films:better cast:reasonably movie:good scenes:clever specialeffects:spectacular performances:excellent
+8,253,5,movie:slightly plot:good
+8,266,5,actors:younger character:lead cameraangles:incredibly
+8,530,3,films:impressive
+8,419,3,isnt:original plot:new
+8,546,1,werent:sure
+8,675,4,performance:impressive movie:action explosions:realistic
+8,295,3,moments:funny
+8,121,5,movie:enjoyable plot:complicated specialeffects:amazing runtime:despite
+8,676,1,moments:funny
+8,677,5,spotter:witnessed specialeffects:amazing
+8,138,4,cast:superb performance:fitting comedy:family specialeffects:amazing
+8,144,5,movie:realism director:possible specialeffects:amazing runtime:despite
+8,680,5,actor:right
+8,492,5,actors:best script:good
+8,146,4,films:genre actionscenes:impressed
+8,633,4,characters:perfect
+8,683,4,movie:decent isnt:enough
+8,394,5,films:funniest
+8,684,1,passengers:many performance:seemed
+8,471,2,films:greatest movie:action
+8,605,4,mannerisms:perfect performance:believable plot:nicely
+8,632,5,familyfilm:good cast:original arent:fresh character:likeable
+8,590,4,performance:mysterious
+8,687,4,chemistry:good actors:good isnt:great
+8,412,5,films:enjoyable performance:excellent script:good
+8,330,4,movie:enjoyable
+8,314,1,performance:amazing
+8,167,5,films:interested performance:excellent director:best
+8,194,5,semi:serious
+8,598,5,storyline:wise
+8,220,2,movie:better
+8,261,5,films:best script:good
+8,505,3,actors:good movie:entertaining
+8,137,5,films:well soundtrack:suit
+8,112,4,explosions:realistic
+8,86,1,performance:greatest
+8,715,3,cast:success specialeffects:good
+9,730,4,moments:tender performance:best camera:sweeping
+9,731,2,viewers:younger
+9,146,4,actress:young character:relationships
+9,459,2,films:emotional scenes:action
+9,467,2,films:well character:strongest moments:perfect isnt:enough scenes:emotional hero:strong
+9,734,2,plot:full storyline:great
+9,458,2,actionfilm:predictable
+9,388,4,cast:perfect
+9,487,1,performance:acceptable director:possible
+9,605,4,films:major character:interaction
+9,292,5,isnt:easiest
+9,220,3,isnt:nearly snothing:special
+9,289,5,performance:powerful
+9,377,4,isnt:perfect
+9,737,3,character:realistic casting:well actionsequences:loud performances:pretty
+9,394,4,soundtrack:effectiveness
+9,739,4,films:intelligent arent:enough isnt:good
+9,381,5,isnt:happy
+11,487,4,scenes:fantastic
+11,455,3,moments:funny
+11,388,4,character:fresh movie:better
+11,759,5,scenes:short
+11,128,4,disk:boost performance:best
+11,762,3,movie:action scenes:basically explosions:high
+11,119,4,ending:terrible passenger:manifest
+11,766,4,films:good character:good movie:enjoyed
+58,993,5,budget:larger
+58,187,5,soundtrack:fit character:comedic scenes:well screen:relationship
+58,527,5,isnt:heavy
+58,286,5,films:fantastic character:different isnt:enough
+60,253,1,viewers:younger movie:suitable
+60,256,2,movie:successful fans:happy
+60,90,5,movie:modern
+60,420,4,movie:positive
+60,286,2,scenes:another casting:excellent
+60,377,5,movie:great scenes:originally
+60,381,4,viewers:younger
+60,631,2,character:favourite
+60,1002,5,viewers:young watch:fared
+60,505,2,comedy:wise
+60,424,2,movie:favourite
+60,772,4,character:loveable scenes:favourite
+63,1010,3,movie:interesting
+63,733,3,films:briefly cast:supporting screentime:decent
+63,465,4,movie:appearance
+63,1013,3,acting:wise
+63,456,5,movie:like
+67,500,3,actress:best performances:better
+67,524,4,chemistry:good comedy:genre snothing:new
+67,249,3,films:top snothing:new
+67,416,4,cinemas:charismatic comedies:great wi:always movie:first
+67,63,3,movie:topical
+67,660,3,parks:wooden
+67,460,3,character:enough
+67,250,4,acting:cringe
+67,378,4,movies:great pepper:scraggy performances:strong
+67,683,4,films:average movie:predictable
+67,144,2,diamond:smuggler
+67,315,3,actress:young films:serious
+67,571,3,screen:old
+67,36,3,actors:brilliant
+67,1019,3,movies:clever movie:family
+67,676,4,wi:like movie:likes
+67,302,4,movies:contradictory movie:pointer
+67,528,3,isnt:sensitive
+67,119,4,movies:strong
+67,600,4,tlook:good
+67,143,4,movies:star movie:similar star:5
+67,253,3,movies:straight movie:action
+67,46,3,films:erotic wi:see character:interesting movie:good isnt:sexy director:best
+67,394,4,gags:familiar
+67,626,4,films:best
+67,556,4,films:realistic movie:fun directors:real specialeffects:excellent
+67,737,4,movies:great actors:hunky
+67,605,3,movie:excellent actionsequences:big
+67,739,4,movie:older
+67,40,2,films:professional
+67,1037,3,specialeffects:quirky
+67,509,4,outfit:indie humour:smart
+67,292,1,movie:wonderful
+67,62,4,movie:excellent
+67,388,4,character:interesting movie:action
+67,534,2,movie:like
+67,531,2,movie:romantic scenes:extra
+67,257,2,movie:first
+67,282,4,soundtrack:stunning
+67,540,4,movie:long
+67,21,4,films:inevitably
+67,179,3,movie:enjoyable
+67,413,4,actors:exploit films:popular rewind:pretty
+67,561,4,movie:seasonal isnt:asleep
+67,445,3,films:attraction studios:big villains:lot thalf:big
+67,1041,3,character:bigoted
+67,496,3,movie:comedic comedy:great scenes:extended
+67,511,4,performance:excellent performances:safe
+67,293,4,mummies:curious
+67,547,2,specialeffects:realistic screen:big
+67,762,4,star:associated
+67,1013,4,star:wearing
+67,0,4,underdog:powerful movie:gripping
+67,1044,4,wi:slightly star:likeable assailants:sophisticated
+67,59,1,movies:tedious
+67,764,3,films:well soundtrack:classic
+67,32,4,cinemas:finest wi:too
+67,301,2,cinemas:greatest films:serious
+67,419,4,movies:mainstream films:family mansion:new plots:zany
+67,54,4,movies:superhero scenes:frantic
+67,90,4,films:enjoyed gadgets:big
+67,617,4,movie:first
+67,271,4,actors:young movie:refreshing
+67,60,4,movie:special snothing:new
+67,318,3,movie:well star:movie
+67,550,4,movies:fans movie:extra
+67,437,4,soundtrack:amazing movie:smart isnt:smart
+67,456,4,films:much movie:big humour:gentle specialeffects:grown
+67,14,4,stunt:much
+67,468,3,actors:young movie:clearly screen:big
+67,78,3,movie:good
+67,383,4,films:explores movie:romantic
+67,433,2,performance:breakthrough director:famous
+67,99,2,romance:convince movie:better rent:fast
+67,82,4,wi:talent rent:old
+67,174,5,director:best
+67,289,4,charm:american
+67,120,2,isnt:good
+67,581,4,werent:extras
+67,133,4,films:outstanding cast:decent
+67,406,4,films:funnier teammember:interesting
+67,138,4,character:drawn
+67,1050,5,films:future movie:action isnt:good scenes:great
+67,993,3,movie:slasher
+67,128,3,soundtrack:psychedelic isnt:enough
+67,376,4,movie:action
+67,182,3,childs:innocent
+67,585,4,performances:stunning
+67,677,4,explosions:real tlook:good twist:free
+67,631,3,protagonists:hot
+67,121,5,cinemas:greatest performers:distracting
+67,300,4,movies:classic scenes:deleted video:handheld
+67,680,3,movies:exactly
+67,487,4,movies:enjoyable
+67,632,3,character:scary
+67,484,4,comedy:greatest
+67,1052,4,performances:great
+67,323,4,movie:tributary
+67,256,4,character:interesting
+67,42,4,turns:supporting
+67,17,3,movie:great tfeel:publicity
+67,1054,3,tension:racial
+67,275,3,cast:mega star:interesting
+67,251,5,movie:best director:best
+67,50,4,cinemas:modern movie:nostalgic
+67,64,3,performance:amiable movie:improve
+67,574,3,datemovie:five scenes:alternative
+69,1052,4,thriller:phycsological
+69,178,5,actor:best
+69,1059,4,wi:loved movie:animated plot:good
+69,437,3,actress:young animation:full
+69,1060,3,moments:tender
+69,407,5,chemistry:nice
+69,732,5,movie:interesting
+69,467,5,movie:enjoyed
+69,462,5,scene:funny
+69,460,2,movie:good scenes:powerful
+69,1061,4,movie:good
+69,663,2,character:like scenes:moderate
+69,1062,4,movie:first
+69,393,4,movie:funny scenes:intense
+69,46,5,films:best character:likeable
+69,734,4,performance:memorable scenes:sex screen:effective
+69,120,5,movie:liked
+69,402,4,character:
+69,564,5,rating:approval
+69,487,5,screen:enjoy
+69,17,5,character:strong movie:great
+69,415,5,movie:different scenes:mild
+69,261,5,performance:best
+69,680,5,actor:best character:believeable
+69,260,4,movie:good specialeffects:better
+69,416,5,wi:adventures movie:funny
+69,156,5,films:comedy cast:great movie:good
+69,590,5,cast:great scenes:great
+69,112,5,scenes:beautiful
+69,94,3,ending:good
+69,421,5,actress:cute
+69,675,4,movie:actually
+69,89,4,character:big performance:good movie:liked scenery:gorgeous
+69,40,3,wi:parallel movie:great
+69,64,4,movie:favourite
+69,1069,4,movie:cheesy
+69,353,5,actor:greatest films:pretty
+69,258,4,isnt:great
+69,526,4,soundtrack:good
+69,151,4,scenes:funny
+69,408,5,films:loved soundtrack:great scene:memorable
+69,627,4,character:believable
+69,26,4,chemistry:good
+69,411,5,cast:great
+69,643,4,scenes:funny
+69,625,5,movie:long
+69,631,4,films:successful movie:wonderful
+69,329,5,humour:dry
+69,165,5,movie:great scenes:special
+73,643,5,wi:discover movie:enjoyable humour:good
+73,415,4,scenes:deleted
+73,1076,4,movie:like scenes:interact
+73,526,4,movie:fine
+73,657,4,character:sweet
+73,565,4,actor:famous
+73,500,5,acting:powerful
+73,521,5,actors:good
+73,943,4,movie:predictable
+73,566,4,movie:loved
+73,533,4,movie:good
+73,609,4,scenes:deleted
+73,487,4,movie:enjoyed
+73,591,4,performance:good
+73,249,4,movie:fine
+73,209,5,movie:exciting scenes:filmed
+73,530,4,movie:fun acting:good
+73,62,4,movie:good scenes:deleted dolby:presented
+73,383,5,movie:romantic
+73,626,5,movie:great
+82,630,5,wi:obtaining
+82,959,4,plot:wise
+82,511,5,character:interesting
+84,389,3,films:good producer:friends
+84,1019,3,turns:enough
+84,377,4,character:elaborate scenes:deleted
+84,191,4,acting:superb
+84,493,5,movies:classic character:friendly movie:silent scenes:interesting
+88,245,5,watch:several
+88,521,4,backstories:sufficient
+88,641,4,familyfilm:good
+88,386,5,actress:best films:best acting:excellent
+88,447,5,films:enjoyable
+88,79,4,actors:favourite specialeffects:good acting:loved
+88,1052,4,character:great
+88,493,5,character:wonderful
+88,120,5,acting:fantastic
+88,251,5,actor:well
+88,642,5,specialeffects:good
+88,143,5,films:understand
+89,440,3,romance:lovely
+89,731,4,cast:great animation:excellent
+89,144,5,actor:best directing:perfect
+89,680,4,films:good character:believable
+89,40,5,character:well wi:nice isnt:original
+89,220,4,character:looking watch:interesting isnt:intelligent awards:win scenes:different
+89,308,4,cringe:worthy mom:funny
+89,239,5,films:correct scenes:memorable slife:easy acting:believable
+90,441,2,cringe:worthy
+90,198,4,romance:good
+90,412,4,character:loveable
+90,624,4,casting:excellent
+90,435,3,chemistry:good acting:good
+90,1063,3,tanything:special
+90,434,2,scenery:good
+90,308,5,humour:erratic acting:superb
+90,15,3,ending:happy
+94,40,4,wi:discuss
+94,245,4,films:different
+94,263,3,character:introduced
+94,81,1,films:many wi:over storyline:great
+94,614,5,reviews:good
+94,285,5,films:great
+94,250,2,ending:surprise character:many budget:large
+94,1054,2,actor:great character:believable
+94,531,3,lovestory:amazing
+94,403,4,films:popular menus:subtitles
+95,731,5,films:love
+95,245,1,script:good
+95,292,5,films:success
+95,509,4,soundtrack:decent character:likeable scenes:deleted
+95,527,2,character:new arent:new star:new
+95,468,3,soundtrack:great isnt:right genre:romantic
+96,0,4,actress:young performance:convincing
+96,1061,4,character:new
+96,732,5,character:fascinating
+96,245,4,actress:young
+96,1060,1,character:good humour:witty
+96,440,4,character:younger
+96,467,3,plot:nicely
+96,431,1,isnt:worth plotholes:big
+96,55,4,performances:intense
+96,407,3,character:likable daughters:pretty
+96,730,4,characters:like
+96,662,1,isnt:funny
+96,1036,5,arent:perfect
+96,734,2,franchise:sink
+96,453,4,performance:magnificent
+96,762,4,plot:good
+96,1023,4,screen:big
+96,1052,4,actress:young actors:young isnt:right
+96,280,3,screen:best
+96,624,4,character:supporting
+97,733,3,actionscenes:impressive
+97,657,2,actresses:comedy comedy:great
+97,939,4,character:favourite
+97,106,4,character:believable
+97,566,4,films:correct
+97,492,5,script:amazing
+97,472,4,films:good
+97,412,4,films:best
+97,232,5,character:easier
+97,1131,4,comedy:romantic
+97,551,4,comedy:romantic
+97,72,4,reviews:good
+97,547,4,actionscenes:elaborate
+97,642,5,arent:good isnt:great vampire:old
+97,450,4,director:new actionscenes:right
+97,55,4,scenery:beautiful
+97,282,5,scenery:beautiful
+97,494,3,films:popular character:secondary
+97,33,3,screenplay:original
+97,440,4,character:interesting
+97,572,3,soundtrack:great
+97,1031,3,ending:good scenes:action
+97,411,4,comedy:romantic
+97,524,4,isnt:good
+97,1063,4,character:predictable isnt:really
+97,466,4,screen:best
+98,526,4,storyline:great
+98,411,5,comedy:romantic
+98,146,5,character:likeable
+98,402,4,plot:fantastic
+98,1059,5,moments:sad
+98,471,4,reviews:good acting:great budget:fairly
+98,86,5,acting:fantastic
+99,551,3,genre:favourite
+99,488,5,films:fantastic performance:excellent
+99,547,3,viewers:young
+99,1010,5,films:great storyline:simplistic acting:superb
+99,250,3,acting:good
+99,33,3,actors:competent wi:soon movie:repeat
+99,9,4,films:originals character:depth scenes:memorable
+99,64,4,scenery:gorgeous
+99,540,2,films:good
+99,40,3,films:major character:enough
+100,383,5,character:immediately
+100,1036,5,character:warm
+100,184,2,specialeffects:good
+100,396,5,smells:good
+100,657,5,character:likeable
+100,487,5,films:outstanding
+101,571,4,actor:famous
+101,434,4,scenes:stunning
+101,762,5,actors:excellent
+101,1063,4,actors:famous performance:sunning
+101,442,1,actors:good
+101,15,3,acting:brilliant
+101,54,3,performance:believable
+101,624,5,wi:animated
+101,409,4,actor:great performance:great
+101,614,4,actors:great filmdirector:famous
+101,1069,4,chickflick:real
+101,397,5,actors:brilliant
+101,643,5,actor:talented
+101,551,4,actor:great films:authentic actors:famous
+101,415,5,actors:talented
+101,484,2,character:main screenplay:original
+101,1131,4,comedy:romantic
+101,146,5,films:successful character:loved
+101,253,3,specialeffects:good plots:beautiful
+101,686,5,character:new specialeffects:good
+101,396,5,tfeel:comfortable
+101,64,3,films:better wi:up
+103,64,4,movie:clever
+103,14,4,movie:great
+103,468,4,movie:quirky
+103,604,3,movie:good
+103,431,3,movies:great scenes:action
+103,488,3,movie:interesting
+103,543,3,character:likeable movie:memorable
+103,32,5,performance:realistic
+103,508,4,actress:young movie:first
+103,249,4,performance:convincing movie:loved
+103,1143,4,movie:family
+103,490,3,character:interesting acting:great
+103,529,4,scenes:population
+103,540,2,movie:pretty
+103,447,4,character:unique movie:entertaining animation:great
+103,993,4,horrormovie:especially actors:good acting:brilliant
+103,592,5,moments:precise scenes:deleted
+103,507,4,movie:entertaining
+103,393,4,movie:dramatic characters:struggling isnt:good
+103,663,4,cast:great
+103,517,4,isnt:just
+103,562,4,isnt:perfect
+103,565,3,character:interesting moments:serious movie:surprise scenes:interesting
+103,250,3,movie:intriguing
+103,181,4,movie:animated
+103,417,2,isnt:obvious
+103,260,3,movie:good isnt:greatest performances:solid
+103,255,3,movie:brilliant acting:solid
+103,40,5,scenery:beautiful
+103,589,2,movie:good
+103,42,2,character:main isnt:obviously characters:main
+103,258,3,performance:complete movie:good storyline:realistic
+103,26,4,cast:brilliant movie:original isnt:ready
+103,272,3,movie:imaginative
+103,420,3,actors:favourite performance:believable
+103,268,1,isnt:enough
+103,301,5,movie:engrossing characters:good isnt:good
+103,65,4,soundtrack:great movie:engrossing scene:good
+103,614,3,cast:fantastical
+103,277,5,acting:superb
+103,421,3,movie:powerful
+103,94,5,character:endearing movie:brilliant isnt:enough
+103,656,3,movie:great
+103,21,4,actress:talented viewers:younger movie:success isnt:really
+103,422,3,movie:good
+103,617,2,movie:fantastic isnt:disappointed
+103,81,3,movie:fantastic
+103,60,4,wi:always movie:gangster script:excellent
+103,98,1,movie:excuse
+103,265,2,character:unrealistic movie:good isnt:simply
+103,293,2,isnt:good tfeel:real
+103,78,4,acting:spectacular
+103,624,4,moviebrilliant scenes:animated prince:charming
+103,399,4,performances:brilliant
+103,642,3,arent:enough movie:amazing acting:great
+103,629,1,studios:big movie:excellent
+103,72,3,movie:great
+103,145,3,character:likeable movie:literally
+103,82,2,isnt:worth
+103,133,2,movie:good storyline:great
+103,25,2,soundtrack:good movie:dreadful
+103,300,4,movie:fascinating
+103,737,2,cast:talented movie:brilliant
+103,633,3,actors:brilliant movie:clever
+103,144,3,scenery:stunning
+103,24,5,movie:brilliant specialeffects:fantastic
+103,182,5,movies:best actress:talented
+103,2,3,tension:racial acting:excellent
+103,1076,3,script:passable
+103,315,5,character:extraordinary acting:excellent
+107,733,2,films:best character:interesting isnt:unique menace:real
+107,1061,2,arent:enough fairytale:best
+107,184,2,character:lacking mannerisms:perfect performance:best specialeffects:impressive acting:best
+110,1061,5,movie:great
+110,1059,5,viewers:younger movie:friendly acting:skills
+110,9,5,movie:original acting:good
+110,501,1,movie:different
+110,52,5,movie:comedy acting:great
+110,32,4,movie:pretty plot:away
+110,318,5,movie:enjoyed
+110,687,3,movie:established scenes:crappy
+110,684,2,movie:better
+110,121,5,movie:viewable acting:brilliant
+110,465,4,actor:best
+110,131,4,movie:good
+110,394,5,movie:entertaining
+110,137,5,acting:good
+110,412,3,movie:brilliant
+110,215,5,movie:enough
+110,112,4,movie:classic storyline:good
+110,377,5,movie:great
+110,591,5,character:great movie:enjoyed specialeffects:great acting:great
+110,424,5,movie:great scenes:fantastic
+110,772,5,prince:charming
+110,300,4,movie:good
+111,764,1,movie:good
+111,589,1,arent:enough movie:kids
+111,295,1,movie:action tlook:simply
+111,26,1,script:new
+111,540,2,movie:good specialeffects:amazing
+111,99,1,scene:place
+111,649,1,isnt:original
+111,279,3,scenes:deleted
+111,72,1,horror:classic
+111,256,2,isnt:great
+111,253,1,movie:action
+111,604,2,ending:good wi:yes isnt:great
+111,1037,1,isnt:enough
+111,263,1,isnt:explored
+111,24,3,actors:excellent scenes:behind
+111,257,2,isnt:enough
+111,300,3,ending:predictable movie:good script:awful
+111,98,2,snothing:good
+111,423,1,ending:good
+111,377,1,attentionspan:longer
+111,120,1,plot:interesting isnt:interesting
+111,626,5,character:memorable
+111,737,1,isnt:enough
+111,60,2,movie:good
+111,106,2,scenes:deleted
+111,399,2,isnt:pretty
+111,581,1,character:good
+113,501,3,films:good isnt:anything plot:easier acting:excellent
+113,631,2,films:popular scene:best
+113,1044,3,wi:like isnt:great watch:pleasurable
+113,632,4,screen:famous
+113,516,4,actors:top performance:excellent shots:interesting performances:excellent
+113,2,5,movie:thrilling
+113,1036,5,wi:prize performance:best
+113,534,3,scenes:effective acting:good
+113,167,5,character:loveable isnt:keen
+113,1041,4,movie:disappointed snippets:exhilarating
+113,375,5,films:gritty
+113,500,2,films:better
+113,556,3,ending:good isnt:original
+113,759,4,director:young
+113,453,4,character:true isnt:enough hero:good
+113,533,2,wi:classed acting:fine
+113,165,5,isnt:strong
+113,592,5,isnt:highbrow
+113,251,5,actors:young films:best performance:wonderful director:based comedy:romantic
+113,532,3,isnt:top
+115,533,2,performance:best
+115,81,4,specialeffects:amazing
+115,625,4,performances:amazing
+115,532,5,wi:love scenes:big
+115,419,3,actor:best familyfilm:good
+115,614,4,character:designing
+115,683,5,character:main performance:best
+115,277,4,character:likeable directing:cleverly
+122,484,2,films:synopsis
+122,466,1,performance:decent
+122,112,2,shenanigans:hint cast:decidedly
+122,261,4,films:big twists:clever
+122,414,1,character: clarity
+123,435,3,chemistry:good snothing:new
+123,440,4,chemistry:good character:young
+123,501,4,tanything:super
+123,462,5,actor:great
+123,1059,5,cast:fantastic movie:brilliant
+123,619,3,movie:free isnt:best comedy:great humour:good
+123,447,5,viewers:younger movie:funny isnt:interested
+123,383,5,cast:great movie:amazing
+123,517,5,actor:comedic moments:hilarious
+123,521,5,movie:great comedy:great
+123,626,5,movies:captivating mannerisms:loveable
+123,450,5,soundtrack:loud
+123,551,4,chemistry:good actor:best comedy:great performances:brilliant
+123,565,4,performance:perfectly movie:perfectly
+123,657,5,movie:great
+123,251,3,films:biggest actors:young movie:good isnt:good
+123,513,5,movie:good storyline:interesting actionsequences:good
+123,54,4,viewers:good
+123,396,4,comedy:great scenes:amusing
+123,50,5,cast:good performance:good tfeel:comfortable
+123,255,5,movie:action isnt:best
+123,35,5,cast:great
+123,663,4,cast:liked character:easy
+123,187,5,movie:reservations performances:amazing
+123,32,5,actors:strong
+123,394,5,comedy:good
+123,63,4,cast:superb movie:fantastic performances:great
+123,89,5,performance:fantastic tshow:enough
+123,421,4,actresses:young cast:great genre:favourite
+123,258,5,performance:fantastic storyline:great
+123,471,4,cast:great
+123,406,4,comedy:real
+123,422,2,comedy:perfectly performances:great
+123,530,3,performance:good comedy:great
+123,279,3,movie:enjoyable
+123,292,4,actress:young
+123,98,3,soundtrack:variety
+123,15,5,chemistry:good movie:romantic genre:comedy
+123,407,5,scenery:fantastic
+123,564,5,cast:fantastic films:fantastic
+123,99,5,cast:fantastic isnt:ready plot:serious storyline:great directing:great
+123,624,5,actor:strong actress:perfect soundtrack:great performance:super leadcharacter:prominent storyline:magical lighting:really
+123,1069,5,soundtrack:great tshow:enough star:new storyline:superb
+123,402,5,movie:cheerful scenes:deleted
+123,585,5,choreography:hilarious comedy:brilliant
+123,79,3,movies:future movie:magical scenes:amazing
+123,82,4,actor:award character:great
+123,666,3,wi:easily movie:pretty plot:interesting
+123,111,4,acting:great
+123,2,5,acting:emotive
+123,191,4,viewing:interesting
+123,636,4,acting:superb
+123,146,4,character:loveable
+129,500,4,movie:enjoy plot:interesting
+129,268,4,movie:entertaining
+129,15,4,isnt:clever
+129,266,3,isnt:great
+129,194,3,character:sweet
+129,323,2,isnt:good
+129,666,2,plot:good
+129,163,3,scenes:deleted
+129,955,4,character:original performance:excellent
+132,465,5,character:complete
+132,715,5,character:strong
+132,14,5,budget:big
+132,487,5,watch:excellent scenes:enhanced
+132,394,5,extras:entertain
+132,296,4,actors:younger plot:good
+132,90,4,isnt:perfect
+132,539,5,casting:great synopsis:far
+132,26,4,wi:good
+132,54,5,scenes:interesting
+136,407,5,character:charming
+136,79,4,specialeffects:great
+136,138,3,plot:brief comedy:funny scenes:new
+136,216,5,actors:fine character:funny
+136,196,4,wi:appears scenes:great screen:suitable
+141,624,2,character:funniest
+141,198,3,moments:funny
+141,101,1,actor:famous
+141,149,3,chemistry:romantic films:enjoyable
+143,657,3,storyline:credible
+143,119,4,actress:decent
+144,128,4,actors:good performance:best
+144,904,3,moments:top star:petulant plot:predictable humour:try scenes:humorous
+144,353,5,movie:pleasure acting:magnificent
+144,232,4,movies:disaster films:predictable movie:disaster specialeffects:great
+144,666,3,performance:better
+144,633,3,scenes:deleted scene:specific
+144,665,4,comedies:recent soundtrack:good laughs:ountless
+144,649,2,character:complete
+144,494,3,character:fit comedy:sex semi:many
+144,505,3,screams:average tlook:good
+144,403,4,soundtrack:undeniably plot:simple performances:reasonable
+144,156,5,films:enjoyable soundtrack:enjoyable character:decent movie:fun plot:simple performances:suit
+144,330,4,scenes:deleted performances:charismatic
+144,138,4,actors:good
+144,607,4,comedy:gross
+144,746,3,performance:amazing
+144,472,4,comedy:good
+144,397,4,charm:good
+144,943,4,character:young plot:pretty performances:outstanding
+144,564,5,character:comical extras:good
+144,878,4,movies:greater soundtrack:like scenes:classic scene:effective
+144,412,4,movie:love comedy:romantic genre:comedy scenes:funniest
+144,112,4,movie:good performances:comical
+144,103,5,actor:talented films:serious movie:enjoyable isnt:right scenes:deleted disc:sluggish
+144,762,3,actionsequences:good
+144,149,3,films:directed scenes:funny
+144,764,5,films:inspirational scenes:usual
+151,1043,4,character:strong
+151,666,4,isnt:funny screenplay:written
+151,128,4,cast:stars character:intimate
+151,143,5,storyline:perfectly
+151,111,4,wi:further
+151,314,4,scenes:action
+151,330,4,familyfilm:good soundtrack:fitting
+151,159,4,landlady:innocent actress:best
+174,540,3,director:confident specialfeatures:available
+174,146,4,plot:obvious
+174,386,5,actress:young
+174,663,4,cast:likable scenes:forgettable
+174,436,5,scenes:forgettable
+174,329,3,cast:good
+174,566,3,isnt:great
+174,75,5,character:believable performance:excellent
+174,598,4,films:successful
+174,766,4,budget:larger
+174,503,4,performances:excellent
+174,55,3,performance:fine
+174,149,3,plot:similar
+178,571,4,actor:great
+178,490,5,tfeel:right acting:excellent
+178,508,4,hit:full star:interpretation acting:great
+178,256,1,isnt:funny
+178,433,2,performances:great
+179,494,5,acting:brilliant
+179,762,5,comedy:action scenes:sexy
+179,258,5,films:best specialeffects:great performances:great
+179,471,5,films:great
+180,2,4,tfeel:right
+180,625,5,soundtrack:best films:good
+180,540,2,comics:specific
+180,1115,4,character:presented
+180,25,4,films:slasher
+180,268,1,budget:larger
+181,484,3,performance:best isnt:great
+181,187,3,character:many movie:better specialeffects:terrible
+181,1023,3,character:like movie:good tanything:amazing acting:excellent
+181,488,4,movie:liked specialeffects:amazing
+181,421,5,movies:best films:good movie:good
+181,213,5,soundtrack:best
+185,626,5,films:successful
+185,113,4,movies:successful
+185,675,3,movie:good
+185,589,2,hero:action
+185,488,4,viewers:younger performance:excellent
+185,187,2,tlook:right
+185,9,2,director:original
+185,318,4,horror:classic
+185,255,5,movie:first
+185,528,3,actors:excellent movie:good
+187,437,5,films:real
+187,73,5,motionpicture:best
+187,524,3,scenes:amusing
+187,484,3,snothing:funny budget:big
+187,730,2,actor:best storyline:excellent heroine:reputation acting:wise
+187,94,4,actor:great
+187,462,4,character:exciting isnt:really acting:excellent
+187,1041,3,performance:enjoyed performances:comparable
+187,167,5,films:best
+187,419,4,isnt:perfect
+187,184,2,actor:famous films:decent screen:better
+187,463,2,cast:decent
+187,636,4,films:liked
+187,1013,4,isnt:best
+187,445,4,cast:great performances:excellent script:excellent
+187,40,3,moments:opportune
+187,529,5,performance:excellent
+187,100,4,roles:excellent scenes:hilarious
+187,511,5,plot:intricate
+187,447,5,films:perfect
+187,65,5,cast:superb wi:enjoys
+187,465,2,isnt:positive
+187,489,3,actors:top
+187,468,4,films:love cast:enjoyable wi:quirky
+187,490,4,films:fantastic plot:obvious specialeffects:riotous
+187,258,4,character:suits
+189,516,3,character:believable
+189,1052,4,movie:great
+189,453,3,character:gentle clips:plenty
+189,71,3,clips:available acting:best
+189,386,5,films:superb
+189,489,4,films:serious
+189,411,2,snothing:special
+189,190,5,character:warm
+189,151,1,plot:wise
+189,211,4,movie:largely
+189,637,5,movies:top
+189,174,5,character:amusing acting:brilliant
+190,282,5,soundtrack:great performance:excellent
+190,503,4,character:various
+190,426,3,comedy:action
+190,466,3,cast:supporting
+190,245,5,performances:acting acting:facial
+190,766,5,films:epidemic acting:lot
+190,353,5,acting:superb
+190,455,4,performances:tension snothing:new acting:good
+190,1214,5,actors:good performance:excellent
+190,746,5,acting:good
+190,1143,4,isnt:right animation:well
+190,302,5,films:best
+190,73,5,cast:star casting:great
+190,493,5,plot:great
+190,388,3,plot:repetitive snothing:special
+190,381,4,watching:deter leather:clad
+190,715,3,character:interesting
+190,1013,4,cast:great villain:full acting:like
+190,496,2,plot:weak
+190,42,3,plot:okay snothing:special
+190,730,4,isnt:brilliant actionsequences:fab acting:facial
+190,184,2,films:brilliant specialeffects:good
+190,510,1,performances:better
+190,14,5,cast:good
+190,415,3,moments:funny snothing:special
+190,459,2,specialeffects:impressive
+190,456,4,acting:brilliant
+190,528,4,cast:uncommercialised viewing:compelling
+190,143,5,twists:presented
+190,376,4,character:harnosed
+190,106,3,isnt:completely
+190,420,3,films:outstanding
+190,77,2,films:popular
+190,1054,3,characters:complete
+190,511,4,performances:good
+190,402,4,performance:decent
+190,572,2,actors:good
+190,546,3,cast:okay
+190,411,4,soundtrack:great
+190,458,3,performances:well
+190,111,3,snothing:special
+190,650,5,soundtrack:catchy character:interesting
+190,737,2,chemistry:good
+190,64,4,performances:really
+190,289,4,character:believable
+190,27,4,soundtrack:fantastic character:interesting
+190,40,4,specialeffects:good acting:impressive
+190,52,3,cast:enjoying actionscenes:impressive
+190,323,3,scenes:great performances:solid
+190,122,3,snothing:special
+190,159,4,character:enjoyable
+190,32,4,plot:good actionscenes:slick
+190,35,4,actor:young moments:important
+190,663,3,arent:even movie:trial isnt:important acting:good
+190,540,4,character:different
+190,329,3,plot:simple comedy:entertaining
+190,488,5,specialeffects:impressive
+190,318,4,plot:enough
+190,417,4,moments:top
+190,181,3,character:gentle
+190,530,4,acting:good
+190,251,5,isnt:important
+190,571,3,arent:well
+190,617,4,performance:good specialeffects:brilliantly
+190,90,5,wi:pint scenery:great acting:great
+190,232,5,films:dramatic cast:star
+190,591,4,films:simple watch:enjoy
+190,680,5,performance:good
+190,258,5,films:modern
+190,54,5,character:great
+190,539,5,isnt:convincing
+190,656,4,cast:decent moments:hilarious
+190,280,4,performances:strong
+190,878,3,performance:good
+190,26,4,stunt:possible
+190,626,5,viewers:younger
+190,81,3,trailer:suggestive humour:light
+190,624,3,films:fresh animation:original
+190,676,3,acting:good
+190,296,5,performance:good
+190,472,5,movie:excellently
+190,275,4,thriller:entertaining
+190,427,4,films:majority
+190,564,5,character:more
+190,216,4,extras:available
+190,196,4,actor:great
+190,613,3,character:lovely scenes:deleted
+190,76,4,watching:musical
+190,113,5,plot:simple
+190,675,4,movie:enjoyable scenery:stunning
+190,2,4,specialeffects:massive scenes:pure scenery:great
+191,99,4,performance:sound
+191,394,4,actors:good character:great comedy:brilliant
+191,245,4,films:great performance:perfect scenes:sexual
+191,261,3,soundtrack:nice viewers:younger
+191,598,3,soundtrack:unique viewers:younger
+191,260,3,acting:good
+191,319,2,films:better viewers:younger scenes:memorable
+191,6,4,humour:sense
+191,437,5,cast:high
+191,33,2,films:better character:interesting acting:good
+191,490,2,films:like
+191,589,5,viewers:younger
+191,42,4,tanything:spectacular
+191,263,3,scenes:possible
+191,556,3,isnt:fair
+191,40,3,films:thankfully
+191,1192,2,films:enjoyed characters:completely
+191,581,4,acting:good
+191,186,4,viewers:sensitive audiences:older acting:great
+191,643,4,audiences:younger
+191,599,3,films:good audiences:younger trailers:funny
+191,258,4,films:like actors:good script:excellent
+191,1037,2,scenes:moving
+191,137,5,films:great
+191,314,4,humour:good
+191,86,4,actor:skill
+191,516,3,scenery:gorgeous
+191,163,3,snothing:particularly
+191,55,4,humour:light-hearted
+228,730,3,scenery:great
+228,550,4,movie:enjoyable
+228,617,2,movie:successful
+228,279,3,films:completely isnt:great scenes:interesting
+228,642,3,horror:pure
+228,629,2,movie:actually casting:good
+228,79,3,character:new
+235,179,5,isnt:long
+235,330,4,acting:good
+235,133,4,character:meaty plot:simple
+235,683,4,performance:engaging
+235,213,5,star:good scenes:breathtaking lovestory:effective moneys:great
+235,766,1,reviews:positive thriller:psychological
+276,643,4,character:likeable scenes:accompanies
+276,138,5,movie:good performances:brilliant
+276,167,5,actress:best motionpicture:best
+276,287,5,ending:happy
+276,560,4,soundtrack:brilliant performance:exceptional 
+278,510,4,comedy:huge
+278,249,4,plot:great
+278,32,4,plot:good
+278,533,4,plot:great
+278,132,5,horrorfilm:hit plot:brilliant characterisation:solid
+278,492,5,actors:brilliant films:good
+278,232,5,films:good script:good
+278,289,5,films:best
+278,239,5,films:great watch:more
+278,591,5,cast:great plot:great scenes:effect
+278,636,5,character:like
+278,73,4,actor:great cinemagoers:will
+279,35,5,character:fitting humour:lightly
+279,565,5,films:much movie:smaller comedy:teenage storyline:enjoyed screen:big
+279,76,4,movie:favourite isnt:interested director:famous
+279,676,4,acting:excellent
+279,680,5,movies:successful subtitles:hearing movie:outstanding scenes:happy
+288,0,4,actress:best acting:better
+288,732,4,movie:dramatic
+288,1010,4,storyline:perfect
+288,1044,4,soundtrack:good movie:funny specialeffects:honestly acting:great
+288,435,4,comedyfilm:romantic comedy:romantic
+288,455,4,movies:lot films:good character:great performance:good
+288,1013,5,viewers:younger movie:good isnt:enough fightscenes:fast
+288,469,3,isnt:great roles:good scenes:tremendous acting:great
+288,428,4,zombie:actual
+288,266,4,performances:quality
+289,630,5,actor:great scenes:good
+289,144,5,scenery:beautiful
+289,626,5,movie:enjoyable
+290,393,5,movie:better
+290,629,1,cast:great
+293,6,5,actor:better
+293,131,4,actors:good
+293,715,5,actors:good
+293,609,5,comedy:great
+293,403,5,films:love
+293,239,5,films:award
+306,466,1,films:perfect movie:best
+306,730,4,movie:high
+306,1063,3,movie:staring tfeel:comfortable genre:romantic
+306,562,5,movie:well acting:skill
+306,14,4,chemistry:great character:famous performance:best humour:able actionscenes:+1 script:+1
+306,462,3,actors:fantastic acting:brilliant
+306,441,3,actress:younger comedy:romantic genre:perfectly
+306,468,3,films:unique watch:enjoyable
+306,517,4,films:brilliant
+306,35,3,films:especially
+306,433,5,actors:importantly
+306,249,1,rating:overall
+306,746,4,actors:best performances:great
+306,256,4,actor:comedy comedies:funny cast:great cringe:more comedy:great performances:brilliant
+306,411,5,actress:famous
+306,550,2,acting:brilliant
+306,396,5,movie:good comedy:romantic
+306,28,5,acting:brilliant
+306,258,5,films:best
+306,390,2,actors:great films:great cringe:more
+306,1192,1,ending:good
+306,90,5,performance:best
+306,1019,5,actor:mesmerising character:completely acting:brilliant
+306,89,5,films:enjoyable performance:good scenery:beautiful
+306,633,4,cast:great soundtrack:great
+306,260,5,actor:great movie:good
+306,21,5,films:fantastic
+306,423,5,films:best
+306,421,4,chemistry:good
+306,286,2,films:great actors:good
+306,45,4,actor:fantastic ending:good
+306,79,5,scenes:favourite
+306,121,4,actor:good movie:wonderful
+306,683,5,films:predictable movie:great
+306,213,5,movie:good
+306,144,5,actor:best acting:fantastic
+306,492,5,films:best
+308,245,4,character:good movie:well
+308,1044,4,cast:concerned movie:enjoy
+308,413,3,performance:best humour:wise scenes:amusing rent:free
+308,149,3,rating:affecting
+308,128,5,character:interesting movie:interesing
+308,280,4,performance:good movie:recommend isnt:happy
+308,1010,4,movie:visible
+308,993,3,movie:original
+308,314,4,movie:recommend
+308,420,3,movie:pretty comedy:more
+308,1060,4,character:main movie:perfect
+308,17,4,movie:performance
+308,1041,4,character:good movie:more scenes:different
+308,78,4,movie:like
+308,426,4,movie:entertaining plot:wise
+308,660,3,movie:advertised
+308,501,4,character:key movie:happy
+308,521,4,character:main wi:funny movie:entertaining
+308,487,4,movie:good isnt:enough
+308,666,4,character:well movie:enjoye
+308,416,4,movie:strong
+308,524,4,character:straight movie:good
+308,14,4,movie:entertaining
+308,656,4,movie:amusing
+308,251,5,movie:good
+308,556,4,specialeffects:good
+308,159,3,characters:quite
+308,52,3,movie:interesting
+308,2,4,performance:pretty movie:good isnt:easy
+308,527,3,movie:funny plot:wise
+308,604,4,movie:comedy isnt:graphic
+308,1131,4,comedy:great scenes:amusing
+308,54,4,movie:comedy specialeffects:good
+308,36,4,movie:optimistic
+308,277,4,performance:good
+308,42,3,comedies:funny characters:main tfeel:like
+308,94,4,character:interesting movie:sombre acting:good
+308,393,5,movie:romance characters:interested isnt:happy
+308,271,4,movies:popular movie:funny performances:great acting:good
+308,279,3,sequels:better sciencefiction:mainly isnt:memorable specialeffects:liked
+308,275,4,extras:good
+308,253,5,movie:pretty isnt:entire
+308,81,2,specialeffects:alright
+308,282,4,sountrack:atmospheric performance:good movie:available
+308,77,4,character:clearly performance:good movie:popular
+308,590,3,performance:good rating:overall
+308,543,4,cast:acting movie:comedy isnt:graphic
+308,228,5,wi:plenty character:interesting movie:drama comedy:drama scenes:great script:good
+308,378,4,settings:multiple
+308,419,4,movie:family reviews:useful
+308,510,4,character:pretty performance:good movie:fresh isnt:constant comedy:good scenes:amusing
+308,100,4,movies:good
+308,143,4,movie:interesting
+308,650,5,movies:warming films:popular movie:enamoured scenes:deleted
+308,512,5,ending:good movie:good performances:solid
+308,959,4,footage:bonus viewing:multiple
+308,617,4,movie:enjoyable isnt:entirely
+308,1146,3,isnt:great
+308,45,3,movies:first character:main movie:good scenes:funny
+308,633,3,comedy:good
+308,1031,2,sciencefiction:fan shots:nice twists:realise
+308,287,4,horror:zombie movie:pretty sciencefiction:clearly
+308,329,3,lasagne:loving movie:fan fans:happy
+308,605,4,performance:good sciencefiction:more werent:obviously star:5 movie:new scenes:crime blooperreel:shame
+308,585,4,actors:main movie:much
+308,308,5,movie:new isnt:enough
+308,644,2,isnt:interested snothing:great
+308,762,3,movie:recommend isnt:long plot:basic acting:solid
+308,132,4,movies:more movie:good werent:well isnt:long storyline:basic
+308,103,5,character:much performance:good movie:like blockbuster:speal
+308,683,5,movies:comedy character:main movie:funny storyline:full
+308,665,3,actors:good character:main scenes:interesting
+308,120,4,performance:good movie:much
+308,138,5,movie:entertaining
+310,530,1,cast:great moments:funny
+310,251,5,ending:happy
+310,89,5,moments:loud
+310,402,4,scenery:beautiful
+311,565,5,performances:great
+311,571,5,performance:good performances:good
+311,423,4,animation:great
+311,657,4,soundtrack:good
+311,228,1,fare:better isnt:funny
+311,98,4,isnt:popular
+311,138,5,performance:good isnt:just
+311,677,4,sequences:fantastic
+311,762,4,isnt:drastic
+311,198,5,soundtrack:beautifully
+314,450,5,performance:good isnt:really cringe:flash vampire:possible
+314,463,4,chemistry:good moments:funny comedy:great explosions:big
+314,759,5,character:likeable watch:easy
+314,657,3,character:main movie:completely
+314,52,4,comedymoments:good
+314,7,3,cringe:little
+314,549,5,actor:famous character:likable moments:sweeter
+314,187,4,smells:irresistible
+314,28,3,fightscenes:well acting:comedic
+318,574,5,comedy:great
+318,1060,4,plot:interesting
+318,468,5,movie:good
+318,319,1,comedy:good
+318,644,5,movie:enjoyed
+318,619,3,movies:like arent:happy
+318,551,4,movie:great comedy:romantic
+318,86,5,movies:new
+318,666,4,character:great movie:great
+318,1063,5,movie:favourite plot:best
+318,1062,5,character:great movie:magical
+318,1069,5,character:loved movie:understand storyline:great
+318,466,3,movie:like
+318,35,3,character:great
+318,517,5,movie:enjoyed
+318,455,1,movies:favourite romance:enough movie:favourite
+318,546,5,movie:enjoyed
+318,397,5,isnt:predictable
+318,657,4,movie:interesting
+318,442,2,films:fan
+318,565,5,plot:interesting comedy:great
+318,534,5,character:younger
+318,396,5,movie:romantic
+318,415,5,character:favourite
+318,420,5,humour:very
+318,599,5,character:good comedy:great
+318,411,5,cast:great actress:best character:liked
+318,622,5,character:main plot:believable
+318,943,5,movie:enjoyed acting:brilliant
+318,389,5,character:loved
+318,637,5,movie:fantastic plot:much
+318,42,4,isnt:happy
+318,209,5,actor:favourite movie:great
+318,216,4,character:big movie:enjoyed acting:simplified
+318,101,3,movie:predictable
+318,292,5,films:enjoyable character:understand
+318,607,5,character:good
+318,15,5,movie:best isnt:interested
+318,239,5,character:favourite acting:great
+318,609,5,movie:great
+319,187,3,films:like
+319,270,4,performance:best
+320,292,5,performance:perfectly
+320,959,5,films:strongly acting:superb
+320,746,4,soundtrack:fantastic
+320,526,4,actors:young
+320,427,3,extras:special
+320,213,5,performance:masterful
+320,145,4,actors:good performance:excellent
+320,955,4,performance:excellent storyline:excellent
+329,469,4,movie:entertaining
+329,529,5,character:believable
+329,287,2,movie:great video:local
+329,72,4,arent:simply
+329,471,3,films:better plot:dynamics scenes:memorable
+329,503,5,films:+1 moments:+1 director:+1
+384,772,5,character:perfectly
+384,220,5,movies:successful
+384,232,5,acting:superb
+384,492,4,movie:good
+395,275,4,stunt:+1
+395,550,4,actor:+1
+395,420,3,performance:+1
+395,78,3,humour:+1
+395,270,3,plot:+1
+395,145,4,rating:+1
+396,32,5,movie:+1
+397,732,5,films:+1 casting:+1
+397,660,4,films:+1 soundtrack:+1 character:+1
+397,415,3,comedy:+1
+397,251,4,character:+1 video:+1
+397,540,5,character:+1 performance:+1 scenes:+1 acting:+1
+398,14,4,movie:+1
+398,450,4,films:+1 character:+1 movie:+1
+398,521,5,actor:+1 character:+1 comedy:+1 scenes:+1 acting:+1
+398,487,4,actors:+1 films:+1 director:+1
+398,657,3,actors:+1 films:+1 comedy:+1 snothing:+1
+398,64,5,comedy:+1
+398,1054,4,actor:+1
+398,187,4,films:+1
+398,416,5,character:+1 movie:+1 comedy:+1 director:+1
+398,266,3,movies:+1 films:+1 soundtrack:+1 character:+1 visuals:+1 plot:+1
+398,613,4,movie:+1 director:+1 directing:+1
+398,540,5,movies:+1 soundtrack:+1 films:+1
+398,215,5,star:+1 director:+1 humour:+1
+398,378,5,films:+1 character:+1 reviews:+1
+398,604,4,films:+1 popcorn:+1 comedy:+1
+398,156,4,cast:+1 comedy:+1
+398,220,4,actors:+1 isnt:+1 humour:+1
+398,279,5,star:+1
+398,258,5,films:+1 cast:+1 hollywood:+1
+399,63,4,actors:+1
+399,211,3,acting:+1
+399,574,3,tlook:+1
+399,424,3,films:+1 movie:+1
+399,377,1,star:+1 celebrities:+1
+399,772,5,character:+1 animation:+1
+399,665,4,movie:+1 performances:+1 acting:+1 cinematography:+1
+399,6,4,movie:+1 comedy:+1
+399,505,3,actor:+1 familyfilm:+1
+399,687,4,films:+1 cast:+1 director:+1 acting:+1
+399,410,2,actor:+1
+399,600,2,character:+1 comedy:+1 scenes:+1
+399,715,2,actors:+1 acting:+1
+399,607,2,reviews:+1 comedy:+1 scenes:+1 performances:+1
+399,82,5,scenes:+1
+407,1036,4,plot:+1
+407,550,4,performance:+1
+409,766,4,character:+1
+409,216,5,character:+1
+409,6,5,plot:+1
+409,353,5,actors:+1
+409,209,5,star:+1
+409,408,5,acting:+1
+410,329,5,wi:+1 character:+1 movie:+1
+410,383,5,movie:+1
+410,1276,5,comedy:+1
+410,599,4,rating:+1 screenpresence:+1
+410,993,4,films:+1 suspense:+1
+410,450,4,performances:+1
+410,151,4,movie:+1
+410,1069,5,movie:+1
+410,656,5,movies:+1 scenes:+1
+410,120,5,movies:+1
+410,111,4,actresses:+1 character:+1
+410,272,5,movies:+1 cast:+1 plot:+1
+410,503,4,screenpresence:+1
+410,146,5,movies:+1
+410,549,5,movies:+1 scenes:+1
+410,408,5,performance:+1 plot:+1 performances:+1
+410,35,4,character:+1
+410,415,5,twists:+1 acting:+1
+410,397,5,movies:+1
+410,943,4,character:+1 performance:+1 movie:+1 acting:+1
+410,643,5,movie:+1
+412,60,3,character:+1
+412,494,4,plot:+1 acting:+1
+412,399,3,cast:+1
+412,81,2,wi:+1
+412,260,3,character:+1 plot:+1
+426,659,4,comedymoments:+1
+426,562,4,isnt:+1 scenes:+1
+426,441,3,movie:+1
+426,637,5,cast:+1 movie:+1
+426,1063,3,comedy:+1
+426,14,4,actors:+1 humour:+1
+426,462,3,acting:+1
+426,528,5,nominations:+1 performances:+1
+426,1069,5,movie:+1
+432,565,5,scenes:+1
+432,390,4,scenes:+1
+432,402,5,arent:+1
+432,409,5,character:+1
+433,435,4,isnt:+1 comedy:+1
+433,466,3,comedy:+1
+433,1041,4,cast:+1
+433,1063,3,scenes:+1 screen:+1 acting:+1
+433,414,3,chemistry:+1
+433,993,4,isnt:+1
+433,468,4,cast:+1 character:+1
+433,450,5,movie:+1
+433,453,4,character:+1 storyline:+1
+433,574,3,isnt:+1
+433,415,4,cast:+1 character:+1
+433,509,5,chemistry:+1 character:+1 plot:+1
+433,624,5,films:+1 character:+1
+433,15,4,chemistry:+1 cast:+1 films:+1 character:+1
+433,280,4,reviews:+1
+433,546,3,comedy:+1
+433,45,4,isnt:+1
+433,287,4,actor:+1 films:+1 actors:+1 character:+1
+433,295,5,films:+1 plot:+1
+433,113,3,plot:+1
+433,318,4,isnt:+1 plot:+1
+433,120,5,isnt:+1 humour:+1
+433,637,5,films:+1
+433,111,3,films:+1
+433,560,4,soundtrack:+1 films:+1 plot:+1 acting:+1
+433,378,5,films:+1 scenes:+1 acting:+1
+433,1076,4,cast:+1 character:+1
+433,410,4,actor:+1
+433,955,5,isnt:+1 acting:+1
+433,943,4,movie:+1
+433,209,5,character:+1
+433,216,5,scenes:+1 screen:+1
+433,959,3,films:+1
+433,878,5,tlook:+1
+433,213,5,movie:+1
+442,1010,5,plot:+1
+442,499,2,star:+1
+442,35,4,films:+1 character:+1
+442,187,5,isnt:+1
+442,191,5,plot:+1
+442,410,5,movie:+1
+459,1041,5,films:+1
+459,1062,3,movie:+1 prince:+1
+459,376,4,movie:+1 plot:+1
+459,40,4,tlook:+1
+459,1002,3,tlook:+1
+459,527,4,script:+1
+459,28,3,character:+1
+459,501,3,character:+1 plot:+1
+459,1131,3,movie:+1
+459,686,3,trademark:+1
+459,308,5,watch:+1
+459,48,4,films:+1 acting:+1
+459,251,4,films:+1
+459,644,3,films:+1 character:+1 comedy:+1 scenes:+1
+459,315,4,acting:+1
+459,415,4,films:+1 character:+1 performance:+1 reviews:+1 puppy:+1
+459,6,4,character:+1 plot:+1 scenes:+1
+459,301,4,twists:+1
+459,609,4,chemistry:+1 chickflick:+1 humour:+1
+459,517,4,script:+1
+459,1,2,cringe:+1 isnt:+1 baddie:+1 acting:+1
+459,211,4,character:+1 script:+1
+459,187,3,ending:+1 vampire:+1 acting:+1
+459,421,4,actress:+1 films:+1 character:+1 comedy:+1
+459,530,2,actors:+1 scenery:+1
+459,167,5,actress:+1 character:+1
+459,249,2,films:+1
+459,666,3,character:+1 viewers:+1 tfeel:+1
+459,378,4,cameras:+1
+459,878,4,films:+1 actress:+1 soundtrack:+1 wi:+1
+459,416,4,movie:+1 acting:+1
+459,539,4,character:+1
+459,551,3,ending:+1
+459,469,2,actor:+1 storyline:+1
+459,151,5,cast:+1 films:+1 soundtrack:+1
+459,258,4,films:+1 specialeffects:+1 tlook:+1
+459,471,3,films:+1
+459,285,2,actor:+1
+459,21,4,acting:+1
+459,605,5,reviews:+1 storyline:+1 specialeffects:+1
+459,904,4,ending:+1 reviews:+1 scenes:+1
+459,543,4,actress:+1
+459,293,4,character:+1
+459,656,4,moments:+1
+459,302,4,soundtrack:+1
+459,619,4,films:+1 character:+1 comedy:+1
+459,383,5,soundtrack:+1
+459,1146,3,ending:+1 reviews:+1
+459,622,5,films:+1 movie:+1 acting:+1
+459,420,2,films:+1 comedy:+1
+459,266,4,cast:+1
+459,295,3,films:+1
+459,99,4,actor:+1
+459,684,5,films:+1
+459,260,3,isnt:+1
+459,412,4,movie:+1 isnt:+1 comedy:+1
+459,72,1,isnt:+1
+459,764,5,movie:+1 isnt:+1
+459,239,5,arent:+1
+459,762,4,comedy:+1
+459,296,5,storyline:+1 specialeffects:+1
+459,494,3,snothing:+1
+459,939,5,movies:+1 cast:+1 soundtrack:+1 comedy:+1
+459,26,4,films:+1 movie:+1
+463,82,3,scenes:+1 acting:+1
+463,627,4,watch:+1
+463,81,5,acting:+1
+463,420,5,character:+1
+463,198,5,isnt:+1
+463,285,3,films:+1 character:+1
+463,419,4,actor:+1 character:+1 isnt:+1 acting:+1
+463,943,3,acting:+1
+463,624,5,films:+1
+463,397,5,cinemas:+1
+463,98,3,performance:+1
+463,581,2,director:+1
+463,132,4,films:+1
+464,484,3,movie:+1
+464,1059,5,wi:+1
+464,1023,2,cast:+1 werent:+1
+464,1143,5,viewers:+1 animation:+1
+465,428,4,films:+1 horrorfans:+1 performances:+1
+465,447,5,character:+1 humour:+1 scenes:+1 brass:+1 animation:+1
+465,529,4,fans:+1
+465,468,4,chemistry:+1 performers:+1 genre:+1
+465,1060,2,wi:+1 movie:+1 director:+1 brass:+1
+465,732,3,reviews:+1 sfilms:+1 characters:+1
+465,390,2,timing:+1
+465,528,4,director:+1
+465,531,2,actress:+1 character:+1
+465,35,3,franchise:+1 movie:+1
+465,1044,4,movie:+1 performances:+1
+465,458,1,tpay:+1
+465,731,3,character:+1
+465,455,2,moments:+1 timing:+1
+465,450,2,movie:+1 director:+1
+465,534,2,actress:+1 production:+1
+465,533,2,cameras:+1
+465,511,3,characterisation:+1 performances:+1
+465,393,2,character:+1
+465,40,4,chemistry:+1 strings:+1
+465,500,3,films:+1 fare:+1 scenes:+1 performances:+1
+465,388,3,movie:+1
+465,1013,1,explosions:+1 scene:+1
+465,549,4,studio:+1 character:+1
+465,1043,3,character:+1
+465,592,2,storytelling:+1
+465,14,3,strings:+1
+465,417,1,movie:+1
+465,604,3,wi:+1 character:+1
+465,1037,1,character:+1 budget:+1
+465,1061,3,character:+1 movie:+1
+465,508,2,wrestling:+1
+465,27,1,fare:+1 villains:+1 movie:+1 characterisation:+1
+465,46,3,performances:+1
+465,488,3,tlook:+1
+465,524,3,character:+1 loveinterest:+1
+465,434,3,plot:+1 storyline:+1 gag:+1
+465,7,2,snothing:+1
+465,181,3,character:+1
+465,462,3,chemistry:+1 cast:+1 performance:+1 moments:+1 stringarrangements:+1
+465,565,3,strings:+1
+465,657,1,movie:+1 timing:+1 woodwinds:+1 snothing:+1
+465,256,3,movie:+1 brass:+1
+465,475,3,character:+1 characters:+1 slapstickstooge:+1
+465,260,3,fare:+1 character:+1 brass:+1
+465,258,4,flutes:+1 actionsequences:+1
+465,539,3,actor:+1 strings:+1 brass:+1
+465,467,1,fare:+1 character:+1
+465,1276,3,wi:+1
+465,64,3,fare:+1 actors:+1
+465,562,4,movies:+1 movie:+1 tfeel:+1
+465,1069,1,character:+1
+465,540,4,actors:+1
+465,279,3,character:+1
+465,466,2,character:+1 strings:+1
+465,376,3,character:+1 strings:+1 vocals:+1
+465,489,3,character:+1 characterisation:+1 humour:+1 lighting:+1
+465,509,3,romance:+1 payoff:+1 teen:+1
+465,517,3,comedy:+1
+465,441,2,character:+1
+465,662,3,fare:+1 characterisation:+1
+465,286,3,movies:+1
+465,435,2,ending:+1 romance:+1 character:+1 movie:+1
+465,1063,3,cast:+1 movie:+1
+465,1023,1,character:+1 brass:+1
+465,442,3,actors:+1
+465,50,3,performances:+1
+465,77,4,movie:+1
+465,28,4,actors:+1 movie:+1
+465,453,3,character:+1 characterisation:+1
+465,734,2,tension:+1 violins:+1
+465,48,4,watch:+1
+465,572,2,actors:+1 movie:+1
+465,1,1,character:+1
+465,626,5,character:+1
+465,17,3,score:+1
+465,659,2,plot:+1 snothing:+1
+465,1192,1,stunt:+1 plot:+1
+465,551,2,wi:+1 movie:+1 genre:+1
+465,392,3,character:+1 script:+1
+465,1143,4,fairytale:+1
+465,663,2,fare:+1 strings:+1
+465,21,5,character:+1 comedy:+1 performances:+1
+465,251,3,actors:+1 character:+1 movie:+1 performances:+1
+465,255,3,fare:+1
+465,78,3,character:+1
+465,624,4,isnt:+1 comedy:+1 prince:+1
+465,15,3,plot:+1
+465,600,4,character:+1
+465,637,4,characters:+1 characterisation:+1
+465,36,1,character:+1
+465,54,4,films:+1 performance:+1 comedy:+1 actionscenes:+1
+465,187,1,characterisation:+1
+465,527,2,arent:+1 isnt:+1 director:+1 snothing:+1
+465,499,3,viewers:+1 villains:+1 isnt:+1
+465,59,4,isnt:+1
+465,289,3,isnt:+1
+465,253,3,movie:+1 isnt:+1
+465,629,3,brass:+1
+465,32,3,moments:+1 isnt:+1
+465,271,5,moments:+1 isnt:+1 director:+1 performances:+1
+465,89,1,performance:+1 isnt:+1
+465,550,4,cast:+1 isnt:+1
+465,26,4,director:+1
+465,627,5,character:+1 movie:+1
+465,420,1,arent:+1 movie:+1 isnt:+1 jacks:+1
+465,272,2,characters:+1
+465,642,2,fare:+1 character:+1 strings:+1 scenes:+1
+465,280,2,performance:+1 movie:+1 isnt:+1
+465,98,1,cast:+1 arent:+1 isnt:+1
+465,296,4,actors:+1 isnt:+1 fans:+1
+465,656,2,soundtrack:+1
+465,566,3,isnt:+1
+465,65,4,character:+1 isnt:+1
+465,507,2,isnt:+1 characterisation:+1 genre:+1 snothing:+1
+465,614,4,cast:+1 strings:+1 actionsequences:+1 fans:+1
+465,79,3,actors:+1 strings:+1 plot:+1 isnt:+1
+465,94,2,character:+1 movie:+1 isnt:+1
+465,270,1,arent:+1 isnt:+1
+465,617,2,arent:+1 strings:+1 isnt:+1
+465,402,3,guitar:+1
+465,45,1,isnt:+1
+465,675,2,isnt:+1 snothing:+1
+465,99,3,movie:+1
+465,128,4,movies:+1 acting:+1
+465,302,5,films:+1
+465,1002,4,movie:+1 isnt:+1
+465,133,3,isnt:+1 snothing:+1
+465,512,2,isnt:+1 acting:+1
+465,585,4,wi:+1
+465,423,3,arent:+1 isnt:+1 tlook:+1
+465,581,5,movie:+1 percussion:+1
+465,82,4,character:+1 characterisation:+1 script:+1
+465,419,3,movie:+1 isnt:+1
+465,378,4,fare:+1
+465,424,2,arent:+1 movie:+1 isnt:+1
+465,301,2,isnt:+1
+465,394,4,character:+1 percussion:+1
+465,144,4,chemistry:+1 character:+1 tfeel:+1 performances:+1
+465,1146,3,actors:+1 actress:+1 strings:+1 director:+1
+465,389,5,movie:+1
+465,121,4,moneys:+1
+465,132,2,character:+1 isnt:+1
+465,377,1,isnt:+1
+465,300,3,character:+1 movie:+1 isnt:+1
+465,1031,3,stringarrangements:+1
+465,407,3,character:+1 characters:+1 tfeel:+1 slapstick:+1
+465,145,2,character:+1
+465,605,3,enforcer:+1
+465,24,4,gags:+1
+465,143,4,character:+1
+465,182,5,moments:+1 productiondesign:+1
+465,1019,4,movies:+1
+465,677,4,character:+1 loveinterest:+1
+465,633,1,movie:+1
+465,73,4,director:+1
+465,146,3,romance:+1 isnt:+1
+465,308,5,twist:+1
+465,179,3,isnt:+1
+465,636,2,fathers:+1 movie:+1 screenplay:+1
+465,546,1,isnt:+1 snothing:+1
+465,613,1,isnt:+1 snothing:+1
+465,191,3,isnt:+1 performances:+1
+465,406,3,comedy:+1 tlook:+1
+465,138,3,isnt:+1
+465,113,4,tfeel:+1
+465,676,3,characters:+1 timing:+1
+465,644,4,character:+1 performance:+1
+465,649,3,films:+1 arent:+1 isnt:+1 tfeel:+1
+465,643,4,cast:+1
+465,632,2,arent:+1 isnt:+1
+465,1131,2,cameras:+1 backstabbing:+1 isnt:+1
+465,650,3,isnt:+1
+465,684,2,arent:+1 isnt:+1 violins:+1
+465,122,2,snothing:+1
+465,1076,1,actors:+1 isnt:+1 teen:+1
+465,323,4,characters:+1
+465,739,4,isnt:+1 performances:+1
+465,142,5,character:+1 movie:+1
+465,590,1,movie:+1
+465,619,4,character:+1 comedy:+1 guitar:+1
+465,427,2,character:+1 tshow:+1 isnt:+1
+465,622,1,movie:+1 genre:+1
+465,413,4,character:+1
+465,666,3,comedy:+1 genre:+1
+465,641,3,isnt:+1
+465,106,3,stunt:+1
+465,607,4,characters:+1
+465,101,3,character:+1 isnt:+1 vocals:+1 sitcom:+1
+465,564,4,crimeboss:+1 screen:+1 pyrotechnics:+1
+465,381,4,character:+1
+465,314,4,isnt:+1 scene:+1
+465,412,4,movie:+1
+465,167,4,character:+1 turns:+1
+465,75,4,character:+1 script:+1
+465,330,3,adventure:+1 movie:+1
+465,194,4,cast:+1
+465,163,3,actor:+1 turns:+1
+465,598,4,character:+1 wi:+1 performance:+1 script:+1
+465,772,4,character:+1 heist:+1
+465,159,4,performance:+1 plot:+1
+465,939,4,script:+1
+465,196,3,actors:+1
+465,503,3,performance:+1
+465,904,3,cast:+1
+465,137,4,moments:+1 performance:+1
+465,149,4,cast:+1 actors:+1 performance:+1 genre:+1
+465,410,4,snothing:+1
+465,955,5,acting:+1
+465,200,4,movie:+1
+466,1,4,actor:+1 reviews:+1 plot:+1 storyline:+1
+466,184,3,acting:+1
+466,441,3,humour:+1
+466,131,3,films:+1 isnt:+1
+466,484,4,arent:+1 moments:+1
+466,468,3,character:+1 plot:+1
+466,531,4,character:+1
+466,759,4,character:+1
+466,453,4,actresses:+1
+466,660,3,moments:+1 movie:+1
+466,458,5,specialeffects:+1 acting:+1
+466,1214,4,cast:+1
+466,508,4,movie:+1
+466,35,4,trailer:+1 character:+1
+466,390,3,actors:+1 character:+1
+466,547,5,plot:+1 storyline:+1
+466,627,4,humour:+1
+466,1050,4,actors:+1 casting:+1
+466,249,4,ending:+1
+466,410,5,actors:+1
+466,475,4,moments:+1
+466,500,2,films:+1
+466,533,3,specialeffects:+1
+466,1276,5,cast:+1
+466,493,5,performance:+1 movie:+1
+466,181,4,isnt:+1
+466,524,5,cast:+1 character:+1
+466,565,5,films:+1
+466,415,5,cast:+1 isnt:+1 scenes:+1
+466,52,5,actor:+1
+468,604,1,actor:+1
+468,613,5,films:+1 scenes:+1
+468,52,1,scenes:+1
+468,556,4,films:+1 storyline:+1 specialeffects:+1
+468,549,4,moments:+1 scenes:+1
+468,1276,3,plot:+1
+468,1192,4,actor:+1
+468,589,4,films:+1 isnt:+1
+468,419,3,familyfilm:+1
+469,629,4,movie:+1
+469,675,4,movie:+1
+469,251,5,movie:+1
+469,418,3,soundtrack:+1 movie:+1
+472,394,5,performances:+1
+472,417,4,ending:+1 isnt:+1
+472,657,4,cast:+1 actress:+1
+472,507,2,ending:+1 storyline:+1
+472,419,4,actors:+1
+472,72,4,movie:+1 plot:+1
+472,82,5,chemistry:+1 soundtrack:+1 character:+1 moments:+1 tfeel:+1 storyline:+1
+472,144,5,ending:+1 character:+1
+472,285,3,acting:+1
+472,128,2,reviews:+1
+472,585,5,comedy:+1
+472,146,3,cast:+1
+472,143,4,acting:+1
+473,644,4,familyfilm:+1 comedies:+1
+473,318,4,scenes:+1
+473,397,4,performance:+1
+473,190,5,acting:+1
+473,656,5,movie:+1
+473,609,5,comedy:+1
+483,302,5,films:+1 scenes:+1
+483,182,5,actress:+1
+483,533,2,performance:+1 characters:+1
+483,60,5,films:+1 performance:+1 performances:+1
+483,253,2,performance:+1
+483,59,3,acting:+1
+483,28,4,cast:+1 films:+1 wi:+1
+483,292,4,actor:+1
+483,220,3,cast:+1 movie:+1 specialeffects:+1
+483,90,5,films:+1 performance:+1
+483,26,2,character:+1
+483,73,4,plot:+1
+488,143,4,actors:+1
+488,585,5,films:+1
+488,447,5,films:+1 character:+1
+488,277,5,actors:+1
+488,560,3,actor:+1 character:+1
+488,1002,2,acting:+1
+488,471,1,character:+1 isnt:+1
+488,684,5,films:+1
+488,308,5,actress:+1 character:+1
+488,142,2,isnt:+1
+488,686,5,scenery:+1
+488,179,2,character:+1
+488,106,3,character:+1
+488,412,5,ending:+1 comedy:+1 semi:+1 script:+1
+488,167,5,films:+1 sportsmovie:+1
+488,598,3,viewers:+1
+497,959,5,films:+1 watch:+1
+497,25,4,performances:+1
+500,65,5,viewing:+1
+500,629,3,performance:+1
+500,1146,4,films:+1
+500,409,1,comedy:+1 genre:+1
+504,657,4,scenes:+1
+504,1062,5,plot:+1
+504,624,5,films:+1 performance:+1
+504,604,4,isnt:+1
+504,1043,5,acting:+1
+504,574,4,cast:+1 scenes:+1
+504,1037,3,directors:+1
+504,402,5,reviews:+1 acting:+1
+504,111,4,films:+1
+504,1069,5,movie:+1
+504,89,4,wi:+1
+504,82,5,character:+1 werent:+1
+508,607,4,character:+1
+508,637,4,performance:+1
+508,260,4,movies:+1 isnt:+1
+508,26,4,isnt:+1
+508,399,4,trailer:+1
+508,406,4,isnt:+1
