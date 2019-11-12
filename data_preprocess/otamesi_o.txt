@@ -1,0 +1,13 @@
+0,0,3,character:young character:unsavoury
+0,1,3,films:better performance:good isnt:hunt character:jealous tfeel:painful
+0,2,5,actress:young isnt:simply
+0,6,4,films:before actress:best humour:relegated
+0,7,4,isnt:suitable scenes:extended isnt:great
+0,9,4,isnt:dreadful horrorfilms:like character:filler isnt:good
+0,14,4,character:less isnt:realistic
+0,15,3,scenes:extra
+0,17,4,performance:good character:little
+0,21,4,tfeel:right humour:nice scenes:deleted moments:funny
+0,24,4,actors:sewers isnt:afraid
+0,25,2,arent:enough isnt:bad tlook:realistic
+0,26,3,disc:absence

@@ -28,7 +28,7 @@ for line in line2:
         #print(" ",end="")
         strr+=" "
     #print("")
-    print("strr:"+strr)
+    #print("strr:"+strr)
     entrylist.append(strr)
 
 print(entrylist)
