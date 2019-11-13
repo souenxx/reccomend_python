@@ -3,19 +3,18 @@ import re
 opinionlist=[]
 entrylist=[]
 
-f=open('otamesi_o.txt')
+f=open('big-dvd-Arff-cmf-sim_only_pos.txt')
 line2=f.readlines()
 f.close()
 
 for line in line2:
   part=re.split('[,: ]',line)
   i=4
-  flag=0
   while i < len(part):
     if not part[i] in opinionlist:
       opinion=part[i].rstrip('\n')
-      opinionlist.append(opinion)
-      flag=1
+      if not opinion in opinionlist:
+        opinionlist.append(opinion)
     i=i+2
 
 opinionlist2=[]
@@ -25,4 +24,6 @@ for ff in opinionlist:
   #print(str(j)+"="+ff)
   opinionlist2.append(ff)
   j=j+1
-print(opinionlist2)
+
+with open('amazon.wordmap',mode='w') as f:
+  f.write('\n'.join(opinionlist2))
