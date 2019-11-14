@@ -1,7 +1,8 @@
 import numpy as np
 import random
 
-file = "C:/Users/kidos/git/reccomend_python/data_preprocess/review_original_c.txt"
+#file = "C:/Users/kidos/git/reccomend_python/data_preprocess/trans_mter/amazon.entry"
+file = "C:/Users/kidos/git/reccomend_python/data_preprocess/trans_mter/amazon.uifwords_entry"
 
 def review_count(path):
     reviewer_list=[]
@@ -21,9 +22,11 @@ def review_count(path):
 def review_split(path,review_num):
     list1=[]
     list2=[]
+    list3=[]
     minilist=[]
     list1mini=[]
     list2mini=[]
+    list3mini=[]
     i=0
     card=0
     with open(path) as data_file:
@@ -39,14 +42,18 @@ def review_split(path,review_num):
                 for key in minilist:
                     z=z+1
                     random.shuffle(minilist)
-                    if z<(len(minilist)//5):
+                    if z<(len(minilist)//3):
                         list1mini.append(key)
-                    else:
+                    elif z < (2*len(minilist))//3:
                         list2mini.append(key)
-                list1.append(list1mini)
-                list2.append(list2mini)
+                    else:
+                        list3mini.append(key)
+                list1.append(list2mini+list3mini)
+                list2.append(list3mini+list1mini)
+                list3.append(list1mini+list2mini)
                 list1mini=[]
                 list2mini=[]
+                list3mini=[]
                 minilist=[]
                 minilist.append(line)
                 card=card+1
@@ -55,27 +62,28 @@ def review_split(path,review_num):
         for key in minilist:
             z=z+1
             random.shuffle(minilist)
-            if z<(len(minilist)//2):
+            if z< (len(minilist)//3):
                 list1mini.append(key)
-            else:
+            elif z< (2*len(minilist))//3:
                 list2mini.append(key)
-        list1.append(list1mini)
-        list2.append(list2mini)
-    return list1,list2
-
+            else:
+                list3mini.append(key)
+        list1.append(list2mini+list3mini)
+        list2.append(list3mini+list1mini)
+        list3.append(list1mini+list2mini)
+    return list1,list2,list3
+    
+def write_file(write_file,listt):
+  with open(write_file,'wt') as f:
+      for i in range(len(num)):
+          l=[]
+          l=map(str,listt[i])
+          for ele in l:
+              f.write(ele)
+              
 num=review_count(file)
-l1,l2=review_split(file,num)
+l1,l2,l3=review_split(file,num)
 
-with open("split1_5.txt",'wt') as f:
-    for i in range(len(num)):
-        l=[]
-        l=map(str,l1[i])
-        for ele in l:
-            f.write(ele)
-            
-with open("split4_5.txt",'wt') as f:
-    for i in range(len(num)):
-        l=[]
-        l=map(str,l2[i])
-        for ele in l:
-            f.write(ele)            
+write_file("amazon3_1.uifwords_entry",l1)            
+write_file("amazon3_2.uifwords_entry",l2)
+write_file("amazon3_3.uifwords_entry",l3)

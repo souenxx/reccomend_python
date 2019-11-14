@@ -1,10 +1,10 @@
 import numpy as np
 import random
-file = "C:/Users/kidos/desktop/efm_f_c.txt"
+#file = "C:/Users/kidos/desktop/efm_f_c.txt"
 #file2 = "C:/Users/kidos/desktop/efm_f_c.txt"
 
 #file = "C:/Users/kidos/desktop/mbpr_f.txt"
-file2 = "C:/Users/kidos/desktop/efm2_3new.txt"
+#file2 = "C:/Users/kidos/desktop/efm2_3new.txt"
 #file2 = "C:/Users/kidos/desktop/efm3_4new.txt"
 #file2 = "C:/Users/kidos/desktop/efm4_5new.txt"
 #file2 = "C:/Users/kidos/desktop/mbpr2_3.txt"
