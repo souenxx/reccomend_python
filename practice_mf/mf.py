@@ -91,7 +91,7 @@ pre=MF.predict(test_df)
 ret1=np.hstack((test_df, np.array(pre).reshape(-1, 1)))
 #予測値と実際の評価値の平均二乗誤差を出す
 print(ret1)
-print(np.sort(ret1,axis=0))
+print(ret1[0])
 #print(np.sqrt(pow((ret1[:,2]-ret1[:,3]),2).mean()))
 
 
