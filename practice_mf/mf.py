@@ -1,6 +1,7 @@
 import numpy as np
 import random
 import pandas as pd
+import math
 
 class MFx(object):
 	#各変数をセット
@@ -90,9 +91,44 @@ pre=MF.predict(test_df)
 #テストデータの評価値の後に、その予測値をもつ行列を作成
 ret1=np.hstack((test_df, np.array(pre).reshape(-1, 1)))
 #予測値と実際の評価値の平均二乗誤差を出す
-print(ret1)
-print(ret1[0])
-#print(np.sqrt(pow((ret1[:,2]-ret1[:,3]),2).mean()))
+print("pred")
+print(np.sqrt(pow((ret1[:,2]-ret1[:,3]),2).mean()))
 
+user=[]
+x=[]
+for i in np.argsort(ret1[:,0]):
+    user.append(ret1[i][0])
+    x.append(ret1[i])
+users=list(set(user))
 
+columns=['user','item','real','pred']
+
+y=pd.DataFrame(data=ret1, columns=columns, dtype='float')
+
+y.set_index("user",inplace=True)
+
+y_rank=y.sort_values(['user','real'],ascending=[True, False])
+
+ndcg=0
+fff=users
+for ii in fff:
+    f=y_rank.loc[ii,"real":"pred"].values.tolist()
+    f
+    dcg=0.0
+    dcg_p=0.0
+    s=1
+    if type(f[0])==float:
+        f=[f]
+    for i in f:
+       if s==1:
+        dcg+=i[1]
+        dcg_p+=i[0]
+        s+=1
+       else:
+        dcg+=i[1]/math.log2(s)
+        dcg_p+=i[0]/math.log2(s)
+        s+=1
+    ndcg+=dcg/dcg_p
+print("NDCG")
+print(ndcg/len(fff))
 
