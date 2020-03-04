@@ -124,11 +124,12 @@ for ii in fff:
         dcg+=i[1]
         dcg_p+=i[0]
         s+=1
-       else:
+       elif s<=10:
         dcg+=i[1]/math.log2(s)
         dcg_p+=i[0]/math.log2(s)
         s+=1
+       else:
+        break
     ndcg+=dcg/dcg_p
-print("NDCG")
+print("NDCG@10")
 print(ndcg/len(fff))
-
