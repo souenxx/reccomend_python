@@ -1,0 +1,634 @@
+@RELATION @user-item
+
+@ATTRIBUTE user STRING 
+@ATTRIBUTE item STRING 
+@ATTRIBUTE rating NUMERIC
+@ATTRIBUTE sentiment STRING
+@ATTRIBUTE side STRING
+
+@DATA
+522,383,5, </endperson14380>,</endperson383>
+522,309,5, </endperson14381>,</endperson309>
+522,1622,5, </endperson14382>,</endperson1622>
+522,1291,5, </endperson14383>,</endperson1291>
+523,1815,4,wi:+1 comedy:+1 </endperson14388>,</endperson1815>
+523,2138,5, </endperson14389>,120;523:2138;4;0.43342736456537667  </endperson2138>
+523,1732,4,comedy:+1 comedy:-1 </endperson14390>,</endperson1732>
+523,2134,4, </endperson14391>,</endperson2134>
+524,2984,3, </endperson14438>,</endperson2984>
+524,700,3, </endperson14439>,</endperson700>
+524,447,2,scenes:+1 </endperson14440>,</endperson447>
+524,716,4,soundtrack:+1 performances:+1 </endperson14441>,</endperson716>
+525,736,3, </endperson14444>,</endperson736>
+525,2054,3,character:+1 </endperson14445>,</endperson2054>
+525,1819,1,actor:+1 films:-1 </endperson14446>,</endperson1819>
+525,625,4,characters:-1 </endperson14447>,</endperson625>
+526,1900,5,character:+1 </endperson14459>,</endperson1900>
+526,1896,5,character:-1 </endperson14460>,</endperson1896>
+526,2403,1,movie:+1 isnt:-1 </endperson14461>,</endperson2403>
+526,1109,5,choc:-1 </endperson14462>,</endperson1109>
+527,1019,4, </endperson14468>,</endperson1019>
+527,951,5,films:+1 character:-1 </endperson14469>,</endperson951>
+527,2028,4, </endperson14470>,</endperson2028>
+527,1897,5,movie:+1 horror:-1 movie:-1 </endperson14471>,</endperson1897>
+528,963,3, </endperson14486>,</endperson963>
+528,1132,4,character:+1 comedymoments:+1 </endperson14487>,</endperson1132>
+528,732,5, </endperson14488>,157;528:732;4;0.0  </endperson732>
+528,2742,5, </endperson14489>,</endperson2742>
+529,838,5,films:+1 moments:-1 performances:-1 </endperson14492>,</endperson838>
+529,1726,5, </endperson14493>,</endperson1726>
+529,340,2, </endperson14494>,</endperson340>
+529,17,4,wi:+1 isnt:+1 rating:+1 films:-1 </endperson14495>,</endperson17>
+530,1131,5,specialeffects:+1 </endperson14501>,</endperson1131>
+530,142,4, </endperson14502>,</endperson142>
+530,1085,5,actors:+1 </endperson14503>,128;530:1085;5;0.22025943782105728  </endperson1085>
+530,671,4,movie:-1 </endperson14504>,</endperson671>
+531,179,4,scenery:+1 performances:+1 actors:-1 films:-1 reviews:-1 movie:-1 </endperson14509>,</endperson179>
+531,523,4, </endperson14510>,</endperson523>
+531,157,2, </endperson14511>,</endperson157>
+531,990,3,scenes:+1 </endperson14512>,</endperson990>
+532,1007,5,scenes:+1 scenes:-1 </endperson14518>,</endperson1007>
+532,515,4, </endperson14519>,2;532:515;4;0.3971190424948079  </endperson515>
+532,724,4,scenes:+1 </endperson14520>,382;532:724;4;0.34190540402502667  </endperson724>
+532,2167,4,cast:+1 movie:+1 </endperson14521>,385;532:2167;3;0.49407523867635605 656;532:2167;2;0.33531628998047935  </endperson2167>
+533,1719,5, </endperson14540>,</endperson1719>
+533,1403,5, </endperson14541>,</endperson1403>
+533,1674,5, </endperson14542>,</endperson1674>
+533,1561,4, </endperson14543>,</endperson1561>
+534,2538,2,movie:+1 </endperson14546>,</endperson2538>
+534,2168,2,movie:+1 </endperson14547>,</endperson2168>
+534,1267,5,specialeffects:+1 </endperson14548>,</endperson1267>
+534,743,5,wi:+1 isnt:+1 </endperson14549>,</endperson743>
+535,1463,5, </endperson14553>,</endperson1463>
+535,2551,4,actresses:+1 watch:-1 </endperson14554>,</endperson2551>
+535,2875,5,acting:+1 accent:-1 </endperson14555>,369;535:2875;4;0.36923913515848006  </endperson2875>
+535,1611,4, </endperson14556>,</endperson1611>
+536,1188,4, </endperson14560>,</endperson1188>
+536,544,2,plot:+1 script:-1 </endperson14561>,585;536:544;4;0.30406510718210633  </endperson544>
+536,2497,2,films:+1 isnt:+1 credits:-1 </endperson14562>,185;536:2497;4;0.461993815571221  </endperson2497>
+536,752,3,script:+1 </endperson14563>,702;536:752;3;0.31778222674540935  </endperson752>
+537,1220,5, </endperson14570>,</endperson1220>
+537,2930,5,movie:+1 movie:-1 </endperson14571>,422;537:2930;4;0.4091048705068956  </endperson2930>
+537,2650,5,storyline:+1 acting:+1 </endperson14572>,</endperson2650>
+537,2584,5, </endperson14573>,</endperson2584>
+538,2889,5,character:+1 isnt:+1 scenes:+1 character:-1 </endperson14576>,</endperson2889>
+538,999,5,character:+1 plot:+1 scenes:+1 actors:-1 humour:-1 </endperson14577>,</endperson999>
+538,710,4,characters:+1 casting:+1 acting:+1 character:-1 everyones:-1 </endperson14578>,</endperson710>
+538,2057,5, </endperson14579>,</endperson2057>
+539,811,4,isnt:+1 comedy:+1 </endperson14584>,111;539:811;4;0.5478045813291265  </endperson811>
+539,863,3,comedy:+1 trailer:-1 </endperson14585>,125;539:863;4;0.07436041664828164 237;539:863;5;0.495309507425966  </endperson863>
+539,1868,4,cast:+1 trailer:-1 moments:-1 plot:-1 </endperson14586>,79;539:1868;4;0.5395713775316605 97;539:1868;4;0.44832890649737456 239;539:1868;4;0.5804297393560023 384;539:1868;4;0.13389334837976796  </endperson1868>
+539,1889,5,character:+1 roles:+1 films:-1 character:-1 </endperson14587>,</endperson1889>
+540,442,5,acting:+1 character:-1 </endperson14701>,2;540:442;4;0.5244017532178762  </endperson442>
+540,2354,4,character:+1 character:-1 </endperson14702>,586;540:2354;4;0.3468829014121221  </endperson2354>
+540,888,3, </endperson14703>,7;540:888;4;0.5901695262888512 126;540:888;4;0.3455011281831941 232;540:888;4;0.44194119389927056 586;540:888;4;0.3468829014121221  </endperson888>
+540,2355,4,isnt:+1 humour:-1 </endperson14704>,142;540:2355;4;0.34727378422179755  </endperson2355>
+541,2565,4,horror:+1 </endperson14709>,</endperson2565>
+541,2633,4,movie:+1 </endperson14710>,</endperson2633>
+541,2102,5, </endperson14711>,</endperson2102>
+541,1439,5,cast:+1 </endperson14712>,557;541:1439;4;0.0  </endperson1439>
+542,703,5,animation:+1 </endperson14715>,</endperson703>
+542,1111,5,character:+1 </endperson14716>,</endperson1111>
+542,227,5,scenes:+1 specialeffects:+1 character:-1 </endperson14717>,</endperson227>
+542,1557,4,sexreferences:-1 </endperson14718>,</endperson1557>
+543,1598,4,craft:+1 </endperson14724>,44;543:1598;4;0.20412414523193156  </endperson1598>
+543,2943,4, </endperson14725>,</endperson2943>
+543,1407,4,movie:+1 </endperson14727>,</endperson1407>
+544,1493,5,movies:+1 performance:+1 scenes:+1 </endperson14731>,</endperson1493>
+544,2927,5, </endperson14732>,</endperson2927>
+544,1712,4,ending:+1 actors:-1 </endperson14733>,</endperson1712>
+544,105,5,movie:+1 </endperson14734>,</endperson105>
+545,615,4,performance:+1 acting:+1 character:-1 scenes:-1 </endperson14738>,</endperson615>
+545,207,5, </endperson14739>,</endperson207>
+545,1948,4,character:+1 plot:+1 twists:+1 </endperson14740>,</endperson1948>
+545,1175,4,character:+1 films:-1 watch:-1 comedy:-1 </endperson14741>,</endperson1175>
+546,1387,5,movie:+1 movie:-1 </endperson14744>,</endperson1387>
+546,1635,5,movie:+1 </endperson14745>,</endperson1635>
+546,1137,5,animation:+1 character:-1 moments:-1 movie:-1 </endperson14746>,</endperson1137>
+546,1908,5, </endperson14747>,</endperson1908>
+547,1823,4,character:+1 acting:+1 </endperson14751>,</endperson1823>
+547,1911,3,movie:+1 movie:-1 </endperson14752>,637;547:1911;4;0.5350778993994255  </endperson1911>
+547,763,1, </endperson14753>,</endperson763>
+547,2312,5,actor:+1 character:+1 characters:+1 watching:+1 </endperson14754>,142;547:2312;4;0.4705602526348406 263;547:2312;4;0.42037787785991365 608;547:2312;4;0.29892427208066563  </endperson2312>
+548,1644,4,plot:+1 beau:-1 </endperson14758>,</endperson1644>
+548,882,4, </endperson14759>,</endperson882>
+548,1580,3,cameraangles:+1 snothing:+1 </endperson14760>,</endperson1580>
+548,1272,4,performance:+1 </endperson14761>,</endperson1272>
+549,2827,5,films:+1 scenes:+1 films:-1 character:-1 tlook:-1 scene:-1 </endperson14779>,558;549:2827;4;0.3197803035996185  </endperson2827>
+549,161,4,acting:+1 character:-1 watch:-1 </endperson14780>,</endperson161>
+549,72,4,character:+1 </endperson14781>,389;549:72;4;0.40320620310879374  </endperson72>
+550,1808,4,films:+1 soundtrack:+1 character:+1 plot:+1 comedy:+1 hero:+1 films:-1 moving:-1 </endperson14792>,</endperson1808>
+550,1053,4,character:-1 </endperson14793>,615;550:1053;4;0.35109585193911685  </endperson1053>
+550,919,3,scenes:+1 script:+1 isnt:-1 </endperson14794>,</endperson919>
+550,146,4,cast:+1 performance:+1 plot:+1 character:-1 </endperson14795>,</endperson146>
+551,1898,5,character:+1 plot:+1 </endperson14804>,</endperson1898>
+551,1782,5, </endperson14805>,</endperson1782>
+551,121,4,scenes:+1 actors:-1 character:-1 movie:-1 </endperson14806>,</endperson121>
+551,1065,4, </endperson14807>,</endperson1065>
+552,1878,4,films:+1 stunt:+1 movie:-1 </endperson14817>,</endperson1878>
+552,129,3,isnt:+1 isnt:-1 </endperson14818>,</endperson129>
+552,1033,5,movie:+1 actionfilm:+1 </endperson14819>,</endperson1033>
+552,562,5,roles:+1 </endperson14820>,</endperson562>
+553,326,4, </endperson14823>,</endperson326>
+553,2359,5,casting:+1 </endperson14824>,</endperson2359>
+553,1776,5,movie:-1 </endperson14825>,</endperson1776>
+553,2379,5,films:+1 movie:+1 character:-1 movie:-1 </endperson14826>,</endperson2379>
+554,1355,5, </endperson14848>,</endperson1355>
+554,1375,5, </endperson14849>,</endperson1375>
+554,1088,5,childrens:+1 films:-1 </endperson14850>,66;554:1088;3;0.5933008728957315  </endperson1088>
+554,359,5, </endperson14851>,</endperson359>
+555,2432,4,movie:+1 movie:-1 </endperson14854>,</endperson2432>
+555,1060,5, </endperson14855>,</endperson1060>
+555,856,3,character:+1 actionsequences:+1 scenery:+1 movie:-1 </endperson14856>,</endperson856>
+555,547,5,specialeffects:+1 </endperson14857>,</endperson547>
+556,410,5, </endperson14863>,</endperson410>
+556,1439,5, </endperson14864>,</endperson1439>
+556,2514,5,performances:-1 </endperson14865>,</endperson2514>
+556,2675,5,actor:+1 </endperson14866>,355;556:2675;4;0.37347959101947326  </endperson2675>
+557,963,3, </endperson14872>,</endperson963>
+557,2494,1,fare:+1 characters:+1 character:-1 </endperson14873>,185;557:2494;4;0.0  </endperson2494>
+557,2991,4,soundtrack:+1 leather:+1 </endperson14874>,</endperson2991>
+558,1908,5,character:+1 moments:+1 moments:-1 isnt:-1 </endperson14946>,</endperson1908>
+558,468,3,soundtrack:+1 </endperson14947>,</endperson468>
+558,1832,5,character:-1 </endperson14948>,</endperson1832>
+558,1834,3, </endperson14949>,</endperson1834>
+559,2083,4,chemistry:-1 </endperson15029>,</endperson2083>
+559,2043,4, </endperson15030>,</endperson2043>
+559,1849,5,movie:+1 </endperson15031>,</endperson1849>
+559,847,4,arent:-1 comedy:-1 </endperson15032>,</endperson847>
+560,250,3,character:+1 </endperson15079>,0;560:250;4;0.4787975330029457 367;560:250;4;0.6033802493193486  </endperson250>
+560,46,5,movie:+1 films:-1 </endperson15080>,</endperson46>
+560,318,4, </endperson15081>,</endperson318>
+560,2508,5,isnt:+1 </endperson15082>,</endperson2508>
+561,1771,1, </endperson15086>,</endperson1771>
+561,2682,3, </endperson15087>,</endperson2682>
+561,2141,5,plot:+1 </endperson15088>,</endperson2141>
+561,1327,2,movie:-1 </endperson15089>,</endperson1327>
+562,1480,3,cast:+1 </endperson15103>,</endperson1480>
+562,58,5,films:+1 performance:+1 screen:+1 </endperson15104>,</endperson58>
+562,1441,4,character:+1 performance:+1 comedy:+1 </endperson15105>,</endperson1441>
+562,734,4,moments:-1 </endperson15106>,</endperson734>
+563,2550,4, </endperson15111>,596;563:2550;4;0.42633923943863783  </endperson2550>
+563,295,3, </endperson15112>,48;563:295;4;0.1985538327054761 321;563:295;4;0.5046205670449481  </endperson295>
+563,873,3, </endperson15113>,245;563:873;4;0.48601020236523795 294;563:873;4;0.5164973231407195 564;563:873;4;0.6786530123383806  </endperson873>
+563,1625,4,acting:+1 actor:-1 </endperson15114>,</endperson1625>
+564,137,4,character:+1 soundtrack:-1 character:-1 isnt:-1 </endperson15118>,</endperson137>
+564,2954,4,plot:+1 </endperson15119>,</endperson2954>
+564,2060,5,scenes:+1 casting:+1 </endperson15120>,</endperson2060>
+564,2916,3, </endperson15121>,</endperson2916>
+565,2109,5, </endperson15149>,</endperson2109>
+565,2106,4,screenplay:+1 films:-1 character:-1 </endperson15150>,262;565:2106;4;0.5986650475236834  </endperson2106>
+565,2262,4, </endperson15151>,</endperson2262>
+565,2869,3, </endperson15152>,</endperson2869>
+566,882,5,films:+1 </endperson15155>,</endperson882>
+566,2308,4, </endperson15157>,</endperson2308>
+566,2776,5,films:+1 character:+1 performance:+1 moving:+1 character:-1 </endperson15158>,278;566:2776;4;0.3576335596097793 437;566:2776;3;0.14577900499273944  </endperson2776>
+567,989,4,casting:+1 moments:-1 plot:-1 </endperson15170>,</endperson989>
+567,1583,5,soundtrack:+1 husbands:+1 lovestory:+1 </endperson15171>,266;567:1583;4;0.382530958381772  </endperson1583>
+567,2883,4,gangleader:-1 scene:-1 </endperson15172>,</endperson2883>
+567,264,5,storyline:+1 scene:-1 </endperson15173>,</endperson264>
+568,833,5,films:-1 </endperson15179>,</endperson833>
+568,2674,5,films:-1 </endperson15180>,</endperson2674>
+568,2633,5,screen:+1 </endperson15181>,367;568:2633;4;0.5141381323970496 541;568:2633;4;0.5095913419243298  </endperson2633>
+568,348,4,movie:+1 </endperson15182>,</endperson348>
+569,2804,5,movie:+1 scenes:+1 acting:+1 </endperson15187>,</endperson2804>
+569,2943,4, </endperson15188>,</endperson2943>
+569,902,2,semi:+1 plot:-1 </endperson15189>,</endperson902>
+569,1210,3,isnt:+1 acting:+1 </endperson15190>,</endperson1210>
+570,2995,4, </endperson15195>,</endperson2995>
+570,1355,5,soundtrack:+1 movie:+1 actors:-1 tfeel:-1 humour:-1 </endperson15196>,14;570:1355;4;0.4357918135755622 416;570:1355;4;0.5365806566683642 514;570:1355;4;0.3405473902970447 585;570:1355;4;0.32238683823868575 697;570:1355;4;0.3419524542098613  </endperson1355>
+570,1557,5,tlook:+1 beau:-1 </endperson15198>,38;570:1557;4;0.2603732407919849 585;570:1557;4;0.32238683823868575  </endperson1557>
+571,2989,4,cast:+1 soundtrack:+1 movie:+1 acting:+1 plot:-1 </endperson15202>,</endperson2989>
+571,2132,5,movie:-1 </endperson15203>,</endperson2132>
+571,331,4, </endperson15204>,</endperson331>
+571,2163,4, </endperson15205>,</endperson2163>
+572,1884,4, </endperson15209>,</endperson1884>
+572,666,5,actors:+1 </endperson15210>,</endperson666>
+572,717,5,watch:+1 character:-1 </endperson15211>,</endperson717>
+572,2462,5,movies:+1 moments:+1 comedy:+1 humour:+1 movies:-1 character:-1 scenes:-1 </endperson15212>,</endperson2462>
+573,974,4, </endperson15226>,</endperson974>
+573,2250,4, </endperson15227>,</endperson2250>
+573,1844,4,choc:-1 </endperson15228>,</endperson1844>
+573,1887,4,character:+1 character:-1 </endperson15229>,</endperson1887>
+574,438,4, </endperson15252>,</endperson438>
+574,2093,4,acting:+1 </endperson15253>,</endperson2093>
+574,2203,5, </endperson15254>,</endperson2203>
+574,1398,4,character:+1 watch:-1 </endperson15255>,</endperson1398>
+575,2170,4,comedymoments:+1 character:-1 </endperson15267>,577;575:2170;3;0.45868180291106786  </endperson2170>
+575,1709,4, </endperson15268>,</endperson1709>
+575,158,5,movie:+1 </endperson15269>,</endperson158>
+575,2864,5,characters:+1 scenes:+1 moments:-1 </endperson15270>,</endperson2864>
+576,1748,5,character:+1 character:-1 </endperson15285>,</endperson1748>
+576,1864,5,character:+1 character:-1 </endperson15286>,</endperson1864>
+576,1535,3,character:+1 character:-1 storyline:-1 </endperson15287>,</endperson1535>
+576,853,5,character:-1 </endperson15288>,</endperson853>
+577,445,4,horror:-1 plot:-1 </endperson15302>,</endperson445>
+577,1868,5,films:+1 </endperson15303>,</endperson1868>
+577,1889,4,movie:+1 performance:-1 moving:-1 </endperson15304>,382;577:1889;4;0.5179784223382485  </endperson1889>
+577,1879,3,films:-1 </endperson15305>,</endperson1879>
+578,1922,3,actors:+1 character:-1 tfeel:-1 </endperson15557>,</endperson1922>
+578,1163,2,watch:+1 plot:-1 </endperson15558>,</endperson1163>
+578,776,2, </endperson15559>,</endperson776>
+578,2216,4,tshow:+1 watch:-1 </endperson15560>,</endperson2216>
+579,1835,3,movie:+1 performances:-1 </endperson15564>,</endperson1835>
+579,475,1, </endperson15565>,</endperson475>
+579,122,5,humour:+1 scenes:+1 plot:-1 </endperson15566>,</endperson122>
+580,224,5,explosions:+1 </endperson15575>,</endperson224>
+580,2900,4, </endperson15576>,</endperson2900>
+580,466,5,actor:-1 films:-1 </endperson15577>,</endperson466>
+580,1750,5,character:+1 storyline:+1 </endperson15578>,</endperson1750>
+581,1025,3,character:+1 character:-1 </endperson15581>,</endperson1025>
+581,1514,5, </endperson15582>,</endperson1514>
+581,1477,5,wi:+1 isnt:-1 </endperson15583>,</endperson1477>
+581,1517,5,boyfriend:+1 </endperson15584>,</endperson1517>
+582,467,2, </endperson15606>,</endperson467>
+582,1834,5, </endperson15607>,</endperson1834>
+582,780,3, </endperson15608>,</endperson780>
+582,359,3, </endperson15609>,</endperson359>
+583,1446,4, </endperson15618>,</endperson1446>
+583,158,3,scenes:+1 acting:+1 actress:-1 plot:-1 scenes:-1 </endperson15619>,</endperson158>
+583,2041,5,watch:-1 </endperson15620>,</endperson2041>
+583,1107,4,watch:+1 </endperson15621>,</endperson1107>
+584,2131,4,movies:+1 actors:+1 performances:+1 acting:+1 credits:-1 </endperson15667>,</endperson2131>
+584,418,5,watch:-1 </endperson15668>,</endperson418>
+584,2141,5,actors:-1 watch:-1 acting:-1 </endperson15669>,496;584:2141;4;0.47457227136538893  </endperson2141>
+584,888,3,movie:+1 </endperson15670>,</endperson888>
+585,2132,2,comedy:-1 </endperson15685>,</endperson2132>
+585,433,4,chemistry:+1 humour:+1 script:+1 </endperson15686>,</endperson433>
+585,805,3,viewers:+1 strings:+1 humour:+1 character:-1 </endperson15687>,</endperson805>
+585,2084,4,production:+1 character:-1 fans:-1 </endperson15688>,</endperson2084>
+586,1887,3, </endperson16402>,</endperson1887>
+586,2660,5,moments:+1 </endperson16403>,</endperson2660>
+586,1564,5,character:-1 </endperson16404>,</endperson1564>
+586,1868,5, </endperson16405>,</endperson1868>
+587,1146,4,scene:-1 </endperson16493>,</endperson1146>
+587,3005,5,performance:+1 comedy:+1 character:-1 humour:-1 scenes:-1 </endperson16494>,</endperson3005>
+587,37,4,character:-1 fightsequences:-1 </endperson16495>,384;587:37;4;0.2030673512265948  </endperson37>
+587,1284,5,performance:+1 character:-1 characterisation:-1 </endperson16496>,9;587:1284;5;0.09124659412020197  </endperson1284>
+588,2882,4, </endperson16521>,</endperson2882>
+588,1276,4, </endperson16522>,</endperson1276>
+588,2862,3, </endperson16523>,</endperson2862>
+588,701,2, </endperson16524>,</endperson701>
+589,1627,5, </endperson16564>,</endperson1627>
+589,2068,4,movie:-1 </endperson16565>,</endperson2068>
+589,37,4, </endperson16566>,488;589:37;5;0.5289444115734165  </endperson37>
+589,830,2, </endperson16567>,</endperson830>
+590,2447,5,cast:+1 soundtrack:+1 films:+1 character:-1 scene:-1 </endperson16576>,</endperson2447>
+590,313,4,actress:+1 movies:-1 character:-1 </endperson16577>,</endperson313>
+590,2490,4, </endperson16578>,</endperson2490>
+590,2917,5,films:+1 </endperson16579>,</endperson2917>
+591,1837,2, </endperson16585>,</endperson1837>
+591,797,4,acting:+1 </endperson16586>,</endperson797>
+591,2182,4,movie:+1 </endperson16587>,</endperson2182>
+591,484,4,movie:+1 </endperson16588>,</endperson484>
+592,732,5,performances:+1 </endperson16602>,642;592:732;3;0.5794730531884816  </endperson732>
+592,774,4,ending:+1 isnt:+1 </endperson16603>,</endperson774>
+592,1153,4,cast:+1 actress:+1 </endperson16604>,577;592:1153;4;0.6219543645808645  </endperson1153>
+592,922,2,ending:+1 storyline:+1 movie:-1 </endperson16605>,128;592:922;4;0.5123747426380587 157;592:922;4;0.5119107437920166 504;592:922;4;0.29319843245375066  </endperson922>
+593,822,5, </endperson16639>,</endperson822>
+593,2135,5,films:-1 </endperson16640>,</endperson2135>
+593,2233,5,soundtrack:+1 character:+1 </endperson16641>,</endperson2233>
+593,2847,5, </endperson16642>,</endperson2847>
+594,450,5,star:+1 movie:+1 character:-1 </endperson16696>,</endperson450>
+594,1440,4,scenes:+1 character:-1 </endperson16697>,</endperson1440>
+594,181,4,plot:+1 isnt:-1 </endperson16698>,</endperson181>
+594,215,4, </endperson16699>,</endperson215>
+595,198,4,familyfilm:+1 roles:+1 movie:-1 reviews:-1 watch:-1 </endperson16706>,8;595:198;4;0.0  </endperson198>
+595,1907,4,character:+1 movie:+1 </endperson16707>,396;595:1907;4;0.42206680335509095  </endperson1907>
+595,923,3,familyfilm:+1 </endperson16708>,8;595:923;4;0.0 228;595:923;4;0.4200582256831509  </endperson923>
+595,1147,4,comedy:+1 movie:-1 </endperson16709>,</endperson1147>
+596,2619,3,films:+1 character:+1 suspense:+1 films:-1 </endperson16714>,495;596:2619;4;0.4878744514019888 557;596:2619;4;0.17568890402839643 585;596:2619;4;0.48437084275599385 615;596:2619;3;0.3499430945410841  </endperson2619>
+596,1557,3,character:+1 slife:+1 </endperson16715>,188;596:1557;4;0.6706118360249039  </endperson1557>
+596,873,2,films:+1 cast:+1 cast:-1 </endperson16716>,8;596:873;4;0.2098118752810605 33;596:873;4;0.23814337813372444 557;596:873;4;0.17568890402839643 563;596:873;4;0.42633923943863783 585;596:873;4;0.48437084275599385  </endperson873>
+597,2464,4, </endperson16738>,615;597:2464;4;0.25461538351597035  </endperson2464>
+597,1669,3,films:-1 </endperson16739>,</endperson1669>
+597,567,5,films:+1 </endperson16740>,</endperson567>
+597,303,3,films:+1 </endperson16741>,615;597:303;4;0.25461538351597035  </endperson303>
+598,1675,5,performance:+1 performances:+1 films:-1 </endperson16777>,</endperson1675>
+598,919,4,comedy:+1 movie:-1 scene:-1 </endperson16778>,8;598:919;4;0.21268085816488813 50;598:919;4;0.6237919391671312 585;598:919;4;0.610098906360179  </endperson919>
+598,1178,4,performance:+1 </endperson16779>,48;598:1178;4;0.0 410;598:1178;4;0.19107913294452417 564;598:1178;4;0.5989669933874685  </endperson1178>
+598,1450,5,performances:+1 </endperson16780>,25;598:1450;4;0.5148034948822944  </endperson1450>
+599,504,5,character:+1 </endperson16786>,</endperson504>
+599,2859,5, </endperson16787>,</endperson2859>
+599,1412,4, </endperson16788>,</endperson1412>
+599,1242,5, </endperson16789>,8;599:1242;4;0.2969432765359279  </endperson1242>
+600,1770,1, </endperson16792>,358;600:1770;5;0.3522040452477564  </endperson1770>
+600,506,3,films:+1 isnt:+1 character:-1 </endperson16793>,</endperson506>
+600,539,4,adventure:-1 </endperson16794>,</endperson539>
+600,1310,2,character:+1 specialeffects:+1 </endperson16795>,</endperson1310>
+601,2305,3,performance:+1 </endperson16858>,</endperson2305>
+601,961,4,performance:+1 character:-1 </endperson16860>,306;601:961;3;0.48956372241341195  </endperson961>
+601,1431,5,films:-1 character:-1 plottwists:-1 </endperson16861>,21;601:1431;4;0.2995000139692652  </endperson1431>
+602,1419,1, </endperson16865>,</endperson1419>
+602,210,3,movies:+1 </endperson16866>,</endperson210>
+603,2648,4,performance:+1 horror:+1 films:-1 isnt:-1 cameraangles:-1 lighting:-1 </endperson16872>,431;603:2648;4;0.39744242088954407  </endperson2648>
+603,1396,2,character:+1 script:-1 </endperson16873>,</endperson1396>
+603,124,4,films:+1 movie:+1 character:-1 movie:-1 </endperson16874>,</endperson124>
+603,3006,3,films:+1 tfeel:-1 scenes:-1 </endperson16875>,</endperson3006>
+604,1017,5,performances:+1 </endperson16883>,</endperson1017>
+604,1354,5,scenery:+1 </endperson16884>,</endperson1354>
+604,1066,5,acting:+1 scenes:-1 </endperson16886>,</endperson1066>
+605,2517,5,films:+1 script:-1 </endperson16891>,</endperson2517>
+605,2152,4,character:+1 movies:-1 scenes:-1 </endperson16892>,</endperson2152>
+605,1648,2,films:+1 character:+1 comedy:+1 comedy:-1 </endperson16893>,</endperson1648>
+605,2976,5, </endperson16894>,</endperson2976>
+606,2128,5, </endperson16911>,</endperson2128>
+606,1281,5, </endperson16912>,</endperson1281>
+606,1875,5,plot:+1 </endperson16913>,</endperson1875>
+606,2164,2,movie:+1 </endperson16914>,</endperson2164>
+607,1127,2,character:-1 </endperson16919>,</endperson1127>
+607,975,5, </endperson16920>,</endperson975>
+607,972,5,character:-1 movie:-1 </endperson16921>,</endperson972>
+607,1836,5,humour:+1 </endperson16922>,</endperson1836>
+608,575,5,films:+1 scenes:+1 isnt:-1 scene:-1 </endperson16933>,</endperson575>
+608,65,3,performance:+1 director:+1 scenes:+1 </endperson16934>,</endperson65>
+608,1859,5,southerndrawl:+1 actor:-1 </endperson16935>,488;608:1859;4;0.3862579414503926  </endperson1859>
+608,337,5,actress:+1 isnt:-1 </endperson16936>,</endperson337>
+609,1961,4,isnt:+1 comedy:+1 scenes:+1 comedy:-1 storyline:-1 scenes:-1 </endperson16969>,</endperson1961>
+609,1948,5, </endperson16970>,</endperson1948>
+609,1094,5,cast:+1 </endperson16971>,</endperson1094>
+610,89,4, </endperson16977>,</endperson89>
+610,1111,5, </endperson16978>,</endperson1111>
+610,121,4,actor:+1 actress:+1 </endperson16979>,</endperson121>
+611,2982,5,outtakes:+1 cast:+1 </endperson16988>,</endperson2982>
+611,2553,5, </endperson16989>,</endperson2553>
+611,2765,5, </endperson16990>,</endperson2765>
+612,11,4,character:+1 performance:+1 storyline:+1 scenes:+1 </endperson17003>,</endperson11>
+612,303,5,performances:-1 </endperson17004>,</endperson303>
+612,1335,5, </endperson17005>,</endperson1335>
+613,1097,5,movies:+1 movie:+1 twists:-1 </endperson17010>,</endperson1097>
+613,488,5,subtitles:+1 movie:-1 </endperson17011>,</endperson488>
+613,752,5, </endperson17012>,</endperson752>
+614,521,5,wi:+1 movie:-1 isnt:-1 humour:-1 </endperson17019>,</endperson521>
+614,1848,5,films:+1 cast:+1 </endperson17020>,</endperson1848>
+614,732,5,acting:+1 </endperson17021>,8;614:732;4;0.1373659082220079 558;614:732;5;0.3607212610905375  </endperson732>
+615,600,4,movies:+1 movie:+1 cast:-1 comedy:-1 </endperson17035>,</endperson600>
+615,1853,3, </endperson17036>,183;615:1853;3;0.6361553921508705  </endperson1853>
+615,121,2,scenes:-1 </endperson17037>,126;615:121;3;0.643426969897396 488;615:121;4;0.3667741929292865  </endperson121>
+616,1272,4, </endperson17138>,</endperson1272>
+616,1980,4,arent:-1 isnt:-1 </endperson17139>,</endperson1980>
+617,1315,2, </endperson17146>,</endperson1315>
+617,176,5, </endperson17147>,</endperson176>
+618,1261,1,plot:+1 </endperson17157>,</endperson1261>
+618,418,4,plot:+1 </endperson17158>,</endperson418>
+619,1507,5, </endperson17163>,317;619:1507;4;0.255242875236233  </endperson1507>
+619,2953,5,films:+1 video:+1 </endperson17164>,</endperson2953>
+619,2806,5, </endperson17165>,</endperson2806>
+620,2685,2,movie:+1 screen:+1 </endperson17170>,</endperson2685>
+620,363,5,director:+1 </endperson17171>,448;620:363;4;0.22804547840451406  </endperson363>
+621,1689,3,acting:+1 </endperson17306>,</endperson1689>
+621,906,5, </endperson17307>,477;621:906;3;0.10447823094108  </endperson906>
+621,418,5, </endperson17308>,328;621:418;4;0.33934293496942436  </endperson418>
+622,1678,5, </endperson17316>,</endperson1678>
+622,696,5, </endperson17317>,465;622:696;4;0.4797107045518689  </endperson696>
+623,899,4,scenes:-1 </endperson17333>,335;623:899;4;0.44229215285335854 478;623:899;3;0.37196295264434287  </endperson899>
+623,1477,4, </endperson17334>,457;623:1477;3;0.1982934293486649  </endperson1477>
+624,2584,4, </endperson17345>,</endperson2584>
+624,689,5,acting:+1 </endperson17346>,</endperson689>
+624,1630,5, </endperson17347>,</endperson1630>
+625,2603,5,performances:+1 films:-1 </endperson17352>,219;625:2603;3;0.4802572537812555 473;625:2603;3;0.4415799287327251  </endperson2603>
+625,419,5,moments:+1 watch:-1 </endperson17353>,1;625:419;4;0.6530803589429018 328;625:419;4;0.6332266818742578  </endperson419>
+625,1112,4, </endperson17354>,</endperson1112>
+626,2900,2, </endperson17367>,</endperson2900>
+626,700,3, </endperson17368>,4;626:700;4;0.26611055218732593 79;626:700;4;0.1353366584787038 98;626:700;4;0.2853778912637719 235;626:700;4;0.3012656823907425  </endperson700>
+626,1912,2, </endperson17369>,81;626:1912;4;0.19148648116740907 539;626:1912;4;0.3513231047419483  </endperson1912>
+627,894,3,movie:-1 </endperson17404>,</endperson894>
+627,2597,3,acting:-1 </endperson17405>,</endperson2597>
+627,854,4,budget:-1 </endperson17406>,</endperson854>
+628,699,5,movie:+1 screen:+1 </endperson17411>,</endperson699>
+628,1279,5,movie:+1 </endperson17412>,</endperson1279>
+628,442,5,oscar:+1 directors:-1 </endperson17413>,</endperson442>
+629,225,4, </endperson17436>,</endperson225>
+629,1116,3,watch:-1 </endperson17437>,</endperson1116>
+629,732,4, </endperson17438>,</endperson732>
+630,2192,4,actors:+1 moments:-1 </endperson17443>,</endperson2192>
+630,85,5, </endperson17444>,</endperson85>
+630,89,4,ending:+1 plot:+1 </endperson17445>,</endperson89>
+631,2628,2, </endperson17474>,</endperson2628>
+631,555,5,films:+1 movie:+1 </endperson17475>,2;631:555;4;0.510941108557612  </endperson555>
+631,203,1, </endperson17476>,</endperson203>
+632,1726,5,movie:+1 movie:-1 </endperson17503>,</endperson1726>
+632,1362,5, </endperson17504>,</endperson1362>
+632,736,5,movie:+1 scenes:+1 </endperson17505>,</endperson736>
+633,713,5,reviews:+1 </endperson17562>,</endperson713>
+633,766,5, </endperson17563>,</endperson766>
+633,1899,3, </endperson17564>,</endperson1899>
+634,501,4, </endperson17582>,2;634:501;4;0.22825297615701334  </endperson501>
+634,1131,2, </endperson17583>,81;634:1131;3;0.3286803316938798 341;634:1131;3;0.4411360365634748  </endperson1131>
+634,2226,1,character:+1 </endperson17584>,</endperson2226>
+635,225,5,arent:+1 character:+1 scenes:+1 </endperson17592>,0;635:225;4;0.19030875015691173 7;635:225;4;0.20331252594385485  </endperson225>
+635,186,3,character:+1 roles:+1 character:-1 rating:-1 </endperson17593>,0;635:186;4;0.19030875015691173  </endperson186>
+635,2496,5,isnt:+1 plot:+1 specialeffects:+1 acting:+1 films:-1 isnt:-1 plot:-1 watch:-1 scenes:-1 </endperson17594>,</endperson2496>
+636,2225,4,scenery:+1 character:-1 scenes:-1 </endperson17601>,</endperson2225>
+636,1104,5,scenes:+1 plot:-1 </endperson17602>,</endperson1104>
+636,1817,5,performances:+1 </endperson17603>,</endperson1817>
+637,2658,5, </endperson17607>,</endperson2658>
+637,1153,4,scenes:+1 watch:-1 </endperson17608>,388;637:1153;4;0.2546359108977774 392;637:1153;4;0.2573524128785196 488;637:1153;4;0.42268953188107194  </endperson1153>
+637,2445,4,acting:+1 character:-1 acting:-1 </endperson17609>,</endperson2445>
+638,1500,3,character:-1 </endperson17644>,</endperson1500>
+638,2451,4, </endperson17645>,</endperson2451>
+638,2008,4, </endperson17646>,</endperson2008>
+639,1568,5,films:+1 character:+1 </endperson17650>,</endperson1568>
+639,1511,5,horror:+1 tension:-1 character:-1 </endperson17651>,413;639:1511;4;0.4513568224323177  </endperson1511>
+640,2083,5,genre:+1 </endperson17660>,</endperson2083>
+640,970,3,character:+1 </endperson17661>,</endperson970>
+640,1815,5, </endperson17662>,</endperson1815>
+641,3005,5, </endperson17670>,</endperson3005>
+641,2018,4,screen:+1 character:-1 </endperson17671>,97;641:2018;2;0.3969385994944127  </endperson2018>
+641,2477,1,character:+1 wasnt:+1 character:-1 </endperson17672>,</endperson2477>
+642,175,4,soundtrack:+1 plot:+1 tfeel:+1 </endperson17677>,</endperson175>
+642,1006,4,wi:+1 specialeffects:+1 </endperson17678>,</endperson1006>
+642,174,5,films:+1 </endperson17679>,</endperson174>
+643,1541,4,genre:+1 scenes:-1 </endperson17705>,</endperson1541>
+643,552,5,cast:+1 </endperson17706>,</endperson552>
+643,72,4,scenes:-1 </endperson17707>,</endperson72>
+644,466,3, </endperson17720>,71;644:466;4;0.5236142362681008  </endperson466>
+644,465,4, </endperson17721>,</endperson465>
+644,72,5, </endperson17722>,103;644:72;4;0.404469986499004  </endperson72>
+645,787,5, </endperson17739>,</endperson787>
+645,1410,5,soundtrack:+1 movie:-1 isnt:-1 </endperson17740>,</endperson1410>
+645,1064,5,acting:+1 </endperson17741>,</endperson1064>
+646,85,4,movies:+1 cast:+1 </endperson17745>,</endperson85>
+646,1087,3,performance:+1 character:-1 </endperson17746>,</endperson1087>
+646,533,4,films:+1 acting:+1 films:-1 character:-1 movie:-1 </endperson17747>,</endperson533>
+647,2664,5,performance:+1 scenes:+1 </endperson17752>,</endperson2664>
+647,2973,5,cast:+1 </endperson17753>,</endperson2973>
+647,2986,5,scenes:+1 </endperson17754>,</endperson2986>
+648,953,4,character:-1 </endperson17762>,</endperson953>
+648,779,5, </endperson17763>,</endperson779>
+648,2441,5, </endperson17764>,</endperson2441>
+649,2777,5, </endperson17769>,</endperson2777>
+649,1532,4,storyline:-1 </endperson17770>,</endperson1532>
+649,1217,4, </endperson17771>,</endperson1217>
+650,680,3,movie:+1 </endperson17777>,</endperson680>
+650,1323,5,wi:+1 </endperson17779>,</endperson1323>
+651,1466,5, </endperson17783>,</endperson1466>
+651,2417,5, </endperson17784>,</endperson2417>
+651,2016,5, </endperson17785>,</endperson2016>
+652,297,4,actress:+1 performance:+1 </endperson17793>,</endperson297>
+652,27,5,soundtrack:+1 films:+1 wi:+1 script:+1 moments:-1 tlook:-1 </endperson17794>,</endperson27>
+652,2062,4,performance:+1 actor:-1 </endperson17795>,</endperson2062>
+653,999,5, </endperson17801>,</endperson999>
+653,944,5,director:+1 movie:-1 </endperson17802>,</endperson944>
+653,1650,4,stunt:+1 movie:+1 movie:-1 </endperson17803>,</endperson1650>
+654,2861,5,moments:-1 </endperson17808>,</endperson2861>
+654,2726,5,star:+1 actors:-1 character:-1 </endperson17809>,</endperson2726>
+654,980,2,plot:+1 </endperson17810>,</endperson980>
+655,1464,5,character:+1 acting:+1 movie:-1 screen:-1 </endperson17831>,</endperson1464>
+655,983,4, </endperson17832>,</endperson983>
+656,1928,5, </endperson17836>,</endperson1928>
+656,2026,5,character:+1 wi:+1 actors:-1 </endperson17837>,</endperson2026>
+656,1622,5,movie:+1 </endperson17838>,</endperson1622>
+657,1629,4,isnt:+1 moments:-1 watch:-1 </endperson17843>,</endperson1629>
+657,2764,4,plot:+1 specialeffects:+1 score:-1 acting:-1 </endperson17844>,</endperson2764>
+657,642,3,character:+1 soundtrack:-1 </endperson17845>,</endperson642>
+658,1124,5,performance:+1 </endperson17860>,</endperson1124>
+658,236,4,performance:+1 </endperson17861>,</endperson236>
+658,575,4,acting:+1 character:-1 scenes:-1 </endperson17862>,636;658:575;5;0.15747799595925138  </endperson575>
+659,124,5,movie:+1 character:-1 </endperson17867>,603;659:124;4;0.5162200618159336  </endperson124>
+659,743,5, </endperson17868>,33;659:743;4;0.4290382717063943  </endperson743>
+660,558,5,movie:-1 </endperson17873>,</endperson558>
+660,690,5,acting:+1 isnt:-1 scenes:-1 </endperson17874>,</endperson690>
+660,1246,5, </endperson17875>,</endperson1246>
+661,1440,5, </endperson17879>,</endperson1440>
+661,469,2,rating:+1 wasnt:-1 </endperson17880>,396;661:469;4;0.4448917779772745  </endperson469>
+661,1448,5, </endperson17881>,</endperson1448>
+662,1033,5,screens:+1 </endperson17901>,340;662:1033;3;0.4560239163681743  </endperson1033>
+662,2168,4, </endperson17902>,</endperson2168>
+662,224,3,movie:+1 </endperson17903>,</endperson224>
+663,229,1,plot:-1 </endperson17908>,</endperson229>
+663,1129,5, </endperson17909>,</endperson1129>
+663,2318,2,actor:+1 screentime:-1 </endperson17910>,</endperson2318>
+664,565,4, </endperson17915>,</endperson565>
+664,1578,4,films:+1 </endperson17916>,</endperson1578>
+664,1059,5,moments:+1 character:-1 moments:-1 </endperson17917>,</endperson1059>
+665,1411,5,character:+1 viewers:+1 performances:+1 acting:+1 films:-1 character:-1 </endperson17926>,</endperson1411>
+665,2585,4,actors:+1 plot:+1 isnt:+1 scenes:+1 performances:+1 acting:+1 </endperson17927>,</endperson2585>
+665,1845,5,character:+1 </endperson17928>,516;665:1845;4;0.0  </endperson1845>
+666,2245,4,character:-1 </endperson17932>,</endperson2245>
+666,84,4, </endperson17933>,</endperson84>
+666,2347,3,storyline:-1 specialeffects:-1 </endperson17934>,</endperson2347>
+667,2889,4,scenes:+1 </endperson17939>,</endperson2889>
+667,234,4,films:-1 </endperson17940>,</endperson234>
+667,1068,4,character:+1 comedy:+1 extras:+1 scene:-1 </endperson17941>,</endperson1068>
+668,2194,4,movie:+1 scenes:+1 scores:-1 </endperson17960>,</endperson2194>
+668,2880,5,character:-1 </endperson17961>,</endperson2880>
+668,1087,4, </endperson17962>,</endperson1087>
+669,387,4, </endperson17969>,</endperson387>
+669,2399,4,movie:+1 </endperson17970>,</endperson2399>
+669,2997,1,movie:+1 movies:-1 </endperson17971>,</endperson2997>
+670,1513,5, </endperson17975>,</endperson1513>
+670,230,5,scenery:+1 </endperson17976>,</endperson230>
+670,199,4,plot:+1 performances:+1 </endperson17977>,</endperson199>
+671,1078,4, </endperson17994>,</endperson1078>
+671,1114,4, </endperson17995>,</endperson1114>
+671,2997,3,movies:+1 films:-1 character:-1 </endperson17996>,</endperson2997>
+672,371,4,character:+1 script:-1 </endperson18006>,</endperson371>
+672,1648,3,comedy:+1 </endperson18007>,</endperson1648>
+672,1301,3, </endperson18008>,</endperson1301>
+673,1253,3,script:-1 </endperson18029>,8;673:1253;4;0.0  </endperson1253>
+673,1640,5,acting:+1 character:-1 </endperson18030>,</endperson1640>
+673,1583,4,movie:+1 plot:+1 acting:+1 moments:-1 plot:-1 </endperson18031>,109;673:1583;3;0.5212826838474784 218;673:1583;4;0.3831029033265826 249;673:1583;4;0.43149028668191136 250;673:1583;4;0.4840290728269553 259;673:1583;4;0.0 266;673:1583;4;0.3285880626525659  </endperson1583>
+674,1246,5, </endperson18035>,</endperson1246>
+674,1648,4, </endperson18036>,</endperson1648>
+674,1270,5, </endperson18037>,</endperson1270>
+675,363,4, </endperson18042>,</endperson363>
+675,380,5,films:+1 director:+1 credits:-1 </endperson18043>,</endperson380>
+675,388,5,movie:+1 </endperson18044>,</endperson388>
+676,2811,4, </endperson18052>,</endperson2811>
+676,675,5, </endperson18053>,</endperson675>
+676,1714,4, </endperson18054>,</endperson1714>
+677,2701,5,films:+1 plot:+1 plot:-1 budget:-1 </endperson18060>,</endperson2701>
+677,2878,5,actor:+1 character:+1 movie:+1 scene:-1 </endperson18061>,</endperson2878>
+678,673,5,actors:+1 </endperson18089>,473;678:673;4;0.1725315220443595  </endperson673>
+678,390,3, </endperson18090>,1;678:390;4;0.26133255689645574 465;678:390;4;0.11690067052266895  </endperson390>
+678,833,4,movies:+1 character:+1 films:-1 </endperson18091>,321;678:833;4;0.12520766527464522 438;678:833;4;0.27801413390942864 448;678:833;4;0.17203607740021043 620;678:833;4;0.12959062369106433  </endperson833>
+679,748,4,actors:+1 </endperson18097>,</endperson748>
+679,712,5,moments:+1 movie:+1 </endperson18098>,</endperson712>
+680,2968,5,films:+1 acting:+1 </endperson18136>,</endperson2968>
+681,1129,4,actor:+1 isnt:-1 </endperson18145>,</endperson1129>
+681,1005,4,films:+1 character:+1 storyline:+1 character:-1 </endperson18146>,</endperson1005>
+681,2170,4, </endperson18147>,</endperson2170>
+682,1200,3,movie:-1 </endperson18152>,</endperson1200>
+682,2792,5,performance:+1 </endperson18153>,</endperson2792>
+682,337,5,movie:-1 </endperson18154>,</endperson337>
+683,36,4,character:+1 </endperson18160>,</endperson36>
+683,260,1,movie:+1 </endperson18161>,</endperson260>
+683,812,4,accent:-1 </endperson18162>,7;683:812;4;0.4557799585622744  </endperson812>
+684,2266,4, </endperson18170>,</endperson2266>
+684,1453,5,viewing:-1 </endperson18171>,</endperson1453>
+684,2711,5, </endperson18172>,</endperson2711>
+685,1124,2,wi:+1 films:-1 </endperson18176>,</endperson1124>
+685,1202,5, </endperson18177>,</endperson1202>
+685,223,4, </endperson18178>,</endperson223>
+686,2005,3, </endperson18185>,</endperson2005>
+686,1350,5, </endperson18186>,</endperson1350>
+686,2004,5,smells:-1 </endperson18187>,</endperson2004>
+687,2925,4,movie:-1 </endperson18192>,</endperson2925>
+687,2589,3,movie:+1 scenes:+1 scene:-1 </endperson18193>,</endperson2589>
+687,882,4,performance:+1 movie:+1 scenes:-1 </endperson18194>,</endperson882>
+688,204,5, </endperson18204>,</endperson204>
+688,2556,3, </endperson18205>,</endperson2556>
+688,1156,4,plot:+1 </endperson18206>,</endperson1156>
+689,1783,4, </endperson18218>,</endperson1783>
+689,834,5,soundtrack:+1 movie:+1 </endperson18219>,</endperson834>
+689,1225,5,movie:+1 </endperson18220>,</endperson1225>
+690,2595,3,scenes:+1 </endperson18224>,</endperson2595>
+690,732,5,soundtrack:+1 specialeffects:+1 scenes:+1 </endperson18225>,</endperson732>
+690,1927,5,character:-1 </endperson18226>,</endperson1927>
+691,246,5,actors:+1 watch:+1 character:-1 </endperson18238>,</endperson246>
+691,1410,1, </endperson18239>,</endperson1410>
+691,2203,5, </endperson18240>,</endperson2203>
+692,2255,5, </endperson18262>,</endperson2255>
+692,269,5,character:-1 </endperson18263>,</endperson269>
+692,1054,5, </endperson18264>,</endperson1054>
+693,870,3,semi:+1 </endperson18272>,</endperson870>
+693,1953,3, </endperson18273>,</endperson1953>
+693,303,5,performances:+1 </endperson18274>,</endperson303>
+694,682,4,acting:+1 disc:-1 </endperson18281>,</endperson682>
+694,585,2,watch:-1 </endperson18282>,</endperson585>
+694,2175,4,watch:-1 </endperson18283>,</endperson2175>
+695,1097,5,character:+1 score:-1 character:-1 </endperson18307>,</endperson1097>
+695,2420,5,comedy:+1 cast:-1 </endperson18308>,</endperson2420>
+695,2999,5,acting:+1 </endperson18309>,</endperson2999>
+696,310,5,films:+1 character:-1 scenes:-1 acting:-1 </endperson18322>,</endperson310>
+696,1231,4,cast:+1 comedy:+1 scenes:-1 </endperson18323>,</endperson1231>
+696,1404,4, </endperson18324>,</endperson1404>
+697,551,4,movies:-1 </endperson18328>,</endperson551>
+697,1362,5,movie:+1 scenes:+1 acting:+1 movie:-1 comedy:-1 </endperson18329>,</endperson1362>
+697,593,5,movie:+1 </endperson18330>,</endperson593>
+698,151,4,fare:+1 </endperson18335>,</endperson151>
+698,1752,2,films:+1 characters:-1 plot:-1 fans:-1 </endperson18336>,</endperson1752>
+698,2889,5, </endperson18337>,</endperson2889>
+699,1568,5,character:+1 movie:+1 scenes:+1 isnt:-1 </endperson18346>,</endperson1568>
+699,2608,3,scenes:+1 actors:-1 </endperson18347>,</endperson2608>
+699,1359,5, </endperson18348>,</endperson1359>
+700,1772,5,directing:+1 </endperson18352>,</endperson1772>
+700,2193,4,movie:-1 rating:-1 budget:-1 </endperson18353>,</endperson2193>
+700,342,5,wi:+1 horror:+1 scenes:+1 rating:-1 </endperson18354>,</endperson342>
+701,135,5, </endperson18366>,</endperson135>
+701,1612,5, </endperson18367>,</endperson1612>
+701,139,5, </endperson18368>,</endperson139>
+702,1330,2,cast:+1 </endperson18372>,</endperson1330>
+702,2395,4,cast:+1 director:+1 </endperson18373>,</endperson2395>
+702,126,4, </endperson18374>,</endperson126>
+703,1255,3, </endperson18389>,</endperson1255>
+703,1664,4, </endperson18390>,</endperson1664>
+703,1498,4, </endperson18391>,</endperson1498>
+704,621,4,films:+1 </endperson18397>,</endperson621>
+704,926,4,character:-1 </endperson18398>,</endperson926>
+704,2105,4, </endperson18399>,</endperson2105>
+705,596,5, </endperson18403>,</endperson596>
+705,2987,4,comedy:+1 scenes:-1 </endperson18404>,585;705:2987;4;0.4118248200044883  </endperson2987>
+705,1619,5,films:-1 watch:-1 </endperson18405>,</endperson1619>
+706,3000,3,storyline:+1 guys:-1 </endperson18409>,615;706:3000;4;0.0  </endperson3000>
+706,1537,4,cast:+1 moments:-1 watch:-1 isnt:-1 </endperson18411>,</endperson1537>
+707,1515,3,character:-1 </endperson18428>,</endperson1515>
+707,750,5, </endperson18429>,163;707:750;4;0.45552082473229316  </endperson750>
+707,2798,5,character:+1 character:-1 </endperson18430>,291;707:2798;5;0.6062691897319568 585;707:2798;4;0.4548783084118939  </endperson2798>
+708,1512,3, </endperson18435>,</endperson1512>
+708,751,5, </endperson18436>,</endperson751>
+708,710,2,acting:+1 </endperson18437>,4;708:710;4;0.6029240506183101  </endperson710>
+709,654,5,films:+1 </endperson18442>,43;709:654;3;0.0 410;709:654;5;0.0  </endperson654>
+709,412,5, </endperson18443>,</endperson412>
+709,2649,4, </endperson18444>,</endperson2649>
